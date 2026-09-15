@@ -30,7 +30,7 @@ export default function AskAiWidget() {
   return (
     <>
       {open && (
-        <div className="fixed bottom-24 right-4 sm:right-5 z-40 w-[380px] max-w-[calc(100vw-2rem)] anim-fade-up">
+        <div className="fixed bottom-24 left-4 sm:left-5 z-40 w-[380px] max-w-[calc(100vw-2rem)] anim-fade-up">
           <div className="bg-white rounded-3xl border border-slate-200 shadow-lift overflow-hidden">
             <div className="bg-slate-900 text-white px-4 py-3 flex items-center gap-2.5">
               <span className="relative flex w-2.5 h-2.5">
@@ -89,12 +89,12 @@ export default function AskAiWidget() {
         </div>
       )}
       <button onClick={() => setOpen(o => !o)} title="Ask AI"
-        className={`fixed bottom-5 right-4 sm:right-5 z-40 group flex items-center gap-2 rounded-full pl-4 pr-5 py-3.5 font-bold text-white shadow-lift transition-all hover:scale-105 active:scale-95 ${
+        className={`fixed bottom-5 left-4 sm:left-5 z-40 group flex items-center gap-2 rounded-full pl-4 pr-5 py-3.5 font-bold text-white shadow-lift transition-all hover:scale-105 active:scale-95 ${
           open ? 'bg-slate-900' : 'bg-gradient-to-r from-indigo-600 via-violet-600 to-fuchsia-600'}`}>
         <span className="text-lg leading-none">{open ? '✕' : '✦'}</span>
         <span className="text-sm">{open ? 'Close' : 'Ask AI'}</span>
         {!open && (
-          <span className="absolute -top-1 -right-1 flex w-3.5 h-3.5">
+          <span className="absolute -top-1 -left-1 flex w-3.5 h-3.5">
             <span className="absolute inline-flex w-full h-full rounded-full bg-emerald-400 opacity-70 animate-ping" />
             <span className="relative inline-flex w-3.5 h-3.5 rounded-full bg-emerald-400 border-2 border-white" />
           </span>
