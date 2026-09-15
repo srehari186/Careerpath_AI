@@ -74,8 +74,8 @@ cd frontend && npm install && npm run dev   # http://localhost:5173
 ```
 
 ## 11. Deployment
-- Frontend → **Vercel**: root `frontend/`, build `npm run build`, output `dist`, env `VITE_API_URL=<backend-url>`.
-- Backend → **Render/Railway**: `Dockerfile` included (builds dataset→model→KB→vectors at image build); start `uvicorn backend.main:app --host 0.0.0.0 --port $PORT`. Set `VECTOR_STORE=tfidf` (default) for slim deploy.
+- **Vercel, full stack (recommended):** import the repo with no Root Directory override. `vercel.json` builds `frontend/` to static hosting and serves the FastAPI app (`api/index.py` → same `backend.main:app`) as serverless functions under `/api/*`; `frontend/.env.production` points the UI at `/api`, so frontend + backend share one domain with zero CORS setup. Model `.pkl` files and the vector store are committed, so no build-time training is needed. Note: hobby-plan functions cap at ~10 s per request — all endpoints respond in <3 s warm (cold starts take a few seconds while sklearn loads).
+- Split alternative: frontend → **Vercel** (root `frontend/`, env `VITE_API_URL=<backend-url>`); backend → **Render/Railway** (`Dockerfile` included; start `uvicorn backend.main:app --host 0.0.0.0 --port $PORT`, `VECTOR_STORE=tfidf`).
 - `docker-compose.yml` runs both locally.
 
 ## 12. Hackathon Stage Mapping
