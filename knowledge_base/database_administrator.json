@@ -1,0 +1,83 @@
+{
+  "career_role": "Database Administrator",
+  "description": "Administers databases: performance, backups, HA, and security.",
+  "responsibilities": [
+    "Install/tune databases",
+    "Backups and recovery",
+    "HA/replication",
+    "Access control"
+  ],
+  "prerequisites": [
+    "SQL strong; Linux basics"
+  ],
+  "required_skills": [
+    "SQL",
+    "PostgreSQL/MySQL",
+    "Backups",
+    "Performance Tuning",
+    "Linux"
+  ],
+  "preferred_skills": [
+    "MongoDB",
+    "Cloud RDS",
+    "Shell scripting"
+  ],
+  "programming_languages": [
+    "SQL",
+    "Bash",
+    "Python (basic)"
+  ],
+  "technologies": [
+    "PostgreSQL",
+    "MySQL",
+    "MongoDB",
+    "Redis"
+  ],
+  "tools": [
+    "pgAdmin",
+    "MySQL Workbench",
+    "Percona",
+    "Grafana"
+  ],
+  "certifications": [
+    "Oracle Database Admin",
+    "PostgreSQL Associate",
+    "AWS Database Specialty"
+  ],
+  "beginner_skills": [
+    "SQL",
+    "DB concepts",
+    "Linux basics"
+  ],
+  "intermediate_skills": [
+    "Indexing",
+    "Backups",
+    "Replication"
+  ],
+  "advanced_skills": [
+    "HA design",
+    "Sharding",
+    "Disaster recovery"
+  ],
+  "projects": [
+    "Tuned slow queries",
+    "Backup automation",
+    "HA replica setup"
+  ],
+  "career_progression": [
+    "DB Support",
+    "DBA",
+    "Senior DBA",
+    "Data Architect"
+  ],
+  "related_roles": [
+    "Data Engineer",
+    "Backend Developer",
+    "Cloud Engineer"
+  ],
+  "learning_resources": [
+    "PostgreSQL docs",
+    "Use The Index Luke",
+    "DBA StackExchange"
+  ]
+}

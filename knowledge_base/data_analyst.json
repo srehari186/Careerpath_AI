@@ -1,0 +1,88 @@
+{
+  "career_role": "Data Analyst",
+  "description": "Analyzes datasets to produce insights, dashboards, and reports that guide business decisions.",
+  "responsibilities": [
+    "Collect and clean data with SQL/Python",
+    "Build dashboards (Power BI/Tableau)",
+    "Perform exploratory analysis and KPI reporting",
+    "Present findings to stakeholders"
+  ],
+  "prerequisites": [
+    "Bachelor's degree (any quantitative field)",
+    "SQL and spreadsheets",
+    "Basic statistics"
+  ],
+  "required_skills": [
+    "SQL",
+    "Excel",
+    "Data Visualization",
+    "Statistics",
+    "Python (Pandas)"
+  ],
+  "preferred_skills": [
+    "Power BI",
+    "Tableau",
+    "A/B testing",
+    "Business storytelling"
+  ],
+  "programming_languages": [
+    "SQL",
+    "Python"
+  ],
+  "technologies": [
+    "Pandas",
+    "Excel",
+    "Power BI",
+    "Tableau",
+    "PostgreSQL"
+  ],
+  "tools": [
+    "Jupyter",
+    "Power BI",
+    "Tableau",
+    "Looker",
+    "Git"
+  ],
+  "certifications": [
+    "Google Data Analytics Professional Certificate",
+    "Microsoft PL-300 (Power BI)",
+    "IBM Data Analyst"
+  ],
+  "beginner_skills": [
+    "SQL basics",
+    "Excel",
+    "Descriptive statistics"
+  ],
+  "intermediate_skills": [
+    "Pandas",
+    "Dashboard design",
+    "Data modeling basics"
+  ],
+  "advanced_skills": [
+    "Advanced visualization",
+    "Experiment analysis",
+    "Stakeholder communication"
+  ],
+  "projects": [
+    "Sales dashboard in Power BI",
+    "Customer churn EDA",
+    "KPI automation with Python"
+  ],
+  "career_progression": [
+    "Data Analyst Intern",
+    "Junior Data Analyst",
+    "Data Analyst",
+    "Senior Data Analyst",
+    "Analytics Manager"
+  ],
+  "related_roles": [
+    "Business Analyst",
+    "Data Scientist",
+    "Data Engineer"
+  ],
+  "learning_resources": [
+    "Google Data Analytics (Coursera)",
+    "Mode SQL tutorial",
+    "Storytelling with Data (book)"
+  ]
+}

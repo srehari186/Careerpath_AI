@@ -1,0 +1,87 @@
+{
+  "career_role": "Machine Learning Engineer",
+  "description": "Designs, trains, and deploys ML systems to production at scale.",
+  "responsibilities": [
+    "Build training/serving pipelines",
+    "Model optimization and monitoring",
+    "Deploy with Docker/K8s and cloud",
+    "Collaborate with data scientists"
+  ],
+  "prerequisites": [
+    "Strong Python and ML fundamentals",
+    "Math: linear algebra, probability"
+  ],
+  "required_skills": [
+    "Python",
+    "Scikit-learn",
+    "PyTorch/TensorFlow",
+    "MLOps",
+    "SQL"
+  ],
+  "preferred_skills": [
+    "Kubernetes",
+    "Spark",
+    "LLM fine-tuning"
+  ],
+  "programming_languages": [
+    "Python",
+    "SQL"
+  ],
+  "technologies": [
+    "PyTorch",
+    "TensorFlow",
+    "Scikit-learn",
+    "MLflow",
+    "Docker",
+    "Kubernetes"
+  ],
+  "tools": [
+    "MLflow",
+    "Docker",
+    "Kubernetes",
+    "Weights & Biases",
+    "Git"
+  ],
+  "certifications": [
+    "AWS Certified Machine Learning Specialty",
+    "Google Professional ML Engineer",
+    "TensorFlow Developer Certificate"
+  ],
+  "beginner_skills": [
+    "Python",
+    "Scikit-learn",
+    "Statistics"
+  ],
+  "intermediate_skills": [
+    "Deep learning",
+    "APIs (FastAPI)",
+    "Docker"
+  ],
+  "advanced_skills": [
+    "Distributed training",
+    "Model monitoring",
+    "LLMOps"
+  ],
+  "projects": [
+    "Image classifier API with FastAPI",
+    "Recommendation engine",
+    "MLOps pipeline on cloud"
+  ],
+  "career_progression": [
+    "Junior ML Engineer",
+    "ML Engineer",
+    "Senior ML Engineer",
+    "ML Architect",
+    "ML Lead"
+  ],
+  "related_roles": [
+    "Data Scientist",
+    "AI Engineer",
+    "Data Engineer"
+  ],
+  "learning_resources": [
+    "DeepLearning.AI MLOps",
+    "Full Stack Deep Learning",
+    "Made With ML"
+  ]
+}

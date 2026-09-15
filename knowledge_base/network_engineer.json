@@ -1,0 +1,82 @@
+{
+  "career_role": "Network Engineer",
+  "description": "Designs and operates networks: routing, switching, firewalls, and cloud connectivity.",
+  "responsibilities": [
+    "Configure routers/switches",
+    "Manage firewalls/VPN",
+    "Monitor performance",
+    "Troubleshoot"
+  ],
+  "prerequisites": [
+    "TCP/IP + CCNA-level knowledge"
+  ],
+  "required_skills": [
+    "TCP/IP",
+    "Routing/Switching",
+    "Firewalls",
+    "VPN",
+    "Linux basics"
+  ],
+  "preferred_skills": [
+    "Cloud networking",
+    "Automation (Ansible)",
+    "Security"
+  ],
+  "programming_languages": [
+    "Python (basic)",
+    "Bash"
+  ],
+  "technologies": [
+    "Cisco",
+    "Fortinet",
+    "Wireshark",
+    "AWS VPC"
+  ],
+  "tools": [
+    "Wireshark",
+    "gns3/EVE-NG",
+    "Ansible",
+    "SolarWinds"
+  ],
+  "certifications": [
+    "CCNA",
+    "CompTIA Network+",
+    "AWS Advanced Networking"
+  ],
+  "beginner_skills": [
+    "OSI/TCP-IP",
+    "Subnetting",
+    "CLI basics"
+  ],
+  "intermediate_skills": [
+    "Routing protocols",
+    "Firewalls",
+    "VPNs"
+  ],
+  "advanced_skills": [
+    "SD-WAN",
+    "Automation",
+    "Network security design"
+  ],
+  "projects": [
+    "Home lab network",
+    "Site-to-site VPN",
+    "Monitoring setup"
+  ],
+  "career_progression": [
+    "NOC Engineer",
+    "Network Engineer",
+    "Senior Network Engineer",
+    "Network Architect"
+  ],
+  "related_roles": [
+    "Cloud Engineer",
+    "Cybersecurity Engineer",
+    "DevOps Engineer"
+  ],
+  "learning_resources": [
+    "Jeremy's IT Lab (CCNA)",
+    "Cisco NetAcad",
+    "NetworkLessons"
+  ]
+}

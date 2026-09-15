@@ -1,0 +1,83 @@
+{
+  "career_role": "QA Engineer",
+  "description": "Ensures quality via manual and automated testing across the SDLC.",
+  "responsibilities": [
+    "Write test plans",
+    "Automate with Selenium/Playwright",
+    "API testing",
+    "Bug reporting"
+  ],
+  "prerequisites": [
+    "SDLC basics + scripting"
+  ],
+  "required_skills": [
+    "Manual Testing",
+    "Selenium/Playwright",
+    "API Testing",
+    "SQL basics",
+    "Git"
+  ],
+  "preferred_skills": [
+    "Performance testing",
+    "CI integration",
+    "Python/Java"
+  ],
+  "programming_languages": [
+    "Python",
+    "Java",
+    "JavaScript"
+  ],
+  "technologies": [
+    "Selenium",
+    "Playwright",
+    "Postman",
+    "Jenkins"
+  ],
+  "tools": [
+    "Jira",
+    "TestRail",
+    "Postman",
+    "Selenium Grid"
+  ],
+  "certifications": [
+    "ISTQB Foundation",
+    "Selenium WebDriver (Udemy)",
+    "Postman API Testing"
+  ],
+  "beginner_skills": [
+    "Testing basics",
+    "SQL",
+    "Git"
+  ],
+  "intermediate_skills": [
+    "Automation",
+    "API tests",
+    "CI tests"
+  ],
+  "advanced_skills": [
+    "Framework design",
+    "Performance/security testing",
+    "QA leadership"
+  ],
+  "projects": [
+    "Automation suite",
+    "API test collection",
+    "Bug bash report"
+  ],
+  "career_progression": [
+    "QA Intern",
+    "QA Engineer",
+    "Senior QA / SDET",
+    "QA Lead"
+  ],
+  "related_roles": [
+    "Software Developer",
+    "Business Analyst",
+    "DevOps Engineer"
+  ],
+  "learning_resources": [
+    "ISTQB syllabus",
+    "Guru99",
+    "Test Automation University"
+  ]
+}

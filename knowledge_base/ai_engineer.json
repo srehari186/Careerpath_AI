@@ -1,0 +1,85 @@
+{
+  "career_role": "AI Engineer",
+  "description": "Builds LLM-powered applications using RAG, agents, embeddings, and vector databases.",
+  "responsibilities": [
+    "Design RAG pipelines (chunking, embeddings, retrieval)",
+    "Prompt engineering and evaluation",
+    "Build agents and tool use",
+    "Deploy LLM apps"
+  ],
+  "prerequisites": [
+    "Python, APIs, basic ML",
+    "Familiarity with LLMs"
+  ],
+  "required_skills": [
+    "Python",
+    "LLMs",
+    "RAG",
+    "Prompt Engineering",
+    "Vector Databases"
+  ],
+  "preferred_skills": [
+    "LangChain",
+    "Evaluation (RAGAS)",
+    "Cloud deployment"
+  ],
+  "programming_languages": [
+    "Python",
+    "TypeScript (basic)"
+  ],
+  "technologies": [
+    "LangChain",
+    "OpenAI API",
+    "FAISS",
+    "ChromaDB",
+    "FastAPI"
+  ],
+  "tools": [
+    "LangChain/LlamaIndex",
+    "ChromaDB",
+    "Docker",
+    "Git",
+    "Hugging Face"
+  ],
+  "certifications": [
+    "DeepLearning.AI LangChain / GenAI courses",
+    "AWS AI Practitioner",
+    "Azure AI Engineer Associate"
+  ],
+  "beginner_skills": [
+    "Python",
+    "APIs",
+    "Embeddings basics"
+  ],
+  "intermediate_skills": [
+    "RAG",
+    "Prompt patterns",
+    "Vector search"
+  ],
+  "advanced_skills": [
+    "Agents",
+    "Evals and guardrails",
+    "Production LLM systems"
+  ],
+  "projects": [
+    "Career RAG chatbot",
+    "PDF Q&A with citations",
+    "AI agent with tools"
+  ],
+  "career_progression": [
+    "AI Engineer Intern",
+    "AI Engineer",
+    "Senior AI Engineer",
+    "GenAI Architect"
+  ],
+  "related_roles": [
+    "Machine Learning Engineer",
+    "Full Stack Developer",
+    "Data Scientist"
+  ],
+  "learning_resources": [
+    "DeepLearning.AI GenAI short courses",
+    "LangChain docs",
+    "RAG papers (Lewis et al.)"
+  ]
+}

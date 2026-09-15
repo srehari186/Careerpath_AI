@@ -1,0 +1,84 @@
+{
+  "career_role": "DevOps Engineer",
+  "description": "Automates build, test, and deployment pipelines and manages production reliability.",
+  "responsibilities": [
+    "Build CI/CD pipelines",
+    "Container orchestration",
+    "Infra as code",
+    "Incident response"
+  ],
+  "prerequisites": [
+    "Linux, Git, scripting, cloud basics"
+  ],
+  "required_skills": [
+    "Linux",
+    "Docker",
+    "Kubernetes",
+    "CI/CD",
+    "Cloud"
+  ],
+  "preferred_skills": [
+    "Terraform",
+    "Monitoring",
+    "Python"
+  ],
+  "programming_languages": [
+    "Python",
+    "Bash"
+  ],
+  "technologies": [
+    "Docker",
+    "Kubernetes",
+    "Jenkins/GitHub Actions",
+    "Terraform",
+    "Prometheus"
+  ],
+  "tools": [
+    "Docker",
+    "Kubernetes",
+    "ArgoCD",
+    "Grafana",
+    "Git"
+  ],
+  "certifications": [
+    "CKA (Kubernetes)",
+    "AWS DevOps Engineer Professional",
+    "Docker Certified Associate"
+  ],
+  "beginner_skills": [
+    "Linux",
+    "Git",
+    "Docker basics"
+  ],
+  "intermediate_skills": [
+    "CI/CD",
+    "K8s basics",
+    "IaC"
+  ],
+  "advanced_skills": [
+    "GitOps",
+    "Observability",
+    "SRE practices"
+  ],
+  "projects": [
+    "CI/CD for a web app",
+    "K8s deployment",
+    "Monitoring stack"
+  ],
+  "career_progression": [
+    "Junior DevOps",
+    "DevOps Engineer",
+    "Senior DevOps",
+    "SRE/Platform Lead"
+  ],
+  "related_roles": [
+    "Cloud Engineer",
+    "Backend Developer",
+    "QA Engineer"
+  ],
+  "learning_resources": [
+    "KodeKloud",
+    "DevOps roadmap.sh",
+    "Google SRE book"
+  ]
+}

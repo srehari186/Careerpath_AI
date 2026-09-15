@@ -1,0 +1,83 @@
+{
+  "career_role": "Software Developer",
+  "description": "Generalist developer building applications, features, and maintaining codebases.",
+  "responsibilities": [
+    "Write clean tested code",
+    "Debug and review code",
+    "Work in Agile teams",
+    "Maintain docs"
+  ],
+  "prerequisites": [
+    "Programming fundamentals + DSA basics"
+  ],
+  "required_skills": [
+    "Python/Java",
+    "Git",
+    "DSA basics",
+    "OOP",
+    "Debugging"
+  ],
+  "preferred_skills": [
+    "Databases",
+    "APIs",
+    "Testing"
+  ],
+  "programming_languages": [
+    "Python",
+    "Java"
+  ],
+  "technologies": [
+    "Git",
+    "REST APIs",
+    "PostgreSQL",
+    "Linux"
+  ],
+  "tools": [
+    "VS Code",
+    "Git",
+    "Jira",
+    "Docker (basic)"
+  ],
+  "certifications": [
+    "Oracle Java Foundations",
+    "Meta Programming with JavaScript",
+    "AWS Cloud Practitioner"
+  ],
+  "beginner_skills": [
+    "Programming basics",
+    "Git",
+    "OOP"
+  ],
+  "intermediate_skills": [
+    "DSA",
+    "Databases",
+    "Testing"
+  ],
+  "advanced_skills": [
+    "System design basics",
+    "CI/CD",
+    "Performance tuning"
+  ],
+  "projects": [
+    "To-do app with DB",
+    "REST API project",
+    "Open-source contribution"
+  ],
+  "career_progression": [
+    "Intern",
+    "Junior Developer",
+    "Software Developer",
+    "Senior Developer",
+    "Tech Lead"
+  ],
+  "related_roles": [
+    "Backend Developer",
+    "QA Engineer",
+    "Mobile App Developer"
+  ],
+  "learning_resources": [
+    "CS50",
+    "LeetCode Easy",
+    "The Odin Project"
+  ]
+}

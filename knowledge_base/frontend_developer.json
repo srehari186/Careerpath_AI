@@ -1,0 +1,81 @@
+{
+  "career_role": "Frontend Developer",
+  "description": "Builds responsive, accessible user interfaces for web apps.",
+  "responsibilities": [
+    "Implement UI from designs",
+    "State management",
+    "Performance optimization",
+    "Accessibility"
+  ],
+  "prerequisites": [
+    "HTML, CSS, JavaScript"
+  ],
+  "required_skills": [
+    "HTML/CSS",
+    "JavaScript",
+    "React",
+    "Responsive Design",
+    "Git"
+  ],
+  "preferred_skills": [
+    "TypeScript",
+    "Next.js",
+    "Testing"
+  ],
+  "programming_languages": [
+    "JavaScript",
+    "TypeScript"
+  ],
+  "technologies": [
+    "React",
+    "Next.js",
+    "Tailwind CSS",
+    "Vite"
+  ],
+  "tools": [
+    "VS Code",
+    "Figma",
+    "Chrome DevTools",
+    "Git"
+  ],
+  "certifications": [
+    "Meta Front-End Developer Professional",
+    "JavaScript Algorithms (freeCodeCamp)"
+  ],
+  "beginner_skills": [
+    "HTML/CSS",
+    "JS basics",
+    "React basics"
+  ],
+  "intermediate_skills": [
+    "Hooks",
+    "Routing",
+    "API integration"
+  ],
+  "advanced_skills": [
+    "Performance",
+    "Testing",
+    "Design systems"
+  ],
+  "projects": [
+    "Portfolio site",
+    "E-commerce UI",
+    "Dashboard UI"
+  ],
+  "career_progression": [
+    "Junior Frontend",
+    "Frontend Developer",
+    "Senior Frontend",
+    "UI Architect"
+  ],
+  "related_roles": [
+    "UI/UX Designer",
+    "Full Stack Developer",
+    "Mobile App Developer"
+  ],
+  "learning_resources": [
+    "Epic React",
+    "Frontend Masters",
+    "web.dev"
+  ]
+}

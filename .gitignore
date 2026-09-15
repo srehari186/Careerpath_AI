@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.log
+
+# Frontend
+node_modules/
+frontend/dist/
+
+# Secrets / local state
+.env
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/

@@ -1,0 +1,2001 @@
+education_level,python_skill,java_skill,cpp_skill,javascript_skill,sql_skill,statistics_skill,machine_learning_skill,cloud_skill,web_development_skill,data_analysis_skill,cybersecurity_skill,communication_skill,problem_solving_skill,interest_ai,interest_data,interest_web,interest_cloud,interest_security,interest_embedded,experience_level,preferred_domain,career_role
+Bachelor's,9,4,1,2,8,4,6,9,4,10,2,8,9,7,8,2,4,2,0,Intermediate,Data,Data Engineer
+Bachelor's,9,4,3,2,6,0,0,10,4,3,4,7,9,1,1,3,10,3,2,Intermediate,Cloud,DevOps Engineer
+PhD,6,9,5,5,3,2,3,4,6,5,5,5,5,1,2,3,3,4,5,Fresher,General,Software Developer
+Bachelor's,7,4,3,5,4,3,2,3,1,8,9,8,10,2,3,3,2,10,1,Fresher,Security,Cybersecurity Analyst
+Bachelor's,3,2,0,9,5,0,3,3,9,3,1,5,5,2,2,10,0,1,0,Fresher,Web,Frontend Developer
+Master's,0,3,6,3,3,2,0,8,1,2,5,7,8,2,3,0,6,7,3,Intermediate,Cloud,Network Engineer
+Master's,10,2,2,7,6,6,10,6,5,5,2,4,10,10,5,2,4,0,3,Intermediate,AI,AI Engineer
+Diploma,6,4,2,6,6,3,1,2,5,6,2,9,8,1,2,4,2,1,0,Fresher,General,QA Engineer
+Bachelor's,7,5,3,3,6,4,4,10,3,5,2,9,10,4,3,0,8,3,1,Intermediate,Cloud,DevOps Engineer
+Bachelor's,7,3,2,3,5,4,1,5,0,3,10,5,8,0,1,2,4,10,1,Fresher,Security,Cybersecurity Analyst
+Bachelor's,3,7,0,6,4,1,2,4,8,0,1,7,9,4,3,10,2,5,3,Fresher,Web,Mobile App Developer
+Master's,9,5,5,4,3,8,10,3,1,6,1,9,10,9,7,2,5,2,2,Experienced,Embedded,Machine Learning Engineer
+Diploma,9,7,7,6,6,2,3,5,7,2,4,5,7,3,4,6,3,3,3,Fresher,General,Software Developer
+Diploma,7,7,7,5,7,0,2,5,8,5,5,6,8,4,3,4,2,0,4,Fresher,General,Software Developer
+Master's,4,3,4,2,3,0,0,7,0,3,9,6,10,1,1,1,5,6,1,Intermediate,Cloud,Network Engineer
+Master's,3,5,4,1,10,6,2,8,2,8,2,7,10,5,10,1,9,0,0,Intermediate,Data,Data Engineer
+Bachelor's,3,8,7,8,6,4,0,3,6,0,2,5,8,1,0,10,2,0,4,Fresher,Web,Mobile App Developer
+Bachelor's,6,6,3,5,5,6,3,4,2,4,9,5,9,1,1,2,3,10,5,Fresher,Security,Cybersecurity Analyst
+Master's,9,3,4,3,8,8,6,2,3,10,0,6,10,9,7,5,2,2,2,Intermediate,AI,Data Scientist
+Master's,7,3,1,1,9,7,0,2,2,9,0,7,7,3,10,4,2,0,2,Fresher,Data,Data Analyst
+Master's,8,4,1,2,7,6,6,5,0,8,0,10,10,8,10,0,4,0,3,Intermediate,AI,Data Scientist
+Bachelor's,9,1,5,5,6,8,10,3,2,6,0,4,6,8,5,2,3,1,1,Intermediate,Security,AI Engineer
+Diploma,8,4,1,5,6,3,0,3,3,3,0,6,7,0,0,4,1,0,0,Fresher,General,QA Engineer
+Bachelor's,8,5,4,3,5,0,2,9,6,4,5,9,8,1,1,0,8,4,0,Intermediate,Security,DevOps Engineer
+Bachelor's,9,2,4,4,4,4,6,3,2,4,9,5,8,2,2,4,4,10,2,Intermediate,Security,Cybersecurity Engineer
+Bachelor's,8,3,2,4,8,4,2,3,1,5,9,7,10,2,0,5,6,10,4,Fresher,Security,Cybersecurity Analyst
+Master's,9,1,4,2,9,9,7,3,0,9,1,10,9,5,9,5,3,0,2,Intermediate,AI,Data Scientist
+Bachelor's,6,8,1,5,4,3,2,8,0,7,4,1,9,3,1,2,10,5,2,Intermediate,Cloud,DevOps Engineer
+Bachelor's,8,1,3,3,7,1,2,10,5,1,5,3,7,0,3,4,10,5,0,Intermediate,Cloud,Cloud Engineer
+High School,4,4,3,3,10,4,3,5,1,5,4,4,6,0,9,2,1,2,4,Experienced,Data,Database Administrator
+Master's,7,2,2,1,6,7,8,2,1,10,1,9,8,9,9,0,4,1,2,Intermediate,Embedded,Data Scientist
+Bachelor's,8,4,3,4,6,10,9,4,1,8,2,7,10,10,3,2,2,0,1,Intermediate,AI,AI Engineer
+Bachelor's,9,8,7,4,5,3,3,1,8,3,2,4,6,2,1,4,1,3,2,Fresher,General,Software Developer
+Bachelor's,9,0,2,3,3,5,10,6,2,6,1,7,10,6,5,3,3,1,3,Intermediate,AI,AI Engineer
+Master's,4,0,1,6,8,8,2,3,3,9,1,7,8,2,7,0,2,4,1,Fresher,Data,Data Analyst
+PhD,7,2,3,4,10,6,2,1,3,10,0,7,8,3,10,0,1,0,0,Fresher,Data,Data Analyst
+Diploma,5,8,1,4,8,0,1,3,3,1,2,8,7,0,4,5,1,3,1,Fresher,General,QA Engineer
+Bachelor's,3,0,0,3,7,4,1,2,3,6,0,8,7,3,5,3,4,2,3,Fresher,AI,Business Analyst
+Master's,3,0,3,3,9,3,0,4,3,7,6,8,7,6,10,0,4,0,1,Intermediate,Data,Database Administrator
+Bachelor's,6,3,4,9,10,4,0,6,9,3,3,9,9,2,6,9,1,0,3,Intermediate,Web,Full Stack Developer
+Bachelor's,4,5,3,2,6,5,4,10,5,2,4,7,6,1,0,3,10,2,2,Intermediate,Cloud,Cloud Engineer
+Diploma,1,1,0,1,4,5,0,3,2,7,0,10,8,1,5,0,4,2,3,Fresher,General,Business Analyst
+Master's,10,2,6,3,5,5,10,4,2,6,1,3,9,10,4,2,4,1,0,Intermediate,AI,AI Engineer
+Bachelor's,6,9,5,6,3,3,0,2,9,5,2,10,7,5,1,5,1,2,3,Fresher,General,Software Developer
+Master's,8,2,2,2,10,10,4,4,2,9,1,7,9,10,8,0,7,0,1,Fresher,Data,Data Scientist
+Diploma,5,4,2,4,5,0,3,4,3,5,0,7,7,1,3,3,1,3,1,Fresher,General,QA Engineer
+PhD,6,4,2,1,9,3,0,5,3,5,0,10,6,1,10,5,2,1,2,Fresher,General,Business Analyst
+Master's,7,8,5,4,6,0,3,1,4,4,2,5,8,3,2,4,5,0,3,Fresher,General,Software Developer
+Bachelor's,9,3,4,2,10,6,8,3,1,10,1,6,9,6,8,3,1,0,3,Intermediate,AI,Data Scientist
+Diploma,10,6,2,2,9,1,3,7,4,5,10,6,8,3,1,1,6,9,6,Experienced,Cloud,Cybersecurity Engineer
+Bachelor's,2,8,3,5,3,0,2,3,6,1,2,7,8,0,0,9,1,2,7,Fresher,Data,Mobile App Developer
+Bachelor's,7,3,4,2,5,3,3,5,6,7,7,7,8,4,1,3,0,8,5,Fresher,Security,Cybersecurity Analyst
+Bachelor's,6,9,5,6,5,4,2,3,10,2,0,7,9,1,0,8,2,0,4,Fresher,Web,Mobile App Developer
+Master's,6,1,2,1,4,2,0,6,1,2,6,7,5,2,4,0,6,8,4,Fresher,Cloud,Network Engineer
+High School,7,10,5,4,10,0,1,6,6,3,5,8,9,0,1,8,6,1,4,Intermediate,General,Backend Developer
+Bachelor's,7,8,4,4,6,5,0,10,1,4,5,4,10,1,1,3,10,2,1,Intermediate,Cloud,Cloud Engineer
+Diploma,2,2,0,9,2,1,1,2,10,2,2,8,7,1,1,10,0,0,1,Fresher,Web,Frontend Developer
+Bachelor's,9,5,8,4,4,5,3,6,4,4,10,6,8,0,1,2,6,10,3,Experienced,Security,Cybersecurity Engineer
+Bachelor's,3,0,1,0,3,0,1,5,0,3,5,8,9,0,3,0,8,9,1,Experienced,Cloud,Network Engineer
+Bachelor's,10,5,1,1,5,1,4,4,1,2,10,3,10,4,1,0,5,9,1,Experienced,Security,Cybersecurity Engineer
+Master's,10,4,3,3,8,8,10,3,3,9,0,7,10,10,6,1,5,1,0,Intermediate,Security,Data Scientist
+Bachelor's,6,2,6,1,5,2,0,5,3,2,6,6,7,3,4,1,7,10,4,Intermediate,Cloud,Network Engineer
+Bachelor's,6,2,3,4,1,0,0,5,1,4,8,2,10,0,3,2,6,8,2,Fresher,Cloud,Network Engineer
+Bachelor's,5,5,4,6,7,2,6,6,0,4,10,5,9,0,0,1,2,9,6,Experienced,Security,Cybersecurity Engineer
+Diploma,4,4,2,8,2,4,0,3,8,4,0,5,6,0,2,10,0,1,0,Intermediate,Web,Frontend Developer
+Diploma,6,1,0,0,3,3,1,4,0,0,7,6,9,0,0,4,7,8,2,Experienced,Cloud,Network Engineer
+Bachelor's,5,7,2,3,10,3,4,9,3,8,6,6,9,7,10,3,5,3,1,Intermediate,Embedded,Data Engineer
+Diploma,6,6,2,6,5,5,0,5,7,2,2,6,9,1,0,8,3,0,5,Experienced,Web,Mobile App Developer
+Master's,5,5,4,10,6,2,0,5,10,2,4,7,10,3,2,10,3,0,1,Experienced,Web,Full Stack Developer
+Master's,10,2,2,2,9,9,7,1,1,9,1,7,10,8,10,1,1,2,0,Intermediate,AI,Data Scientist
+Diploma,10,4,5,4,6,1,5,3,5,7,2,7,7,1,2,8,4,2,1,Fresher,Security,Software Developer
+Diploma,2,2,0,4,3,5,1,0,10,3,1,10,6,1,2,9,2,3,0,Intermediate,Web,UI/UX Designer
+Bachelor's,5,9,4,5,8,4,3,3,6,6,3,3,7,4,2,8,3,2,5,Fresher,General,Software Developer
+Diploma,5,4,8,2,2,5,2,2,2,0,2,5,5,4,1,1,2,1,10,Intermediate,Embedded,Embedded Systems Engineer
+Diploma,7,6,6,5,6,2,3,3,7,6,3,5,10,4,7,5,4,2,3,Intermediate,General,Software Developer
+Bachelor's,3,3,1,4,8,3,1,5,4,4,5,4,6,0,7,0,7,3,2,Intermediate,Data,Database Administrator
+Master's,2,0,3,0,3,1,4,5,2,3,4,8,9,1,3,1,7,5,5,Intermediate,Cloud,Network Engineer
+Bachelor's,8,5,4,6,4,4,2,0,5,1,3,6,10,5,1,2,2,0,6,Fresher,General,Software Developer
+Bachelor's,6,7,3,9,6,1,0,3,10,4,0,7,9,0,2,10,5,0,2,Intermediate,Web,Full Stack Developer
+Bachelor's,6,1,4,2,4,5,10,3,3,8,1,4,7,10,4,2,2,2,2,Intermediate,AI,AI Engineer
+Diploma,5,5,4,4,6,2,1,4,5,3,4,8,7,0,2,5,0,1,0,Fresher,General,QA Engineer
+Bachelor's,3,3,3,1,1,2,3,7,0,2,5,5,7,2,0,0,7,7,3,Intermediate,Cloud,Network Engineer
+Master's,10,0,3,2,4,9,10,4,2,4,3,8,9,8,3,2,5,0,1,Intermediate,Embedded,AI Engineer
+Bachelor's,2,5,0,10,2,2,1,1,9,1,2,5,7,2,4,10,1,1,0,Fresher,Embedded,Frontend Developer
+Bachelor's,8,3,3,4,6,6,4,3,6,6,7,4,8,3,0,2,5,5,4,Experienced,Security,Cybersecurity Engineer
+Master's,5,2,2,1,10,3,1,3,5,7,1,5,4,2,8,1,3,2,2,Intermediate,Data,Database Administrator
+Bachelor's,7,8,1,9,8,2,0,6,6,3,3,7,8,3,3,8,6,4,2,Intermediate,Web,Backend Developer
+Bachelor's,3,2,0,9,2,2,1,3,10,0,0,7,6,0,4,8,4,1,3,Fresher,Web,Frontend Developer
+Bachelor's,9,6,6,4,10,1,1,5,6,5,4,8,6,3,1,6,6,2,1,Intermediate,Web,Backend Developer
+Master's,10,5,6,0,6,7,10,8,0,4,0,6,10,10,8,0,6,1,3,Intermediate,AI,Machine Learning Engineer
+Master's,9,0,6,5,5,5,9,2,5,3,1,5,7,10,4,3,2,0,0,Intermediate,AI,AI Engineer
+Bachelor's,9,3,8,4,5,8,10,5,1,8,3,4,7,9,5,4,6,3,2,Intermediate,AI,Machine Learning Engineer
+Bachelor's,6,2,1,0,8,3,0,3,2,8,4,4,9,0,10,1,4,5,0,Intermediate,Data,Database Administrator
+PhD,5,3,1,10,7,3,1,6,10,3,2,10,8,2,2,10,3,2,0,Fresher,Web,Full Stack Developer
+Master's,1,2,1,4,6,7,0,0,3,7,1,8,5,3,7,0,3,3,1,Fresher,General,Business Analyst
+Master's,10,5,4,2,6,9,8,6,2,5,0,6,10,10,7,4,4,3,1,Intermediate,AI,Machine Learning Engineer
+Bachelor's,5,0,2,1,3,5,0,1,0,9,0,7,8,1,6,0,4,1,0,Fresher,General,Business Analyst
+PhD,9,2,4,3,7,7,10,7,1,7,1,6,6,10,5,3,3,0,4,Intermediate,AI,Machine Learning Engineer
+Master's,9,2,5,1,8,7,10,6,2,7,1,7,8,10,6,2,4,4,2,Intermediate,AI,Machine Learning Engineer
+Master's,10,3,6,2,6,3,5,5,2,4,9,3,8,7,0,2,4,10,1,Experienced,Security,Cybersecurity Engineer
+Bachelor's,5,1,1,2,9,7,0,5,1,6,6,6,7,0,10,1,4,0,1,Intermediate,Cloud,Database Administrator
+Master's,9,3,5,5,7,9,10,4,3,7,0,5,9,9,8,2,6,1,2,Intermediate,AI,Machine Learning Engineer
+Bachelor's,6,5,4,5,1,1,2,8,0,2,4,5,6,2,3,2,10,3,0,Intermediate,Data,Cloud Engineer
+Bachelor's,2,9,6,5,4,1,4,5,6,0,4,6,8,4,0,7,1,3,5,Fresher,Web,Mobile App Developer
+Bachelor's,9,2,5,0,7,6,10,6,5,6,0,6,9,8,5,1,2,2,1,Fresher,AI,AI Engineer
+Diploma,4,9,4,4,7,2,0,6,4,5,3,4,4,4,4,8,7,3,1,Intermediate,Web,Backend Developer
+Diploma,4,3,5,2,3,2,3,9,2,1,7,7,7,2,1,3,4,5,3,Intermediate,Cloud,Network Engineer
+Master's,4,0,0,5,0,3,1,3,9,0,2,9,6,5,2,10,3,0,2,Experienced,Web,UI/UX Designer
+Bachelor's,10,5,5,4,3,0,5,5,5,3,10,7,9,2,3,1,3,10,2,Experienced,Security,Cybersecurity Engineer
+Diploma,10,4,3,1,6,7,10,6,2,4,2,5,9,8,5,3,5,0,0,Intermediate,AI,AI Engineer
+Master's,5,4,0,2,2,2,3,5,1,5,10,9,9,0,3,1,3,10,0,Fresher,Security,Cybersecurity Analyst
+PhD,4,2,0,2,4,5,0,6,3,5,1,10,6,0,8,0,3,0,0,Intermediate,General,Business Analyst
+Bachelor's,4,7,7,7,6,2,5,3,6,3,3,4,7,1,2,7,2,3,5,Fresher,General,Software Developer
+PhD,8,8,5,4,9,4,3,7,9,4,7,8,8,1,3,7,7,1,3,Intermediate,Web,Backend Developer
+Bachelor's,5,10,6,5,5,4,0,1,5,0,0,5,10,1,0,8,2,1,3,Fresher,Web,Mobile App Developer
+Diploma,6,5,1,6,7,3,4,3,2,3,10,6,9,3,4,1,4,8,0,Fresher,Security,Cybersecurity Analyst
+Bachelor's,5,6,6,5,10,1,2,1,4,3,3,5,8,2,1,4,2,2,4,Fresher,General,Software Developer
+Bachelor's,4,4,4,1,4,2,1,8,0,1,6,6,10,0,1,0,9,9,4,Intermediate,Cloud,Network Engineer
+Bachelor's,3,2,1,2,6,5,2,2,5,7,0,10,7,3,7,2,4,2,0,Fresher,General,Business Analyst
+Bachelor's,3,3,10,3,2,5,5,0,3,2,2,5,10,2,1,0,2,2,7,Intermediate,Embedded,Embedded Systems Engineer
+Bachelor's,7,7,7,4,5,2,4,5,4,5,10,8,9,2,0,2,7,9,4,Experienced,Security,Cybersecurity Engineer
+Bachelor's,10,1,6,2,4,8,10,6,3,7,2,6,9,8,6,2,3,3,0,Intermediate,AI,AI Engineer
+Master's,3,1,0,7,2,3,0,0,9,1,1,10,10,3,0,8,2,3,0,Fresher,Web,UI/UX Designer
+Diploma,7,7,3,5,7,3,4,5,4,7,2,6,8,3,0,5,1,5,6,Fresher,General,Software Developer
+Master's,4,1,7,1,4,1,0,5,0,1,4,6,7,0,1,2,8,4,3,Intermediate,Cloud,Network Engineer
+PhD,3,2,1,5,5,0,2,8,2,6,3,6,8,2,1,3,10,5,3,Intermediate,Cloud,Cloud Engineer
+Bachelor's,5,4,2,2,9,3,1,5,0,6,6,8,7,5,7,1,2,2,4,Intermediate,Data,Database Administrator
+PhD,8,5,0,3,7,10,7,2,0,10,0,6,6,9,8,0,4,0,2,Intermediate,AI,Data Scientist
+Bachelor's,3,10,4,5,6,0,3,1,6,2,3,10,5,3,5,7,1,2,5,Fresher,Web,Mobile App Developer
+Bachelor's,6,6,2,4,6,2,2,7,6,6,10,5,6,2,3,0,3,9,4,Experienced,Security,Cybersecurity Engineer
+Master's,6,1,9,0,3,1,3,2,2,0,4,3,7,3,3,0,0,0,9,Intermediate,Embedded,Embedded Systems Engineer
+Master's,9,5,4,1,9,5,2,8,0,9,3,5,6,3,10,2,4,1,1,Intermediate,Data,Data Engineer
+Bachelor's,5,2,2,4,8,7,1,1,2,8,1,8,8,0,7,2,2,2,2,Fresher,General,Business Analyst
+Diploma,1,5,1,7,9,5,3,3,5,5,0,9,9,2,0,5,4,2,0,Fresher,Cloud,QA Engineer
+Bachelor's,6,7,2,8,1,2,3,0,7,0,0,4,8,1,3,8,1,0,4,Fresher,Web,Mobile App Developer
+Diploma,4,3,1,9,5,1,0,0,10,1,1,10,8,4,0,10,1,2,4,Fresher,Web,Frontend Developer
+Bachelor's,1,0,1,7,5,0,4,1,9,2,3,10,6,3,3,9,0,1,1,Experienced,Web,UI/UX Designer
+Master's,9,3,3,3,7,9,9,4,6,6,4,6,9,10,7,4,2,0,3,Intermediate,AI,AI Engineer
+Master's,6,3,7,2,5,2,2,3,2,4,5,3,8,4,1,2,1,1,10,Intermediate,Embedded,Embedded Systems Engineer
+Bachelor's,5,7,3,6,8,4,0,6,6,1,3,9,7,2,1,6,5,1,0,Intermediate,Web,Backend Developer
+Bachelor's,2,0,0,3,6,5,2,0,3,6,0,7,8,0,5,0,2,1,2,Fresher,Web,Business Analyst
+Bachelor's,6,8,7,6,7,4,3,5,5,4,3,5,6,4,3,3,4,4,0,Fresher,General,Software Developer
+Bachelor's,0,2,0,6,0,0,0,1,9,1,0,10,9,3,4,9,1,3,3,Fresher,Web,UI/UX Designer
+Master's,6,2,4,0,6,7,8,2,4,10,2,7,10,8,10,0,3,3,1,Intermediate,AI,Data Scientist
+Diploma,7,4,0,9,5,0,0,2,10,2,0,9,6,4,1,10,2,3,2,Fresher,Web,Frontend Developer
+Bachelor's,3,1,0,0,7,7,0,5,1,7,2,10,7,1,9,1,2,4,0,Fresher,General,Business Analyst
+Bachelor's,4,6,8,1,3,1,7,1,1,5,2,5,8,3,3,0,0,2,10,Intermediate,Embedded,Embedded Systems Engineer
+Bachelor's,2,4,0,10,4,1,1,2,10,2,0,6,7,2,0,8,3,3,0,Fresher,Web,Frontend Developer
+Diploma,5,3,10,3,2,4,1,3,2,4,3,5,9,5,1,0,2,1,10,Intermediate,Embedded,Embedded Systems Engineer
+Bachelor's,7,2,3,3,6,1,1,7,2,6,10,6,7,2,4,4,7,10,3,Fresher,Security,Cybersecurity Analyst
+Diploma,6,7,0,9,9,4,0,4,8,2,0,7,9,1,2,10,6,1,0,Intermediate,Web,Full Stack Developer
+Master's,8,4,4,3,6,1,2,10,1,2,2,5,7,4,4,4,8,3,0,Intermediate,Cloud,Cloud Engineer
+Master's,10,1,2,3,8,8,6,2,0,6,0,5,10,10,8,1,0,0,2,Intermediate,AI,Data Scientist
+Master's,10,2,3,2,4,9,10,5,2,8,0,7,10,10,6,2,7,3,0,Intermediate,AI,Machine Learning Engineer
+Bachelor's,7,6,4,3,6,3,0,10,3,2,10,7,10,3,2,0,5,7,5,Experienced,Security,Cybersecurity Engineer
+Bachelor's,6,8,3,6,6,3,1,6,8,2,2,7,9,1,2,8,5,4,2,Intermediate,Web,Backend Developer
+Master's,5,4,4,0,10,7,1,4,2,7,5,5,6,1,7,0,7,2,0,Intermediate,Data,Database Administrator
+Bachelor's,3,9,4,7,5,0,4,3,8,3,5,6,7,1,0,9,0,3,4,Fresher,Web,Mobile App Developer
+High School,7,0,2,3,5,4,1,7,2,4,9,5,9,2,2,5,3,10,3,Experienced,Security,Cybersecurity Analyst
+Bachelor's,4,1,0,9,4,1,3,1,8,3,0,6,4,1,3,8,3,1,0,Fresher,Web,Frontend Developer
+High School,5,7,2,4,10,4,1,1,1,5,4,8,5,1,1,4,5,3,2,Fresher,General,QA Engineer
+Diploma,7,3,2,2,10,7,1,2,2,8,1,6,9,5,9,3,0,0,1,Fresher,Data,Data Analyst
+Bachelor's,8,5,5,7,7,2,2,3,4,1,1,8,7,3,3,9,3,4,2,Fresher,General,Software Developer
+Diploma,5,4,1,2,10,0,3,4,2,6,4,4,7,2,5,0,5,4,1,Intermediate,Data,Database Administrator
+Master's,5,8,3,4,6,3,2,4,6,3,1,6,10,2,1,9,6,2,2,Intermediate,Web,Backend Developer
+Master's,3,4,0,5,2,2,2,7,2,3,10,7,8,0,0,3,9,10,0,Intermediate,Cloud,Network Engineer
+Bachelor's,6,6,2,10,6,5,4,6,10,1,0,6,8,2,0,10,7,4,3,Intermediate,Web,Full Stack Developer
+High School,7,3,6,4,6,4,0,3,2,6,10,7,10,0,0,0,5,10,4,Fresher,Security,Cybersecurity Analyst
+Master's,9,4,4,1,9,8,10,1,4,8,4,8,7,8,10,3,2,1,2,Intermediate,AI,Data Scientist
+Master's,7,3,5,4,3,2,1,9,7,3,4,6,10,1,1,4,8,5,0,Intermediate,Cloud,DevOps Engineer
+Bachelor's,6,7,4,8,4,3,0,5,7,0,0,9,7,0,0,8,2,3,4,Fresher,Web,Mobile App Developer
+Master's,10,0,3,5,5,8,7,2,5,6,1,4,9,8,7,6,5,0,0,Intermediate,AI,AI Engineer
+Diploma,4,5,4,0,3,3,3,6,4,2,10,7,9,3,0,0,6,10,7,Experienced,Security,Cybersecurity Engineer
+Bachelor's,3,6,8,4,6,2,0,7,6,3,1,10,9,2,3,7,5,1,4,Intermediate,Web,Backend Developer
+Master's,9,0,8,1,5,8,10,5,3,6,0,9,9,10,4,1,3,0,2,Intermediate,AI,AI Engineer
+Bachelor's,10,5,5,0,9,5,4,9,0,7,2,5,6,3,9,3,4,2,3,Experienced,Data,Data Engineer
+Bachelor's,6,3,5,1,6,2,4,6,2,1,10,4,9,2,1,0,6,9,7,Experienced,Security,Cybersecurity Engineer
+Bachelor's,2,0,3,2,4,5,0,6,2,3,6,5,7,4,0,0,7,6,4,Intermediate,Cloud,Network Engineer
+Bachelor's,6,4,7,5,3,3,0,5,4,7,7,4,9,0,2,3,2,10,1,Experienced,Security,Cybersecurity Engineer
+PhD,10,2,0,2,6,7,7,4,1,8,4,8,10,8,8,0,4,2,1,Experienced,AI,Data Scientist
+PhD,5,7,5,5,4,2,4,4,7,0,1,5,7,2,1,8,4,3,2,Intermediate,Web,Mobile App Developer
+Diploma,4,0,5,0,1,2,2,4,0,0,6,5,7,2,1,2,6,9,4,Intermediate,Cloud,Network Engineer
+Bachelor's,2,4,1,10,1,0,2,3,9,0,0,6,6,0,2,10,3,0,1,Fresher,Web,Frontend Developer
+Diploma,10,4,2,2,8,8,3,1,4,9,5,8,10,4,10,1,1,2,3,Fresher,Data,Data Analyst
+Bachelor's,3,3,9,0,1,3,1,3,0,3,4,5,10,5,3,0,0,1,10,Intermediate,Embedded,Embedded Systems Engineer
+Bachelor's,9,2,2,2,8,10,10,3,3,8,2,6,10,10,9,0,1,3,2,Intermediate,Embedded,Data Scientist
+Diploma,1,6,2,10,4,1,1,3,10,2,4,7,5,0,0,9,1,2,1,Fresher,Web,Frontend Developer
+Master's,6,6,8,5,8,6,1,0,7,3,1,5,7,5,3,7,4,2,2,Fresher,General,Software Developer
+Bachelor's,3,5,2,10,6,0,0,1,8,3,1,8,6,1,0,10,1,0,1,Fresher,Web,Frontend Developer
+Bachelor's,2,2,0,0,2,3,0,6,1,1,4,5,8,2,1,2,7,10,4,Intermediate,Cloud,Network Engineer
+PhD,10,0,2,4,8,7,10,2,2,3,2,4,7,10,7,2,5,2,2,Intermediate,AI,AI Engineer
+Diploma,2,1,0,10,2,0,0,4,9,2,1,7,7,1,2,10,4,1,0,Fresher,Web,Frontend Developer
+High School,7,6,4,4,6,1,0,7,7,4,2,5,10,0,5,10,7,1,3,Intermediate,Web,Backend Developer
+Master's,7,0,7,3,4,4,0,4,3,5,10,6,10,6,2,3,2,10,2,Fresher,Security,Cybersecurity Engineer
+Diploma,4,2,2,10,5,4,3,5,10,4,1,5,10,1,3,9,3,0,0,Intermediate,Web,Frontend Developer
+Bachelor's,2,7,3,4,3,3,1,3,10,5,2,7,8,1,0,8,4,0,4,Experienced,Web,Mobile App Developer
+Bachelor's,8,5,5,3,3,3,3,7,6,0,6,5,10,3,2,4,10,4,5,Intermediate,Cloud,DevOps Engineer
+Bachelor's,1,3,2,6,0,4,1,1,9,1,0,8,6,0,0,10,2,0,2,Fresher,Web,UI/UX Designer
+Bachelor's,4,2,0,4,8,5,4,2,1,10,0,8,7,2,10,1,1,3,0,Fresher,Data,Data Analyst
+Bachelor's,6,4,4,0,8,7,0,2,4,7,2,7,6,5,8,3,0,4,2,Fresher,Data,Data Analyst
+Bachelor's,4,0,2,0,2,3,1,5,1,2,7,4,6,0,0,0,4,9,7,Experienced,Cloud,Network Engineer
+Bachelor's,10,6,3,3,6,4,4,4,4,5,9,8,10,1,3,3,5,10,3,Experienced,Security,Cybersecurity Engineer
+Bachelor's,7,6,4,1,2,3,5,8,7,3,1,4,10,2,4,1,10,3,2,Intermediate,Cloud,DevOps Engineer
+Bachelor's,9,7,2,10,10,2,1,4,10,1,0,4,10,0,5,9,7,1,0,Intermediate,AI,Full Stack Developer
+Bachelor's,8,2,4,0,7,3,5,8,6,4,4,5,7,0,1,1,10,1,2,Intermediate,Cloud,DevOps Engineer
+Master's,7,6,6,5,6,2,4,5,2,4,10,8,8,1,1,5,3,10,1,Experienced,Security,Cybersecurity Engineer
+Diploma,4,3,3,5,2,0,1,3,3,5,0,6,9,0,3,2,1,0,0,Experienced,General,QA Engineer
+Master's,5,5,3,2,9,6,5,7,1,6,2,8,10,3,10,0,4,0,0,Intermediate,Data,Data Engineer
+Bachelor's,9,1,4,4,4,7,10,4,2,6,0,7,8,10,7,2,5,0,1,Intermediate,AI,AI Engineer
+Diploma,6,6,0,6,8,2,1,6,3,4,3,7,8,1,5,5,2,1,0,Fresher,General,QA Engineer
+Bachelor's,5,6,7,5,7,6,6,4,1,7,8,5,7,2,0,0,2,8,4,Fresher,Security,Cybersecurity Analyst
+Master's,7,2,4,3,5,5,3,2,0,4,10,9,9,5,1,1,3,9,4,Fresher,Security,Cybersecurity Analyst
+Master's,1,1,1,8,5,4,1,0,9,3,2,7,8,4,0,10,0,1,0,Fresher,Web,UI/UX Designer
+Master's,9,1,5,2,4,6,10,5,2,7,4,6,10,10,4,2,2,1,1,Experienced,General,AI Engineer
+Master's,1,3,1,6,2,3,2,3,6,3,1,9,8,4,0,10,0,2,0,Fresher,Web,UI/UX Designer
+Bachelor's,10,5,8,5,5,2,2,3,4,4,1,4,7,1,2,6,3,5,0,Fresher,General,Software Developer
+Bachelor's,1,1,4,6,2,2,1,4,6,1,2,9,7,2,2,10,0,1,1,Fresher,Data,UI/UX Designer
+Bachelor's,7,1,9,1,3,2,2,1,2,2,1,3,9,3,1,0,2,3,10,Intermediate,Embedded,Embedded Systems Engineer
+Bachelor's,8,5,3,3,6,8,9,5,1,7,1,4,10,10,5,1,4,0,2,Intermediate,Embedded,Machine Learning Engineer
+Diploma,3,2,0,10,2,0,5,2,8,1,1,7,9,1,4,9,2,3,3,Fresher,General,Frontend Developer
+Bachelor's,2,1,2,9,1,2,1,1,8,2,3,10,10,2,1,9,1,3,0,Fresher,Web,UI/UX Designer
+Master's,10,5,4,2,6,5,10,4,0,9,2,6,8,10,8,0,4,2,0,Intermediate,AI,Machine Learning Engineer
+Master's,4,0,1,0,5,6,1,5,2,10,2,10,5,2,6,1,2,0,0,Fresher,General,Business Analyst
+PhD,10,2,4,1,5,10,10,3,2,5,0,4,8,10,7,2,2,0,2,Intermediate,AI,Machine Learning Engineer
+Diploma,5,8,0,7,7,2,3,2,6,4,1,5,10,3,1,5,2,1,3,Fresher,General,QA Engineer
+Bachelor's,2,3,3,5,5,1,4,5,4,5,2,4,5,0,0,4,1,3,2,Fresher,General,QA Engineer
+Bachelor's,4,0,0,10,2,0,0,3,10,2,2,6,9,0,4,10,0,1,1,Fresher,Web,Frontend Developer
+Bachelor's,8,4,3,1,5,6,10,5,3,7,0,4,10,8,3,3,5,0,1,Intermediate,AI,AI Engineer
+Bachelor's,4,4,3,3,8,6,2,3,0,10,0,8,7,7,7,4,2,2,1,Fresher,Data,Data Analyst
+Diploma,3,4,10,0,3,3,1,4,3,0,3,5,9,2,1,3,2,0,7,Experienced,Embedded,Embedded Systems Engineer
+Bachelor's,0,0,1,9,3,0,2,0,7,3,3,10,8,3,3,6,4,0,1,Fresher,Web,UI/UX Designer
+Master's,5,6,1,9,7,1,2,4,10,3,0,5,10,1,0,10,3,3,2,Intermediate,Web,Full Stack Developer
+Master's,0,2,0,4,0,1,2,3,10,2,1,8,4,2,0,10,1,2,0,Fresher,Web,UI/UX Designer
+Diploma,8,7,3,4,8,0,0,7,4,4,5,6,10,2,6,7,2,2,4,Intermediate,Web,Backend Developer
+Bachelor's,3,1,3,0,5,1,0,5,3,2,10,7,10,0,0,1,5,5,6,Intermediate,Cloud,Network Engineer
+Bachelor's,4,4,1,10,1,0,1,2,7,3,1,4,7,0,0,8,2,4,1,Fresher,Web,Frontend Developer
+Bachelor's,7,4,0,3,3,4,4,9,3,5,6,4,8,2,1,4,9,2,1,Fresher,Cloud,Cloud Engineer
+High School,5,0,5,2,6,0,3,2,4,6,5,6,8,2,8,0,5,0,2,Intermediate,General,Database Administrator
+Bachelor's,2,6,0,8,3,2,0,0,10,4,4,6,7,0,2,10,3,1,0,Fresher,Web,Frontend Developer
+Master's,0,3,3,6,0,3,5,1,6,4,0,8,3,2,0,10,0,2,1,Fresher,Web,UI/UX Designer
+Diploma,8,6,2,5,7,3,0,4,2,5,4,7,4,0,3,0,3,4,3,Fresher,General,QA Engineer
+Master's,7,4,5,1,8,2,3,10,1,1,3,8,7,1,2,4,10,1,0,Intermediate,Cloud,DevOps Engineer
+Master's,7,8,5,5,7,2,4,3,5,1,1,7,10,4,5,3,3,4,2,Fresher,Security,Software Developer
+Bachelor's,7,1,5,5,2,6,1,5,2,4,10,5,10,2,0,0,1,9,3,Fresher,Security,Cybersecurity Analyst
+Bachelor's,4,2,3,1,0,3,2,7,2,2,6,4,10,1,0,1,3,8,4,Intermediate,Cloud,Network Engineer
+Master's,10,4,3,1,6,9,10,7,1,5,4,5,8,10,6,0,4,1,2,Intermediate,AI,Machine Learning Engineer
+Bachelor's,5,2,3,3,10,5,0,5,0,4,2,4,7,1,8,1,7,1,0,Intermediate,Data,Database Administrator
+Bachelor's,4,8,2,7,6,4,2,4,6,1,3,5,6,3,0,7,4,3,4,Fresher,Web,Mobile App Developer
+Diploma,5,2,5,2,4,4,1,5,4,5,10,6,8,2,5,2,4,10,3,Experienced,AI,Cybersecurity Engineer
+PhD,5,3,4,3,2,5,9,4,3,7,5,6,10,9,2,1,1,1,1,Intermediate,AI,AI Engineer
+PhD,7,2,4,2,8,10,6,4,3,10,0,6,10,10,8,0,3,0,0,Intermediate,Cloud,Data Scientist
+Bachelor's,7,8,3,7,9,3,2,7,10,5,7,8,7,3,4,10,4,3,0,Intermediate,General,Backend Developer
+Master's,10,1,2,4,7,10,7,2,1,10,3,7,7,7,10,4,3,0,2,Intermediate,AI,Data Scientist
+Diploma,7,8,7,3,3,3,1,6,8,7,0,7,9,4,2,7,3,2,1,Fresher,General,Software Developer
+High School,5,6,3,3,6,2,1,3,6,3,0,6,9,2,3,5,2,1,0,Fresher,General,QA Engineer
+Bachelor's,5,3,1,10,8,6,3,5,9,6,1,6,7,0,1,10,5,1,0,Intermediate,Web,Full Stack Developer
+Diploma,10,2,4,1,5,3,3,5,4,6,10,5,8,2,2,2,2,10,0,Fresher,Security,Cybersecurity Analyst
+Master's,5,4,3,9,1,0,1,5,10,1,1,7,10,3,1,10,1,2,0,Fresher,Web,Frontend Developer
+Bachelor's,2,3,0,2,6,2,0,4,1,4,8,7,8,2,5,2,4,9,2,Fresher,Security,Cybersecurity Analyst
+Diploma,7,7,8,5,4,6,2,2,0,5,2,6,7,2,2,6,4,2,5,Fresher,General,Software Developer
+Diploma,3,3,1,4,10,1,2,7,0,5,5,4,6,0,9,0,4,2,3,Intermediate,Data,Database Administrator
+Master's,3,0,0,2,3,4,0,2,4,6,2,9,6,3,7,1,1,0,2,Fresher,General,Business Analyst
+Master's,10,7,2,3,4,10,8,4,1,7,2,7,9,8,7,1,6,0,0,Intermediate,AI,Machine Learning Engineer
+High School,4,2,1,0,10,3,1,8,2,6,5,9,7,0,9,0,1,6,3,Intermediate,Data,Database Administrator
+Bachelor's,7,5,1,4,10,2,0,2,3,4,5,5,6,0,6,0,3,3,1,Intermediate,Data,Database Administrator
+Diploma,7,1,2,1,7,4,0,10,4,4,1,2,8,0,2,4,10,2,1,Intermediate,Cloud,Cloud Engineer
+Master's,3,0,0,10,4,3,0,4,10,5,1,4,8,0,0,8,4,0,4,Fresher,Web,Frontend Developer
+Bachelor's,0,3,0,7,1,1,2,3,9,2,4,6,5,1,3,10,0,0,0,Fresher,Web,UI/UX Designer
+Master's,6,5,5,5,6,2,2,8,3,2,5,8,10,4,2,1,10,2,3,Intermediate,Cloud,DevOps Engineer
+Bachelor's,4,0,0,2,6,5,0,3,0,8,1,10,9,0,3,1,0,0,4,Experienced,General,Business Analyst
+High School,4,2,4,7,8,1,3,4,3,3,2,7,9,1,1,6,2,2,1,Fresher,Data,QA Engineer
+Bachelor's,6,7,5,6,4,2,1,5,7,0,0,4,8,0,2,5,6,5,1,Intermediate,Web,Backend Developer
+Diploma,7,6,2,2,5,2,1,5,7,5,1,9,7,0,0,0,1,2,0,Experienced,General,QA Engineer
+High School,1,0,0,7,1,3,0,0,9,2,2,9,10,3,2,10,1,0,2,Fresher,Web,UI/UX Designer
+Diploma,6,4,2,10,3,0,1,4,8,1,3,7,7,3,0,8,0,2,1,Fresher,Web,Frontend Developer
+Master's,6,3,4,5,5,3,4,8,3,4,10,8,10,1,1,0,6,10,0,Experienced,Security,Cybersecurity Engineer
+Bachelor's,4,6,8,3,4,4,6,6,0,5,10,4,10,3,4,0,5,9,3,Experienced,Security,Cybersecurity Engineer
+Diploma,7,2,1,0,6,4,3,10,5,4,5,7,7,2,2,2,7,1,1,Intermediate,Cloud,Cloud Engineer
+Diploma,5,0,3,2,10,4,3,0,1,9,0,8,10,2,9,4,2,0,0,Fresher,Data,Data Analyst
+Bachelor's,3,1,10,2,4,4,5,3,0,0,1,5,7,2,1,3,0,2,8,Intermediate,Embedded,Embedded Systems Engineer
+Diploma,9,4,1,6,6,2,2,7,6,7,0,9,6,4,4,5,1,1,0,Fresher,General,QA Engineer
+Master's,7,5,5,2,7,8,10,3,2,7,2,5,5,8,6,1,7,2,2,Intermediate,AI,Machine Learning Engineer
+Bachelor's,6,3,4,2,5,2,0,10,5,2,4,8,9,4,7,3,9,1,0,Intermediate,Cloud,DevOps Engineer
+Bachelor's,7,1,3,5,4,4,4,6,2,6,9,10,9,4,1,3,4,9,0,Fresher,Security,Cybersecurity Analyst
+Bachelor's,10,10,5,4,3,3,2,4,6,4,3,5,9,2,4,6,3,3,0,Fresher,General,Software Developer
+Bachelor's,0,2,0,3,6,5,0,2,3,8,0,10,8,0,7,1,2,3,2,Fresher,Web,Business Analyst
+Diploma,4,1,3,0,1,2,4,6,0,4,9,8,8,0,0,3,9,7,0,Experienced,Security,Network Engineer
+High School,6,0,4,2,4,5,1,4,2,5,10,8,8,4,1,1,3,10,0,Fresher,Security,Cybersecurity Analyst
+High School,9,2,5,2,5,8,10,3,0,10,0,6,8,10,9,2,2,0,1,Intermediate,AI,Machine Learning Engineer
+Master's,3,2,3,0,4,1,0,5,1,2,8,7,6,0,1,2,6,9,2,Intermediate,Cloud,Network Engineer
+High School,6,5,0,4,4,1,3,8,5,3,1,8,8,3,4,5,10,4,2,Intermediate,Cloud,Cloud Engineer
+Bachelor's,4,0,9,0,2,4,6,3,0,3,5,3,7,1,0,2,3,3,10,Intermediate,Embedded,Embedded Systems Engineer
+Bachelor's,1,7,1,4,9,1,1,4,3,7,3,4,5,0,8,1,2,1,1,Intermediate,Data,Database Administrator
+Master's,9,3,3,2,7,8,9,5,2,4,2,5,10,10,8,0,3,0,1,Intermediate,Security,Machine Learning Engineer
+Bachelor's,4,0,2,3,8,8,1,1,1,9,1,6,8,3,6,0,2,1,1,Fresher,Data,Data Analyst
+Bachelor's,6,7,5,6,7,1,2,3,6,5,3,6,9,2,1,0,3,1,4,Fresher,General,Software Developer
+Master's,6,4,2,1,7,3,5,4,2,10,0,8,3,2,7,3,2,2,2,Fresher,General,Business Analyst
+Master's,7,5,2,2,5,3,0,8,6,2,5,6,8,4,2,2,10,2,0,Intermediate,Cloud,Cloud Engineer
+High School,7,1,2,0,5,9,1,1,0,7,1,7,8,4,10,2,5,0,1,Fresher,Data,Data Analyst
+Bachelor's,7,3,2,4,4,8,9,4,4,7,0,4,6,8,6,3,3,4,1,Intermediate,AI,Machine Learning Engineer
+Bachelor's,8,5,5,2,4,1,3,7,4,4,5,7,10,0,5,4,10,1,0,Intermediate,Cloud,DevOps Engineer
+PhD,9,5,5,1,6,10,10,7,3,5,2,4,7,10,7,2,5,2,0,Intermediate,AI,Machine Learning Engineer
+Bachelor's,5,0,0,4,9,6,3,3,2,8,3,10,8,5,10,4,3,2,2,Fresher,Data,Data Analyst
+Bachelor's,7,4,1,6,3,0,0,8,6,5,4,7,8,0,6,5,10,2,1,Intermediate,Cloud,Cloud Engineer
+Bachelor's,6,8,3,10,6,2,1,6,10,3,3,6,9,4,3,10,5,1,1,Intermediate,Web,Full Stack Developer
+Bachelor's,4,5,1,4,6,1,0,10,5,3,6,6,7,0,2,4,10,3,3,Intermediate,Cloud,Cloud Engineer
+Diploma,6,4,3,0,5,3,3,10,5,3,5,6,8,3,2,4,10,4,3,Fresher,Cloud,Cloud Engineer
+Master's,2,0,3,2,7,5,3,0,4,9,0,9,9,5,8,1,0,2,0,Fresher,General,Business Analyst
+Bachelor's,2,10,4,8,1,2,1,4,7,2,2,8,8,3,2,9,0,3,5,Fresher,Web,Mobile App Developer
+Master's,8,1,2,1,9,10,9,5,4,8,0,7,8,7,8,0,1,0,3,Experienced,AI,Data Scientist
+Master's,6,1,5,5,6,5,2,6,1,5,10,7,10,1,2,1,4,10,3,Experienced,Security,Cybersecurity Engineer
+Master's,4,4,1,3,8,4,0,4,0,4,3,8,6,0,9,0,5,2,1,Fresher,Data,Database Administrator
+High School,2,2,0,6,1,4,2,0,7,4,3,10,8,4,1,9,2,0,4,Fresher,Web,UI/UX Designer
+Master's,6,4,3,4,5,8,10,5,4,7,2,6,10,9,4,0,4,1,3,Intermediate,AI,Machine Learning Engineer
+Diploma,8,3,0,9,9,1,2,5,10,0,3,7,9,1,2,10,2,0,0,Intermediate,Web,Full Stack Developer
+Bachelor's,4,5,0,10,1,0,1,3,10,2,0,6,6,5,2,10,1,1,2,Fresher,Web,Frontend Developer
+Bachelor's,8,3,10,5,8,4,4,4,2,3,10,8,8,1,0,2,6,10,5,Intermediate,Security,Cybersecurity Engineer
+Master's,3,0,1,5,6,4,1,3,2,6,0,10,8,1,7,2,1,1,2,Fresher,General,Business Analyst
+Diploma,3,3,4,0,8,4,0,4,2,6,2,7,8,0,10,2,2,6,0,Fresher,Data,Database Administrator
+Diploma,4,5,5,1,4,3,3,5,5,2,10,5,10,1,1,4,6,10,0,Fresher,Security,Cybersecurity Engineer
+Diploma,7,3,5,8,10,5,0,2,1,8,0,8,9,3,9,0,0,0,1,Fresher,Security,Data Analyst
+Master's,7,8,4,4,9,3,0,7,7,1,4,6,10,3,3,7,6,3,2,Intermediate,Web,Backend Developer
+Master's,6,9,5,4,9,3,0,5,7,3,5,7,8,3,0,7,6,4,1,Intermediate,Web,Backend Developer
+Master's,7,5,3,0,6,9,7,1,5,10,2,6,10,8,9,2,0,4,1,Intermediate,AI,Data Scientist
+PhD,8,0,0,4,7,8,10,5,2,9,1,7,10,10,10,3,0,2,1,Intermediate,AI,Data Scientist
+Bachelor's,6,6,3,4,8,1,0,6,9,5,3,6,8,3,4,10,3,2,2,Experienced,Web,Backend Developer
+Bachelor's,6,4,3,0,1,2,2,4,2,0,3,5,10,3,0,0,7,7,6,Intermediate,AI,Network Engineer
+Bachelor's,6,5,5,0,6,10,10,5,4,6,1,6,9,9,6,1,2,2,0,Intermediate,AI,Machine Learning Engineer
+Diploma,9,10,7,6,9,1,2,5,5,5,1,7,7,4,5,9,8,2,5,Intermediate,Web,Backend Developer
+Diploma,2,2,1,6,3,2,0,0,8,4,1,10,6,1,0,9,0,3,1,Fresher,Web,UI/UX Designer
+Master's,7,4,3,3,6,6,2,3,1,5,7,7,10,1,2,5,4,6,0,Experienced,Security,Cybersecurity Analyst
+Diploma,4,4,4,1,3,0,0,5,1,3,7,5,3,2,1,2,6,10,3,Intermediate,Web,Network Engineer
+Master's,7,2,3,0,0,0,0,3,0,0,6,7,7,1,2,4,10,8,4,Intermediate,Cloud,Network Engineer
+Master's,6,6,2,9,4,3,1,10,5,2,4,8,10,0,1,6,10,3,3,Intermediate,Cloud,Cloud Engineer
+Bachelor's,7,3,9,1,0,5,5,0,1,1,3,5,7,5,1,0,1,1,10,Intermediate,Embedded,Embedded Systems Engineer
+Bachelor's,4,6,4,5,4,4,2,4,4,2,10,4,7,3,4,1,2,9,1,Experienced,Security,Cybersecurity Engineer
+Diploma,6,7,3,3,6,3,5,7,4,6,9,6,10,5,0,2,4,10,5,Experienced,Security,Cybersecurity Engineer
+Master's,0,1,1,7,1,4,3,1,10,1,0,7,9,2,0,10,0,1,1,Fresher,Web,UI/UX Designer
+Bachelor's,6,5,3,4,6,2,0,10,5,6,6,5,5,0,3,3,9,0,2,Intermediate,Cloud,DevOps Engineer
+Diploma,6,2,2,0,6,1,3,4,2,4,10,9,9,1,3,0,1,10,4,Experienced,Security,Cybersecurity Analyst
+Bachelor's,7,4,0,6,5,1,0,8,10,3,3,7,9,2,2,10,5,0,2,Intermediate,Web,Full Stack Developer
+Bachelor's,9,4,0,1,10,6,2,7,2,10,2,7,8,5,8,0,6,1,0,Intermediate,Data,Data Engineer
+Bachelor's,9,8,4,5,10,3,1,1,8,5,4,6,10,2,3,5,5,3,2,Fresher,Cloud,Software Developer
+Master's,8,4,4,2,7,6,2,4,0,3,8,7,8,3,1,2,1,10,0,Fresher,Security,Cybersecurity Analyst
+Master's,8,8,4,4,6,4,4,3,4,3,3,6,8,3,4,4,2,3,0,Experienced,General,Software Developer
+Diploma,7,7,5,6,3,4,2,2,5,4,4,10,10,2,4,6,2,0,3,Fresher,General,Software Developer
+Bachelor's,8,7,7,8,7,2,0,6,7,5,2,2,5,0,2,8,4,0,0,Fresher,Web,Backend Developer
+High School,2,3,3,0,10,1,1,8,4,4,4,8,6,0,7,2,2,4,0,Intermediate,Data,Database Administrator
+Master's,6,2,3,4,8,7,5,3,0,10,0,10,9,3,9,2,3,0,1,Fresher,Data,Data Analyst
+Bachelor's,7,5,10,0,2,2,6,3,1,5,2,6,10,4,1,2,0,4,10,Intermediate,Embedded,Embedded Systems Engineer
+Bachelor's,5,6,6,10,9,1,0,4,9,5,2,7,9,0,2,8,4,1,0,Intermediate,AI,Full Stack Developer
+Bachelor's,6,4,2,9,7,2,2,5,8,3,3,10,8,3,3,10,6,4,3,Intermediate,Web,Full Stack Developer
+Bachelor's,7,3,4,5,6,1,1,10,5,3,4,6,9,3,3,3,10,3,1,Intermediate,Cloud,DevOps Engineer
+Bachelor's,1,1,0,4,1,0,1,1,8,3,2,8,8,2,4,8,0,2,2,Fresher,Web,UI/UX Designer
+Master's,7,2,3,0,8,9,10,6,0,10,0,9,10,7,10,1,3,1,3,Intermediate,Security,Data Scientist
+Master's,4,9,6,5,4,4,2,2,5,1,0,4,9,3,5,4,4,2,1,Fresher,General,Software Developer
+Bachelor's,6,2,10,0,1,3,2,1,0,3,3,3,10,2,0,0,3,4,10,Fresher,Embedded,Embedded Systems Engineer
+Diploma,7,10,6,6,10,2,2,8,9,4,4,9,7,2,3,7,3,4,0,Intermediate,Web,Backend Developer
+Bachelor's,9,2,3,3,9,9,10,3,3,9,1,6,10,10,8,1,1,0,3,Intermediate,AI,Data Scientist
+Diploma,2,3,0,7,3,8,3,0,6,7,0,8,7,2,8,6,1,0,2,Fresher,General,Business Analyst
+Bachelor's,5,0,1,10,4,0,0,0,10,1,1,7,5,2,0,10,0,0,0,Fresher,Web,Frontend Developer
+Bachelor's,8,5,2,2,8,6,5,7,1,8,1,6,8,8,7,0,5,0,0,Intermediate,Data,Data Engineer
+Diploma,7,3,0,3,4,1,2,3,1,5,10,6,8,1,2,3,1,10,3,Fresher,Security,Cybersecurity Analyst
+High School,6,7,4,3,7,1,0,3,7,3,0,5,9,0,0,2,2,3,0,Fresher,General,QA Engineer
+Bachelor's,5,3,3,2,7,1,2,9,6,2,6,8,8,2,1,4,10,2,2,Fresher,Cloud,DevOps Engineer
+Bachelor's,6,4,2,5,4,3,5,2,3,6,10,7,10,2,2,1,3,10,2,Fresher,Security,Cybersecurity Analyst
+Bachelor's,8,5,1,3,9,7,2,0,2,8,1,7,5,3,9,3,5,1,2,Fresher,Data,Data Analyst
+Bachelor's,6,5,10,0,0,2,4,0,1,2,5,5,8,5,1,1,0,2,9,Intermediate,Embedded,Embedded Systems Engineer
+Diploma,6,2,2,3,9,5,4,3,3,10,1,10,7,3,8,0,0,0,1,Fresher,Data,Data Analyst
+Bachelor's,7,5,3,2,5,2,2,4,1,5,10,8,10,5,1,2,2,8,3,Fresher,Security,Cybersecurity Analyst
+Master's,4,5,3,3,10,7,3,1,3,10,1,7,7,3,7,0,3,0,1,Fresher,Data,Data Analyst
+Bachelor's,4,8,2,7,9,1,2,6,10,0,3,7,7,2,0,10,2,2,1,Intermediate,Web,Full Stack Developer
+Master's,6,6,4,2,6,4,2,5,7,2,3,5,7,1,2,10,7,1,0,Intermediate,Security,Backend Developer
+Bachelor's,6,3,3,3,5,2,0,6,1,3,9,7,8,0,2,0,5,9,5,Intermediate,Cloud,Network Engineer
+Master's,3,4,0,6,10,1,1,3,0,8,5,7,9,2,6,2,2,2,1,Intermediate,Embedded,Database Administrator
+Bachelor's,6,2,2,2,6,8,6,0,3,8,1,6,6,5,10,5,4,2,4,Fresher,Data,Data Analyst
+Bachelor's,2,4,0,5,7,4,1,1,1,8,0,9,7,0,5,0,5,2,2,Fresher,General,Business Analyst
+Bachelor's,6,5,5,6,8,1,1,8,4,0,2,6,7,3,5,8,7,2,1,Intermediate,Data,Backend Developer
+Bachelor's,4,3,1,6,2,3,1,1,3,3,0,4,9,0,1,5,2,0,2,Experienced,General,QA Engineer
+Master's,9,2,3,3,9,8,7,6,2,7,1,5,9,7,10,2,2,0,3,Intermediate,Data,Data Engineer
+Bachelor's,4,2,4,0,2,0,3,7,3,5,6,5,5,0,0,0,4,8,5,Intermediate,Cloud,Network Engineer
+Master's,2,2,3,0,6,3,2,5,3,7,4,6,9,0,9,0,3,5,0,Fresher,Data,Database Administrator
+Bachelor's,5,4,10,0,4,4,4,1,2,2,5,4,10,4,1,1,1,1,10,Intermediate,Embedded,Embedded Systems Engineer
+Master's,6,6,1,8,4,1,0,5,9,2,1,7,7,0,2,10,4,1,1,Intermediate,Web,Full Stack Developer
+Master's,7,5,7,4,4,2,3,5,5,3,9,9,10,1,4,0,3,9,3,Experienced,Security,Cybersecurity Engineer
+Bachelor's,6,1,2,2,7,4,3,4,3,3,9,8,9,2,2,4,5,9,0,Fresher,Security,Cybersecurity Analyst
+Bachelor's,3,5,2,5,6,0,4,5,7,0,0,5,10,1,0,8,0,2,3,Fresher,Web,Mobile App Developer
+Bachelor's,8,0,3,2,10,9,6,5,1,10,0,10,8,8,9,0,3,4,0,Experienced,AI,Data Scientist
+Bachelor's,8,8,2,4,9,1,2,6,7,5,0,5,10,5,7,8,7,3,3,Intermediate,Web,Backend Developer
+Bachelor's,5,7,6,4,10,3,2,5,4,6,0,5,10,6,2,4,4,1,3,Fresher,General,Software Developer
+Bachelor's,6,10,5,4,7,2,0,8,9,3,4,7,8,3,4,9,5,1,1,Intermediate,Web,Backend Developer
+Bachelor's,4,3,5,2,9,3,1,5,0,6,3,6,8,0,8,2,4,7,1,Intermediate,Data,Database Administrator
+Bachelor's,6,3,5,6,4,6,4,9,0,4,4,7,8,0,1,4,9,2,0,Intermediate,Cloud,Cloud Engineer
+Bachelor's,3,0,0,7,0,3,0,0,10,1,2,7,9,5,0,9,3,0,2,Fresher,Web,UI/UX Designer
+Bachelor's,5,3,2,10,1,2,0,6,10,3,1,10,6,3,2,10,1,0,0,Intermediate,Web,Frontend Developer
+Diploma,4,8,0,7,3,2,4,3,6,2,5,7,7,1,0,7,5,2,2,Experienced,Web,Mobile App Developer
+Master's,9,5,3,0,5,5,1,4,2,6,9,6,10,1,0,5,4,10,3,Fresher,Security,Cybersecurity Analyst
+Diploma,7,6,7,2,1,2,4,8,3,3,10,7,7,2,4,2,5,7,1,Experienced,Embedded,Cybersecurity Engineer
+Bachelor's,5,4,2,5,7,1,2,2,6,7,1,7,10,1,0,5,1,2,0,Fresher,General,QA Engineer
+Master's,2,6,5,6,5,1,2,3,9,3,1,7,7,0,4,7,4,1,3,Fresher,Web,Mobile App Developer
+Bachelor's,3,1,9,2,0,2,0,4,1,2,1,7,10,3,0,2,2,3,10,Intermediate,Embedded,Embedded Systems Engineer
+Diploma,5,5,3,3,6,3,2,5,5,3,10,5,10,2,1,2,4,10,3,Experienced,Security,Cybersecurity Engineer
+Master's,10,1,0,1,7,10,10,3,4,10,1,6,10,9,9,0,1,0,2,Intermediate,AI,Data Scientist
+Master's,10,7,3,1,10,6,2,7,2,7,1,5,10,3,10,1,4,1,0,Intermediate,Data,Data Engineer
+Bachelor's,3,10,3,4,1,2,4,1,6,3,2,5,6,2,2,9,2,0,5,Fresher,Web,Mobile App Developer
+Bachelor's,5,8,7,7,5,3,3,3,7,5,2,4,9,3,1,5,4,2,4,Fresher,Web,Mobile App Developer
+Master's,7,7,3,2,8,6,3,9,0,9,0,7,8,5,8,0,5,1,2,Intermediate,Data,Data Engineer
+Bachelor's,5,6,9,0,3,3,5,4,3,4,4,4,10,4,0,0,1,4,10,Experienced,Embedded,Embedded Systems Engineer
+Bachelor's,6,7,6,5,4,5,3,8,4,5,3,6,10,0,2,1,10,2,2,Intermediate,Cloud,DevOps Engineer
+Master's,1,4,1,0,5,4,0,4,0,1,9,8,8,2,1,0,4,9,5,Intermediate,Cloud,Network Engineer
+Master's,5,1,3,1,2,2,2,7,3,3,3,5,10,5,1,1,10,3,2,Intermediate,Cloud,DevOps Engineer
+PhD,6,4,10,3,1,5,7,2,0,1,4,2,8,2,1,4,2,0,10,Intermediate,Embedded,Embedded Systems Engineer
+Bachelor's,3,6,2,6,4,1,2,2,9,2,4,3,9,3,1,7,2,3,2,Fresher,Web,Mobile App Developer
+Bachelor's,7,8,4,3,5,1,2,5,9,3,5,8,10,0,3,10,6,3,0,Fresher,Web,Backend Developer
+Master's,6,3,8,4,6,4,5,4,3,5,10,10,10,1,0,1,3,5,2,Experienced,Security,Cybersecurity Engineer
+Bachelor's,9,6,4,4,7,6,8,4,1,7,2,8,9,9,3,1,4,1,5,Intermediate,AI,Machine Learning Engineer
+Bachelor's,5,5,2,5,8,0,3,10,2,2,3,6,7,2,3,0,8,4,2,Intermediate,Data,Cloud Engineer
+Master's,10,2,3,5,8,9,10,5,1,9,1,8,7,7,8,0,1,2,1,Intermediate,AI,Data Scientist
+Master's,8,3,3,3,6,9,5,7,0,7,0,5,10,10,8,0,0,1,0,Intermediate,AI,Data Scientist
+Master's,8,3,4,1,7,8,7,2,3,6,1,7,7,8,9,2,3,0,1,Intermediate,AI,Machine Learning Engineer
+Bachelor's,6,1,0,10,3,2,4,1,9,5,3,8,6,3,2,10,0,1,4,Fresher,Web,Frontend Developer
+Bachelor's,7,7,5,3,8,0,3,6,8,4,4,6,9,0,1,8,5,4,2,Intermediate,Web,Backend Developer
+PhD,3,3,4,1,3,1,0,6,0,0,7,8,5,0,1,3,9,8,7,Intermediate,Cloud,Network Engineer
+Bachelor's,9,5,3,3,5,1,2,10,5,6,4,4,10,0,1,3,10,1,0,Experienced,Cloud,Cloud Engineer
+Diploma,4,5,3,2,10,7,0,5,3,5,5,6,8,0,7,0,6,5,2,Fresher,Data,Database Administrator
+Bachelor's,9,2,3,3,6,0,0,10,3,3,3,7,9,2,0,4,8,2,0,Intermediate,Cloud,DevOps Engineer
+PhD,7,1,6,4,5,9,10,5,3,7,0,6,9,7,5,2,6,0,1,Intermediate,AI,AI Engineer
+Diploma,6,9,4,5,9,2,2,6,9,4,4,7,10,4,3,10,6,5,3,Intermediate,Web,Backend Developer
+Bachelor's,9,7,4,5,10,2,1,3,6,5,0,8,9,1,2,10,8,2,1,Intermediate,Web,Backend Developer
+Master's,3,2,2,1,7,3,0,2,0,6,3,10,10,3,8,2,1,2,3,Fresher,Data,Business Analyst
+High School,6,6,5,4,3,0,2,10,5,7,5,5,6,4,2,1,10,1,0,Intermediate,Cloud,Cloud Engineer
+Bachelor's,8,0,5,1,6,3,4,9,1,2,4,3,8,0,3,3,10,3,2,Intermediate,Cloud,Cloud Engineer
+Bachelor's,4,2,7,6,6,3,1,5,4,5,10,8,10,1,6,0,3,10,4,Experienced,Security,Cybersecurity Engineer
+Bachelor's,2,8,3,7,5,0,3,3,6,2,3,5,10,4,1,8,2,1,4,Fresher,Web,Mobile App Developer
+Diploma,4,2,1,1,8,1,1,4,2,3,5,9,9,3,9,1,4,2,2,Intermediate,Data,Database Administrator
+Bachelor's,3,10,2,6,5,2,2,4,8,2,1,6,8,2,1,6,0,3,0,Fresher,Security,Mobile App Developer
+Bachelor's,1,0,2,7,5,0,0,4,8,1,1,7,8,2,3,10,3,1,4,Fresher,Web,UI/UX Designer
+Bachelor's,6,8,3,2,8,5,0,6,7,3,1,4,6,4,1,7,9,1,2,Intermediate,Web,Backend Developer
+Bachelor's,5,3,1,10,0,0,4,2,8,2,3,3,7,0,0,10,1,1,0,Fresher,Web,Frontend Developer
+Bachelor's,0,1,0,6,0,3,2,3,8,1,0,8,10,2,1,10,1,0,2,Fresher,Web,UI/UX Designer
+Bachelor's,3,9,2,10,8,1,0,3,10,4,1,8,4,1,4,10,3,1,0,Intermediate,Web,Full Stack Developer
+Bachelor's,8,6,3,3,7,2,3,10,7,3,4,8,10,1,0,5,8,0,1,Intermediate,Cloud,Cloud Engineer
+Bachelor's,2,0,0,2,10,4,4,6,2,9,1,3,6,2,8,0,3,1,0,Intermediate,Data,Database Administrator
+Bachelor's,10,6,4,2,10,5,3,9,0,7,2,7,9,6,9,0,6,0,2,Intermediate,Data,Data Engineer
+PhD,9,2,7,5,5,7,9,5,3,7,2,4,10,10,3,4,6,1,3,Intermediate,Data,AI Engineer
+Master's,2,0,2,3,6,6,0,2,4,10,2,10,6,0,7,3,3,0,0,Experienced,Web,Business Analyst
+Master's,8,5,1,3,4,3,3,3,2,6,10,7,9,0,5,3,3,10,3,Fresher,Security,Cybersecurity Analyst
+PhD,9,4,5,2,6,3,9,4,3,6,1,6,9,10,5,2,5,2,1,Intermediate,AI,AI Engineer
+Bachelor's,8,4,3,10,6,0,0,8,9,2,0,9,8,1,4,10,3,0,3,Experienced,Web,Full Stack Developer
+Master's,6,5,4,3,7,1,1,5,3,5,10,7,10,2,1,1,5,9,2,Fresher,Security,Cybersecurity Analyst
+Bachelor's,8,7,8,3,10,1,0,3,3,4,2,6,7,4,2,7,3,0,0,Fresher,General,Software Developer
+Bachelor's,7,10,3,4,9,3,2,5,6,3,5,6,8,0,6,8,8,2,1,Intermediate,Web,Backend Developer
+Bachelor's,8,10,3,5,8,2,1,6,7,4,5,5,8,1,2,5,6,3,1,Intermediate,Web,Backend Developer
+Master's,3,2,4,3,5,7,3,5,0,8,4,9,8,3,10,3,1,2,0,Fresher,Data,Data Analyst
+Bachelor's,6,5,10,0,0,4,5,0,1,0,3,4,9,1,0,6,1,5,10,Intermediate,Embedded,Embedded Systems Engineer
+Bachelor's,3,2,0,2,6,4,4,3,1,9,0,9,9,3,7,4,3,1,2,Fresher,General,Business Analyst
+Bachelor's,7,1,3,4,3,2,3,10,7,2,4,6,10,3,4,0,10,4,2,Intermediate,Cloud,DevOps Engineer
+Diploma,8,1,4,5,9,4,3,10,3,2,4,8,7,0,2,4,9,4,3,Intermediate,Web,Cloud Engineer
+Bachelor's,3,8,3,7,3,0,7,6,7,3,4,6,8,2,3,10,4,2,7,Fresher,Web,Mobile App Developer
+Bachelor's,7,4,8,4,6,2,2,6,5,7,6,10,10,3,0,2,5,8,0,Experienced,Security,Cybersecurity Engineer
+Master's,8,3,5,0,8,8,10,5,0,7,0,7,9,10,4,3,2,5,6,Fresher,AI,AI Engineer
+Bachelor's,5,4,5,0,10,2,0,4,1,7,1,6,8,3,9,3,3,4,0,Intermediate,Data,Database Administrator
+PhD,7,5,2,4,6,8,7,5,3,5,2,6,8,10,2,2,7,3,3,Intermediate,AI,Machine Learning Engineer
+Master's,8,1,5,0,3,7,9,5,1,6,1,7,9,10,3,3,3,1,4,Intermediate,AI,AI Engineer
+Diploma,0,0,2,6,3,0,0,2,7,1,3,8,6,2,1,10,0,1,3,Fresher,Web,UI/UX Designer
+Master's,10,2,8,3,8,9,10,4,0,6,2,6,9,10,7,2,2,0,5,Intermediate,AI,Machine Learning Engineer
+Master's,8,0,0,1,6,6,8,3,5,8,1,8,9,10,10,2,2,0,0,Intermediate,AI,Data Scientist
+Diploma,3,1,0,4,6,5,2,0,3,10,1,10,6,3,6,2,2,1,3,Fresher,General,Business Analyst
+Master's,7,4,5,3,7,5,2,5,1,2,10,8,10,1,5,2,2,9,5,Fresher,Cloud,Cybersecurity Analyst
+Bachelor's,3,5,0,8,5,1,0,3,9,1,0,8,7,3,1,10,3,3,1,Fresher,Web,Frontend Developer
+Bachelor's,6,8,4,3,3,0,2,3,7,1,1,6,9,1,0,7,1,1,2,Experienced,Web,Mobile App Developer
+Diploma,6,5,5,4,4,2,5,5,2,3,10,8,9,1,2,4,4,10,3,Intermediate,Security,Cybersecurity Analyst
+Bachelor's,6,9,3,5,10,2,0,5,7,2,3,6,10,2,1,10,8,2,1,Intermediate,Web,Backend Developer
+PhD,5,3,4,5,0,2,0,9,1,0,8,6,9,0,2,1,5,9,4,Intermediate,Cloud,Network Engineer
+Diploma,2,5,3,7,7,5,1,5,6,6,2,8,7,1,2,1,2,3,0,Fresher,General,QA Engineer
+Bachelor's,6,5,4,2,8,2,0,5,0,3,10,6,10,0,3,0,5,9,4,Fresher,Security,Cybersecurity Analyst
+Bachelor's,9,2,0,2,7,10,6,3,2,9,1,7,7,7,8,1,1,2,1,Intermediate,AI,Data Scientist
+Bachelor's,10,4,2,0,9,6,4,10,5,8,1,8,10,5,10,2,4,0,1,Intermediate,Web,Data Engineer
+Bachelor's,5,3,0,0,5,3,2,7,0,2,8,6,7,1,0,2,4,7,5,Intermediate,AI,Network Engineer
+Bachelor's,7,7,3,4,7,0,0,6,9,3,5,4,7,3,4,7,7,1,0,Intermediate,Web,Backend Developer
+Master's,7,6,4,1,6,4,8,5,3,4,0,8,7,10,6,4,4,1,3,Intermediate,AI,Machine Learning Engineer
+Bachelor's,3,2,3,0,4,4,2,6,0,4,6,7,9,3,3,3,4,7,2,Intermediate,Cloud,Network Engineer
+Diploma,7,2,8,2,2,4,2,3,0,1,2,6,8,1,0,2,1,1,10,Intermediate,Embedded,Embedded Systems Engineer
+Master's,5,4,0,9,6,4,0,4,10,2,2,9,8,2,2,7,5,2,2,Intermediate,Web,Full Stack Developer
+Bachelor's,9,9,4,4,6,5,1,3,8,5,3,5,6,1,5,8,3,3,1,Intermediate,Web,Backend Developer
+Bachelor's,1,0,3,5,0,1,0,1,6,3,3,9,5,1,1,6,0,0,1,Fresher,Web,UI/UX Designer
+Bachelor's,1,2,1,10,3,2,0,3,10,2,2,7,8,2,2,9,0,0,0,Fresher,Web,Frontend Developer
+Bachelor's,2,1,0,6,0,2,0,3,7,2,1,9,7,2,0,10,2,2,0,Fresher,Security,UI/UX Designer
+Bachelor's,5,4,6,3,6,0,3,5,0,2,10,7,10,2,2,2,3,10,3,Fresher,Security,Cybersecurity Analyst
+Diploma,5,1,0,3,3,3,1,2,5,1,0,9,10,2,3,3,1,2,3,Fresher,General,QA Engineer
+Master's,5,7,3,8,7,1,2,8,9,4,2,7,8,1,3,10,3,4,1,Intermediate,Web,Full Stack Developer
+Bachelor's,9,6,6,3,9,6,3,5,4,9,0,5,9,1,8,5,5,3,3,Intermediate,Data,Data Engineer
+Diploma,6,4,3,3,5,0,2,7,5,1,6,2,10,0,0,3,10,3,3,Intermediate,Cloud,DevOps Engineer
+Bachelor's,3,4,0,1,4,0,1,5,1,3,8,5,6,1,0,0,6,7,4,Intermediate,Cloud,Network Engineer
+Bachelor's,7,3,10,1,3,4,5,1,3,1,2,5,10,2,4,3,1,0,10,Fresher,AI,Embedded Systems Engineer
+Bachelor's,5,3,0,4,4,1,1,10,2,1,5,6,10,1,2,3,10,5,3,Intermediate,Cloud,Cloud Engineer
+Bachelor's,3,5,3,2,3,1,1,4,3,1,6,7,7,1,0,0,7,7,5,Intermediate,Cloud,Network Engineer
+PhD,10,2,3,6,3,8,10,7,3,4,0,5,8,9,4,2,5,0,1,Intermediate,AI,AI Engineer
+Bachelor's,6,1,0,2,6,6,0,3,4,6,0,10,6,2,6,1,1,0,2,Fresher,General,Business Analyst
+Bachelor's,2,3,3,3,8,6,2,2,5,7,1,7,5,5,8,2,2,0,0,Fresher,General,Business Analyst
+Bachelor's,8,6,0,9,10,5,0,5,10,3,1,7,9,0,4,10,3,4,0,Intermediate,Web,Full Stack Developer
+Diploma,6,4,2,4,8,2,1,9,6,4,1,3,7,2,2,4,10,5,2,Intermediate,Cloud,Cloud Engineer
+Master's,8,4,3,5,6,9,7,0,4,9,2,10,8,8,9,3,1,0,3,Intermediate,AI,Data Scientist
+PhD,8,3,2,1,7,9,8,6,1,7,3,7,10,10,5,0,3,1,0,Intermediate,AI,Machine Learning Engineer
+Master's,8,2,5,3,5,10,9,4,5,8,0,6,9,6,5,1,3,1,4,Intermediate,AI,Machine Learning Engineer
+Bachelor's,5,5,3,5,2,3,2,9,4,5,5,6,6,0,3,1,10,7,2,Intermediate,Cloud,Cloud Engineer
+Bachelor's,0,1,10,0,3,4,3,0,0,3,5,2,9,1,1,1,5,1,10,Intermediate,Embedded,Embedded Systems Engineer
+Bachelor's,7,4,2,2,5,5,4,10,5,1,5,5,9,7,1,8,10,2,0,Intermediate,Cloud,Cloud Engineer
+Master's,0,2,2,0,10,3,1,4,3,8,3,7,8,2,10,0,3,2,2,Intermediate,Data,Database Administrator
+Diploma,3,6,4,5,6,2,0,3,5,4,4,9,7,2,2,1,2,0,1,Fresher,General,QA Engineer
+Bachelor's,7,4,1,2,7,4,3,10,1,1,4,10,8,3,3,4,10,1,0,Intermediate,Cloud,DevOps Engineer
+Bachelor's,9,8,2,9,6,2,0,4,6,4,5,5,6,3,4,8,6,2,1,Intermediate,Web,Backend Developer
+Master's,10,4,5,3,5,8,10,6,3,6,0,6,9,7,7,3,8,0,1,Intermediate,AI,Machine Learning Engineer
+Bachelor's,5,8,7,3,9,4,0,7,8,3,2,5,7,2,2,7,8,0,0,Intermediate,Embedded,Backend Developer
+Master's,9,1,6,2,10,9,8,1,1,9,4,7,10,10,10,1,6,0,0,Intermediate,AI,Data Scientist
+PhD,10,2,4,4,5,10,10,4,2,4,2,5,10,8,5,4,1,4,1,Intermediate,Embedded,AI Engineer
+Master's,2,4,3,9,2,1,2,0,10,0,3,8,10,2,1,9,1,1,3,Fresher,Web,Frontend Developer
+Master's,3,9,5,7,5,5,1,4,8,4,2,8,6,0,0,8,2,1,2,Fresher,Web,Mobile App Developer
+Diploma,10,1,4,2,6,5,9,6,5,2,3,6,6,5,3,2,4,2,1,Intermediate,AI,AI Engineer
+Bachelor's,6,4,3,3,5,6,0,2,5,9,1,10,7,0,5,3,1,1,0,Fresher,General,Business Analyst
+Bachelor's,7,6,5,3,9,2,4,3,5,4,1,4,10,3,5,7,2,3,3,Fresher,Cloud,Software Developer
+Diploma,0,0,2,5,0,3,3,1,8,0,0,6,7,2,2,9,3,2,0,Fresher,Web,UI/UX Designer
+Master's,8,4,4,3,0,6,10,6,5,6,1,4,9,8,2,0,6,1,2,Intermediate,AI,AI Engineer
+Master's,5,3,1,1,10,4,3,3,5,6,5,5,4,0,7,2,4,3,3,Intermediate,Data,Database Administrator
+Bachelor's,4,8,2,7,8,4,2,3,6,1,4,8,6,3,3,7,2,3,5,Fresher,Web,Mobile App Developer
+Master's,6,6,5,1,5,4,0,1,2,4,7,8,10,2,2,3,4,7,1,Fresher,Security,Cybersecurity Analyst
+Bachelor's,6,6,0,2,6,1,1,10,5,4,5,6,10,5,0,3,10,2,4,Experienced,Cloud,DevOps Engineer
+Diploma,4,7,10,2,4,4,3,0,2,4,2,2,7,6,1,3,1,1,10,Fresher,Embedded,Embedded Systems Engineer
+Bachelor's,4,4,3,4,10,1,0,8,3,6,5,6,8,0,10,0,3,0,1,Intermediate,Data,Database Administrator
+Diploma,6,3,1,2,5,1,3,4,0,3,10,6,10,3,6,4,0,9,2,Fresher,Security,Cybersecurity Analyst
+Master's,2,3,0,6,1,5,2,2,8,2,0,7,7,2,1,10,1,0,1,Fresher,Web,UI/UX Designer
+High School,3,9,6,4,4,2,2,4,6,2,1,10,7,3,4,7,2,0,1,Fresher,Web,Mobile App Developer
+Bachelor's,4,3,0,1,9,5,1,7,2,6,5,6,6,0,7,2,6,2,0,Fresher,Data,Database Administrator
+Bachelor's,5,4,3,0,5,2,0,7,2,0,8,9,9,1,0,4,5,6,4,Intermediate,AI,Network Engineer
+Master's,7,5,1,2,5,0,1,10,2,2,3,9,7,1,0,3,10,2,3,Intermediate,Cloud,Cloud Engineer
+Bachelor's,6,5,3,5,10,4,1,3,0,6,3,6,8,2,9,0,6,2,0,Intermediate,Data,Data Engineer
+Master's,6,6,5,7,4,1,2,2,10,4,5,9,9,4,3,9,2,1,1,Intermediate,Web,Full Stack Developer
+Diploma,8,8,5,6,8,0,1,6,7,2,5,6,7,1,6,9,8,0,0,Fresher,Web,Backend Developer
+Diploma,7,5,1,6,5,2,4,9,5,2,8,10,8,3,2,2,10,3,0,Intermediate,Cloud,Cloud Engineer
+Bachelor's,4,1,4,3,10,5,1,3,2,10,1,8,7,4,10,0,0,3,3,Fresher,Data,Data Analyst
+Bachelor's,6,5,3,5,6,2,0,9,3,2,4,6,6,3,2,4,10,2,4,Fresher,Cloud,DevOps Engineer
+Bachelor's,10,3,1,3,7,8,6,9,2,10,4,5,10,3,9,0,6,1,0,Experienced,Data,Data Engineer
+Master's,9,4,4,6,4,0,0,2,4,8,7,5,9,4,1,3,4,10,3,Experienced,Security,Cybersecurity Engineer
+Bachelor's,2,3,3,1,1,1,2,8,4,3,7,7,10,2,1,1,6,9,3,Intermediate,General,Network Engineer
+Bachelor's,7,7,3,0,10,7,5,3,2,9,3,6,9,4,10,1,6,2,0,Intermediate,Data,Data Engineer
+High School,4,2,5,6,8,2,3,1,4,5,1,8,8,1,1,5,5,2,2,Fresher,General,QA Engineer
+Bachelor's,9,4,7,3,7,2,3,4,2,4,8,6,9,2,0,3,7,10,6,Experienced,Security,Cybersecurity Engineer
+Diploma,6,2,0,2,10,8,1,2,4,10,1,7,6,4,9,3,2,2,1,Fresher,Data,Data Analyst
+Bachelor's,10,0,3,3,9,10,7,0,1,10,0,6,6,10,10,2,4,2,1,Intermediate,AI,Data Scientist
+Bachelor's,3,0,2,1,9,2,2,4,3,8,4,5,7,1,5,4,5,2,0,Intermediate,Data,Database Administrator
+Bachelor's,5,7,3,5,3,0,3,10,2,3,2,5,8,1,0,1,7,4,2,Intermediate,Cloud,Cloud Engineer
+Diploma,4,6,3,5,8,3,0,3,3,3,2,5,9,3,2,6,2,0,4,Fresher,General,QA Engineer
+Master's,8,3,4,6,2,7,10,4,3,8,1,6,9,10,6,1,4,2,0,Intermediate,AI,Machine Learning Engineer
+Master's,5,4,4,8,7,1,3,6,10,1,1,8,8,2,2,10,4,3,0,Intermediate,Web,Full Stack Developer
+Master's,4,6,1,6,3,2,1,5,7,1,4,6,9,4,1,8,3,0,4,Fresher,Web,Mobile App Developer
+Master's,4,8,1,10,7,3,2,4,10,6,2,8,9,2,2,10,5,0,1,Intermediate,Web,Full Stack Developer
+Diploma,1,1,4,4,1,0,2,6,0,0,6,7,7,3,1,2,6,7,5,Fresher,Cloud,Network Engineer
+Master's,10,1,3,1,8,7,10,4,1,7,3,3,7,7,4,0,1,0,0,Intermediate,AI,Machine Learning Engineer
+Bachelor's,10,4,4,2,6,10,10,4,1,6,0,5,10,10,7,0,5,1,1,Intermediate,AI,Machine Learning Engineer
+High School,8,2,4,2,10,6,10,6,2,7,0,6,10,10,7,3,5,1,0,Intermediate,AI,Machine Learning Engineer
+Bachelor's,9,9,3,3,10,6,4,9,0,4,3,3,10,3,7,5,6,1,2,Intermediate,Data,Data Engineer
+Master's,3,4,0,10,2,1,1,1,10,1,1,6,7,1,0,9,2,3,1,Fresher,Web,Frontend Developer
+Bachelor's,1,10,6,2,0,2,2,2,7,2,2,5,8,1,0,5,2,3,3,Fresher,Web,Mobile App Developer
+Bachelor's,10,3,6,2,6,10,10,5,1,9,2,7,8,10,6,0,4,1,1,Intermediate,AI,Machine Learning Engineer
+Master's,4,7,5,4,6,2,3,0,5,3,1,6,6,3,3,4,2,2,2,Fresher,General,Software Developer
+Bachelor's,6,7,2,4,4,0,0,10,5,4,6,7,7,3,2,2,10,3,0,Intermediate,Cloud,Cloud Engineer
+Master's,0,3,0,5,1,1,2,2,10,3,1,8,8,2,1,10,1,1,0,Fresher,Web,UI/UX Designer
+Bachelor's,6,2,4,3,8,3,5,10,4,2,3,7,8,1,3,3,10,1,3,Intermediate,Cloud,Cloud Engineer
+Bachelor's,7,4,2,0,4,1,2,10,5,5,3,5,10,2,2,6,10,3,0,Intermediate,Cloud,Cloud Engineer
+Bachelor's,3,5,1,1,10,5,2,7,2,6,7,9,8,3,9,0,4,5,2,Intermediate,Data,Database Administrator
+Diploma,7,8,0,10,9,1,5,5,6,4,1,9,9,1,4,10,3,2,2,Intermediate,Web,Full Stack Developer
+Diploma,3,1,2,4,0,1,0,3,3,0,6,6,7,0,1,0,7,9,7,Intermediate,Cloud,Network Engineer
+Diploma,5,1,0,2,5,4,3,10,4,2,4,7,10,2,1,4,10,5,0,Intermediate,Cloud,Cloud Engineer
+Bachelor's,5,1,4,3,5,3,3,5,1,3,10,7,10,1,2,3,5,9,4,Fresher,Security,Cybersecurity Analyst
+Diploma,2,2,3,6,5,1,0,3,0,5,2,7,8,0,0,6,1,3,0,Fresher,General,QA Engineer
+Diploma,2,4,2,9,5,2,1,1,10,3,0,8,8,0,1,10,2,2,0,Fresher,Web,Frontend Developer
+Bachelor's,8,4,2,5,6,4,1,8,3,2,8,7,10,1,3,3,4,9,5,Experienced,Security,Cybersecurity Engineer
+Diploma,5,4,2,1,9,1,2,4,2,6,4,6,6,1,7,1,6,4,0,Intermediate,Data,Database Administrator
+Bachelor's,4,1,2,3,8,5,1,2,2,5,3,9,6,1,5,2,3,0,3,Fresher,General,Business Analyst
+Bachelor's,6,8,6,7,7,1,0,7,6,4,4,5,10,0,6,9,3,5,3,Intermediate,Web,Backend Developer
+Bachelor's,6,4,3,4,9,5,3,7,4,8,1,6,7,2,10,4,3,2,2,Intermediate,Data,Data Engineer
+Bachelor's,6,6,2,4,10,5,4,9,2,7,0,8,9,8,9,1,7,2,0,Intermediate,Data,Data Engineer
+Bachelor's,2,8,6,6,0,0,3,2,8,0,3,7,9,1,2,10,0,2,1,Fresher,Cloud,Mobile App Developer
+Bachelor's,9,3,3,3,7,5,0,7,5,5,7,7,10,5,4,4,8,3,2,Intermediate,Cloud,DevOps Engineer
+Diploma,6,8,8,5,5,3,1,2,6,4,5,7,10,1,4,4,4,3,3,Fresher,General,Software Developer
+Master's,9,2,2,3,9,7,7,6,0,7,1,8,6,5,10,2,7,1,4,Intermediate,Data,Data Engineer
+Bachelor's,6,3,2,3,2,5,4,1,3,4,10,8,6,2,2,2,1,10,4,Fresher,Security,Cybersecurity Analyst
+Bachelor's,5,6,10,1,1,4,2,3,3,3,3,3,9,2,0,1,2,1,8,Intermediate,Embedded,Embedded Systems Engineer
+Bachelor's,8,4,3,0,10,5,3,7,2,10,0,5,8,2,9,0,4,2,3,Intermediate,Data,Data Engineer
+Bachelor's,3,5,0,10,6,1,0,4,10,0,1,8,8,0,1,10,1,0,3,Experienced,Web,Frontend Developer
+Bachelor's,8,4,4,1,10,5,5,10,1,8,0,8,8,4,9,1,5,3,2,Intermediate,Data,Data Engineer
+Bachelor's,0,0,2,4,3,1,2,2,6,1,0,8,5,3,0,9,3,2,0,Fresher,Web,UI/UX Designer
+Bachelor's,4,7,3,6,2,2,0,1,7,3,3,4,5,2,0,10,0,6,2,Fresher,Web,Mobile App Developer
+Bachelor's,9,3,4,4,9,7,7,1,3,9,0,7,7,9,6,2,3,4,2,Intermediate,AI,Data Scientist
+Master's,10,2,0,2,10,10,9,1,3,10,2,8,10,9,8,0,3,1,2,Intermediate,AI,Data Scientist
+Master's,4,3,1,3,10,4,4,4,3,7,5,5,6,0,7,0,4,2,2,Intermediate,Cloud,Database Administrator
+Bachelor's,6,4,5,0,4,2,2,3,3,6,10,4,7,1,0,2,6,9,3,Experienced,Security,Cybersecurity Engineer
+PhD,7,7,2,2,10,2,4,8,4,6,1,7,10,3,7,0,4,2,0,Intermediate,Cloud,Data Engineer
+Bachelor's,7,5,7,2,7,2,3,6,4,5,8,3,9,4,3,2,4,10,1,Experienced,Security,Cybersecurity Engineer
+Diploma,5,4,4,5,7,2,4,1,4,2,0,5,10,1,2,5,2,3,2,Experienced,General,QA Engineer
+Diploma,5,4,0,4,8,3,0,5,3,7,5,7,5,3,6,1,3,4,0,Intermediate,Data,Database Administrator
+Bachelor's,8,3,5,0,10,6,7,8,0,10,5,3,9,5,9,0,6,0,3,Intermediate,Data,Data Engineer
+Bachelor's,7,3,2,3,10,7,2,1,3,9,2,9,6,4,10,0,4,0,0,Fresher,Data,Data Analyst
+Master's,6,2,5,2,5,8,10,4,1,8,0,8,10,10,10,0,0,2,0,Intermediate,AI,Data Scientist
+Master's,0,0,1,2,7,6,0,0,3,8,1,10,8,2,7,3,1,0,1,Fresher,General,Business Analyst
+Bachelor's,10,3,5,0,6,9,10,7,6,5,0,5,10,10,6,1,3,2,1,Intermediate,AI,Machine Learning Engineer
+Diploma,6,4,2,4,8,10,9,4,6,10,0,8,10,10,8,3,3,5,0,Fresher,AI,Data Scientist
+Diploma,3,10,5,6,6,2,3,2,7,2,1,6,7,3,1,5,3,3,8,Fresher,Embedded,Mobile App Developer
+Bachelor's,2,0,0,5,0,4,3,2,9,2,2,6,8,1,1,9,0,0,0,Intermediate,Web,UI/UX Designer
+Master's,4,3,5,10,4,2,2,3,7,3,1,6,7,0,0,10,2,0,0,Fresher,Web,Frontend Developer
+Bachelor's,5,1,0,3,9,7,1,1,3,10,1,10,6,6,6,0,2,1,3,Fresher,General,Business Analyst
+Bachelor's,8,7,5,8,4,3,0,5,7,2,0,6,7,2,4,10,1,3,1,Intermediate,Web,Full Stack Developer
+Bachelor's,8,2,3,3,2,4,4,3,4,1,10,7,9,2,2,1,3,10,1,Fresher,Security,Cybersecurity Analyst
+Bachelor's,5,1,2,4,4,2,1,6,4,2,7,3,7,0,2,0,6,7,2,Intermediate,Cloud,Network Engineer
+Bachelor's,7,8,8,7,6,5,1,0,4,3,1,4,7,4,6,2,1,1,4,Fresher,General,Software Developer
+Master's,7,1,3,4,7,4,3,9,2,4,3,8,5,3,3,3,9,0,0,Intermediate,Cloud,Cloud Engineer
+Master's,5,4,0,1,5,7,1,1,3,7,0,10,6,2,3,1,2,0,0,Fresher,General,Business Analyst
+Bachelor's,2,0,3,4,7,2,0,4,3,7,0,10,9,2,6,2,4,3,1,Fresher,General,Business Analyst
+Bachelor's,5,2,6,2,1,2,0,2,1,4,7,9,6,2,1,3,4,10,1,Fresher,Security,Cybersecurity Analyst
+Master's,6,3,10,2,4,3,2,4,2,2,5,6,10,3,3,2,2,1,9,Intermediate,Embedded,Embedded Systems Engineer
+PhD,10,1,4,4,5,10,10,7,2,5,1,4,10,9,4,3,2,2,1,Intermediate,AI,AI Engineer
+Master's,2,2,1,0,1,4,2,10,0,4,8,5,8,0,1,3,5,9,6,Intermediate,Cloud,Network Engineer
+Bachelor's,5,0,3,4,9,9,3,3,2,9,0,10,6,2,10,2,0,3,1,Fresher,Data,Data Analyst
+Diploma,6,4,2,10,6,3,0,6,10,1,2,8,6,0,2,10,3,3,1,Intermediate,Web,Full Stack Developer
+Master's,0,3,2,5,0,2,1,1,7,1,1,8,8,2,0,9,2,4,2,Fresher,Web,UI/UX Designer
+Master's,3,1,2,8,2,0,1,3,9,2,0,8,7,0,2,9,0,0,1,Fresher,Web,UI/UX Designer
+Bachelor's,3,8,7,7,3,5,2,4,5,1,4,5,8,3,0,5,3,7,5,Fresher,Web,Mobile App Developer
+High School,7,6,7,1,3,4,0,3,1,2,6,5,10,3,1,2,2,1,10,Fresher,Embedded,Embedded Systems Engineer
+Diploma,8,5,2,1,2,3,2,9,1,4,4,5,7,2,3,2,8,3,4,Intermediate,Cloud,DevOps Engineer
+Bachelor's,6,5,5,1,9,6,3,8,2,6,4,8,6,5,8,2,5,2,3,Intermediate,Data,Data Engineer
+Diploma,7,5,3,2,5,4,2,10,3,3,3,9,9,5,1,5,10,4,0,Intermediate,Cloud,DevOps Engineer
+Master's,7,3,2,9,3,1,0,1,10,0,2,6,5,4,0,8,1,0,1,Fresher,Web,Frontend Developer
+Bachelor's,2,0,3,2,6,4,0,3,0,8,3,10,9,4,8,1,2,2,0,Fresher,General,Business Analyst
+Bachelor's,4,3,0,3,10,5,3,5,2,8,5,8,6,0,7,0,2,4,2,Intermediate,Data,Database Administrator
+Bachelor's,2,0,0,1,6,4,0,0,2,6,0,10,9,2,7,2,0,2,3,Fresher,AI,Business Analyst
+Diploma,5,0,0,5,10,6,1,0,1,10,2,7,8,1,9,2,2,2,2,Fresher,Data,Data Analyst
+Diploma,10,5,7,6,7,6,5,3,6,4,1,6,9,3,2,4,2,1,4,Fresher,General,Software Developer
+Master's,7,4,5,5,8,7,8,3,4,6,3,7,10,10,7,1,3,2,2,Intermediate,AI,Machine Learning Engineer
+Bachelor's,8,6,7,0,6,4,3,8,6,5,9,4,10,4,0,4,4,7,4,Fresher,Security,Cybersecurity Engineer
+Bachelor's,8,1,3,4,5,0,3,6,3,1,10,5,7,3,3,2,2,10,2,Fresher,Security,Cybersecurity Analyst
+Diploma,4,3,10,0,3,3,4,2,3,3,4,3,9,2,0,0,1,3,10,Intermediate,Embedded,Embedded Systems Engineer
+Diploma,9,7,3,2,8,3,6,8,2,10,0,7,6,6,10,3,5,4,4,Intermediate,Data,Data Engineer
+Bachelor's,5,9,0,5,5,1,1,2,5,4,0,9,10,0,2,6,4,4,2,Fresher,General,QA Engineer
+Diploma,3,5,1,4,4,2,0,2,3,3,1,7,9,2,4,3,3,3,3,Fresher,General,QA Engineer
+Diploma,6,4,0,6,6,0,0,5,4,3,0,6,6,2,2,3,1,4,0,Fresher,General,QA Engineer
+Master's,8,0,3,2,9,10,6,1,1,7,2,8,10,10,9,3,3,1,3,Intermediate,AI,Data Scientist
+Bachelor's,2,1,0,6,3,0,0,0,9,6,0,9,7,2,1,8,5,2,0,Fresher,Web,UI/UX Designer
+Diploma,6,6,0,4,6,4,0,1,6,3,0,7,8,0,2,3,1,2,0,Fresher,General,QA Engineer
+Master's,6,5,4,4,4,0,1,8,3,3,4,9,9,5,3,5,9,1,0,Intermediate,Cloud,Cloud Engineer
+PhD,8,1,2,1,6,5,10,4,1,5,2,6,9,10,7,2,2,1,3,Intermediate,AI,AI Engineer
+Bachelor's,6,4,10,0,0,2,2,2,0,0,1,6,10,2,0,2,1,4,10,Experienced,General,Embedded Systems Engineer
+Master's,10,1,2,0,7,9,10,4,2,5,0,5,10,10,8,0,6,1,1,Intermediate,AI,Machine Learning Engineer
+Bachelor's,1,1,0,7,1,3,2,1,7,0,0,8,5,4,3,6,1,0,2,Fresher,Web,UI/UX Designer
+Master's,10,5,2,2,8,1,5,9,2,7,0,8,9,4,9,0,4,1,0,Fresher,Data,Data Engineer
+Diploma,0,0,0,1,5,5,0,1,4,10,0,10,8,0,6,0,3,0,1,Fresher,General,Business Analyst
+Bachelor's,3,4,6,0,5,1,1,6,3,2,8,7,10,2,3,0,3,10,2,Intermediate,Cloud,Network Engineer
+Bachelor's,8,9,3,4,9,2,0,9,6,1,3,8,5,4,2,8,5,5,1,Fresher,Web,Backend Developer
+Bachelor's,9,1,4,2,6,3,4,5,1,9,10,6,9,3,3,3,5,10,1,Fresher,Security,Cybersecurity Analyst
+Master's,5,2,1,2,10,7,4,2,3,8,5,5,9,5,8,6,4,3,1,Fresher,Data,Data Analyst
+Master's,6,7,0,7,7,4,1,5,10,3,6,6,6,2,2,9,8,3,2,Intermediate,Web,Full Stack Developer
+Bachelor's,8,6,5,4,7,2,3,9,4,5,10,4,8,0,3,1,4,10,0,Experienced,Security,Cybersecurity Engineer
+Bachelor's,10,4,4,2,7,8,10,2,1,10,0,6,8,10,5,1,5,0,3,Fresher,AI,Machine Learning Engineer
+Diploma,1,8,2,6,4,2,1,3,4,3,1,7,5,0,2,5,4,1,1,Fresher,General,QA Engineer
+Bachelor's,4,10,2,7,9,0,1,9,9,2,2,6,8,4,4,5,7,2,1,Intermediate,Web,Backend Developer
+Bachelor's,5,4,4,1,5,3,2,7,6,3,3,6,7,0,2,2,10,4,4,Intermediate,Cloud,Cloud Engineer
+High School,3,9,0,10,7,2,1,5,10,5,4,8,10,2,4,10,3,2,2,Intermediate,Web,Full Stack Developer
+PhD,6,6,4,4,7,2,2,5,5,3,4,8,6,1,5,10,4,1,2,Intermediate,Web,Backend Developer
+Diploma,1,2,1,2,8,5,2,4,2,9,0,10,4,1,6,5,1,2,0,Fresher,General,Business Analyst
+Bachelor's,6,5,5,2,10,6,3,8,0,7,0,6,8,6,9,0,8,0,1,Intermediate,Data,Data Engineer
+Bachelor's,5,4,10,4,4,2,3,4,0,1,5,6,10,4,1,0,1,4,10,Intermediate,Embedded,Embedded Systems Engineer
+Master's,7,3,5,1,4,2,0,6,0,6,10,7,10,3,1,2,4,8,3,Experienced,Data,Cybersecurity Analyst
+Bachelor's,5,5,3,3,6,3,2,8,3,4,4,5,8,3,2,4,10,2,4,Intermediate,Cloud,DevOps Engineer
+Diploma,3,4,0,9,4,0,2,0,10,5,2,4,8,4,5,10,0,2,4,Fresher,Web,Frontend Developer
+Bachelor's,6,1,1,4,10,8,4,5,1,8,0,9,9,3,8,1,3,2,2,Fresher,Data,Data Analyst
+Bachelor's,6,3,2,4,9,7,4,0,1,8,0,8,9,2,10,0,1,1,2,Fresher,Data,Data Analyst
+Bachelor's,7,1,3,3,6,0,2,10,4,3,7,4,10,4,2,3,10,3,1,Intermediate,Cloud,DevOps Engineer
+Bachelor's,10,4,3,1,10,6,4,10,1,10,3,6,10,1,10,0,5,0,0,Intermediate,Data,Data Engineer
+High School,6,10,0,7,7,4,0,6,6,3,6,6,10,1,5,5,6,1,3,Intermediate,Web,Backend Developer
+Bachelor's,3,2,0,2,5,7,0,2,0,9,0,7,9,0,7,3,4,0,0,Fresher,General,Business Analyst
+Bachelor's,5,5,2,4,7,0,1,4,3,4,2,4,5,1,1,3,3,0,0,Fresher,General,QA Engineer
+Bachelor's,6,6,7,3,5,0,5,4,3,6,10,8,10,2,2,0,4,10,2,Experienced,Security,Cybersecurity Engineer
+High School,9,4,2,0,6,5,5,10,2,4,4,7,9,2,4,5,9,2,0,Intermediate,Cloud,DevOps Engineer
+Bachelor's,9,3,2,1,4,5,2,9,2,0,3,7,8,0,1,4,10,2,2,Intermediate,Cloud,DevOps Engineer
+Diploma,4,4,5,4,4,3,0,4,4,5,0,8,8,1,0,4,3,1,0,Fresher,General,QA Engineer
+Bachelor's,5,2,1,3,9,5,2,4,0,6,0,8,7,3,10,0,3,3,0,Fresher,General,Data Analyst
+Bachelor's,6,7,4,7,6,3,3,6,6,4,1,6,6,0,3,6,6,4,4,Intermediate,Web,Backend Developer
+Bachelor's,8,6,4,5,8,0,0,7,5,3,2,6,8,5,0,9,2,4,0,Intermediate,General,Backend Developer
+Bachelor's,4,2,10,1,4,5,6,2,2,1,3,5,9,6,0,1,1,3,8,Intermediate,Embedded,Embedded Systems Engineer
+Master's,5,5,10,3,1,3,3,1,0,3,4,5,10,1,0,0,1,3,10,Intermediate,Embedded,Embedded Systems Engineer
+Master's,5,1,3,1,10,9,10,3,3,9,3,7,10,10,9,2,6,1,2,Intermediate,AI,Data Scientist
+Diploma,4,6,0,8,6,1,0,3,6,3,1,7,10,3,5,4,4,4,2,Fresher,General,QA Engineer
+Master's,7,3,4,1,7,5,3,4,0,5,9,4,9,1,0,0,5,9,4,Experienced,Security,Cybersecurity Engineer
+Diploma,0,0,0,3,1,0,1,0,6,3,1,6,6,2,0,8,1,1,0,Experienced,Embedded,UI/UX Designer
+Bachelor's,4,2,1,0,2,4,3,8,0,1,10,4,8,4,1,1,8,8,4,Intermediate,Cloud,Network Engineer
+Bachelor's,7,7,5,3,7,0,0,3,4,5,1,7,10,2,3,8,5,4,4,Intermediate,Web,Backend Developer
+Diploma,4,3,0,1,5,1,1,5,0,4,5,6,8,3,1,3,6,8,4,Intermediate,Cloud,Network Engineer
+Master's,3,9,5,4,5,1,2,2,10,0,3,5,10,6,0,8,1,4,4,Fresher,Web,Mobile App Developer
+Bachelor's,8,3,0,4,6,2,3,9,6,5,1,4,10,3,0,0,10,1,1,Experienced,Cloud,DevOps Engineer
+PhD,9,2,3,0,6,10,10,5,0,7,3,7,9,9,7,0,5,5,0,Fresher,AI,Machine Learning Engineer
+Bachelor's,9,6,1,0,10,7,8,5,3,6,1,5,9,3,9,2,8,2,2,Intermediate,Data,Data Engineer
+PhD,8,4,3,3,9,9,8,1,0,9,2,9,10,10,7,0,3,5,3,Intermediate,AI,Data Scientist
+Bachelor's,7,9,5,6,3,4,3,2,5,0,2,6,10,4,1,8,0,4,4,Fresher,Web,Mobile App Developer
+PhD,9,1,6,3,5,8,10,5,1,6,2,5,8,8,6,1,3,1,3,Intermediate,AI,Machine Learning Engineer
+Bachelor's,6,6,6,2,6,3,2,5,4,3,10,10,9,2,2,3,1,10,5,Experienced,Security,Cybersecurity Engineer
+Bachelor's,5,6,0,6,4,3,2,10,4,4,3,5,10,2,1,1,10,2,4,Fresher,Cloud,Cloud Engineer
+Bachelor's,5,3,1,2,7,0,0,8,6,2,3,3,8,3,2,3,7,2,1,Intermediate,Cloud,Cloud Engineer
+Bachelor's,5,7,0,2,3,2,1,10,4,1,3,6,9,6,3,1,10,3,0,Intermediate,Cloud,Cloud Engineer
+Master's,8,3,4,1,5,10,9,3,2,7,0,6,10,10,10,3,6,5,3,Intermediate,AI,Machine Learning Engineer
+Bachelor's,5,7,0,4,5,0,3,7,4,5,3,5,9,2,1,5,8,2,2,Intermediate,Cloud,Cloud Engineer
+Bachelor's,5,6,4,1,10,5,4,5,3,6,3,4,6,4,9,1,5,1,1,Intermediate,Data,Data Engineer
+Master's,6,4,5,3,6,4,4,6,5,6,10,7,7,0,5,1,4,8,1,Experienced,General,Cybersecurity Engineer
+Bachelor's,4,5,5,6,6,0,0,3,6,4,2,6,5,2,2,5,2,0,1,Experienced,General,QA Engineer
+Bachelor's,7,8,5,2,4,2,0,2,8,2,2,9,9,2,3,6,6,1,2,Fresher,General,Software Developer
+High School,6,7,4,6,8,1,0,6,6,3,3,5,8,3,6,9,9,1,0,Intermediate,AI,Backend Developer
+Bachelor's,4,10,5,4,3,0,0,1,7,4,4,4,7,0,0,8,3,2,2,Fresher,Cloud,Mobile App Developer
+Master's,10,2,3,3,9,10,8,6,1,9,1,8,8,10,9,0,2,0,0,Intermediate,AI,Data Scientist
+Master's,6,2,4,6,4,3,1,10,2,3,4,7,10,1,0,3,10,3,2,Intermediate,Cloud,DevOps Engineer
+Bachelor's,7,5,3,1,10,4,0,6,2,7,4,8,7,1,7,1,3,0,3,Intermediate,Data,Data Engineer
+Master's,8,7,2,7,6,2,0,6,6,4,3,8,7,5,0,5,9,3,2,Intermediate,Web,Backend Developer
+Diploma,7,1,3,4,10,7,4,0,4,8,0,8,4,3,10,2,0,1,2,Fresher,Data,Data Analyst
+Bachelor's,5,2,3,0,4,4,2,5,0,0,5,10,8,2,2,1,5,9,2,Intermediate,Cloud,Network Engineer
+Diploma,5,6,4,10,8,4,4,5,10,4,2,8,5,2,0,7,4,0,1,Intermediate,Web,Full Stack Developer
+Master's,10,2,2,5,6,9,8,2,2,6,3,6,10,9,10,1,2,0,1,Intermediate,AI,Data Scientist
+Diploma,6,6,7,6,4,1,4,1,6,7,5,7,9,7,0,4,4,1,5,Fresher,General,Software Developer
+Master's,8,5,6,4,8,0,2,10,7,2,3,4,10,3,1,6,6,3,0,Intermediate,Web,Backend Developer
+Diploma,5,3,3,2,4,3,0,2,4,10,0,6,5,4,7,1,1,0,0,Fresher,General,Business Analyst
+Master's,10,6,6,8,6,3,0,0,5,5,2,5,8,0,4,5,6,2,1,Fresher,General,Software Developer
+Diploma,4,2,0,3,9,6,2,6,2,8,0,4,9,3,6,0,4,4,1,Intermediate,Data,Database Administrator
+Master's,4,5,5,2,5,4,2,7,5,1,2,3,10,1,3,4,10,3,2,Intermediate,Cloud,Cloud Engineer
+Bachelor's,8,2,1,3,6,9,9,8,1,6,0,3,10,10,7,0,7,0,2,Intermediate,AI,Machine Learning Engineer
+Bachelor's,8,6,4,2,4,5,0,7,2,4,9,6,8,4,4,0,5,9,3,Experienced,Security,Cybersecurity Engineer
+Master's,6,2,1,1,8,10,6,2,4,7,2,6,10,10,10,2,0,3,0,Intermediate,AI,Data Scientist
+PhD,4,8,4,4,10,3,0,3,5,6,4,9,8,2,1,9,6,2,4,Experienced,Web,Backend Developer
+Diploma,3,3,4,3,6,4,3,4,3,8,8,8,10,0,4,4,1,10,2,Fresher,Security,Cybersecurity Analyst
+Bachelor's,5,2,0,2,7,4,2,6,0,1,7,4,8,0,0,0,8,8,0,Intermediate,Data,Network Engineer
+Bachelor's,3,3,3,0,10,2,0,3,1,6,5,4,8,3,7,1,1,2,1,Intermediate,Data,Database Administrator
+Bachelor's,1,1,3,4,8,4,2,1,3,10,0,7,10,3,7,2,0,1,0,Fresher,General,Business Analyst
+Bachelor's,2,2,1,2,6,7,1,0,3,9,1,10,5,2,5,2,1,3,3,Experienced,General,Business Analyst
+Master's,10,0,2,5,7,8,10,5,4,5,1,5,10,10,7,1,2,3,3,Intermediate,AI,AI Engineer
+Diploma,8,3,3,0,9,4,3,7,0,5,3,6,7,6,8,0,5,4,1,Fresher,Data,Data Engineer
+Bachelor's,3,2,3,2,5,3,0,7,0,1,7,7,10,1,0,0,7,8,3,Intermediate,Cloud,Network Engineer
+PhD,10,2,5,5,6,6,8,6,2,8,0,7,9,9,5,0,7,1,3,Intermediate,AI,Machine Learning Engineer
+Master's,7,2,2,2,3,2,2,5,2,8,8,8,9,1,3,1,3,10,0,Experienced,Embedded,Cybersecurity Engineer
+Diploma,9,6,6,4,9,5,2,6,8,3,4,6,9,0,1,6,6,0,0,Intermediate,Web,Backend Developer
+Master's,4,5,3,4,4,3,1,3,5,6,3,8,7,0,3,3,3,1,4,Fresher,General,QA Engineer
+Bachelor's,2,3,2,10,1,0,0,0,8,0,3,7,7,0,2,10,0,4,2,Fresher,Web,Frontend Developer
+Master's,9,4,5,3,8,10,7,3,1,7,2,7,10,10,9,2,2,2,0,Intermediate,General,Data Scientist
+Master's,5,5,4,5,10,3,4,3,4,3,10,8,10,0,1,3,2,8,2,Fresher,Security,Cybersecurity Analyst
+Bachelor's,5,5,1,10,9,1,0,4,10,3,2,8,7,4,2,9,4,4,0,Intermediate,Web,Full Stack Developer
+Bachelor's,8,3,6,2,8,8,6,6,1,7,0,7,9,5,9,3,4,4,0,Intermediate,Data,Data Engineer
+Bachelor's,4,4,1,2,6,1,1,4,2,2,10,8,7,2,1,2,4,10,3,Fresher,Security,Cybersecurity Analyst
+Bachelor's,7,9,4,3,6,5,2,5,8,7,4,2,10,0,3,6,5,2,0,Intermediate,Web,Backend Developer
+Bachelor's,6,5,4,7,7,0,0,5,0,4,2,6,8,2,1,5,3,2,0,Fresher,General,QA Engineer
+Bachelor's,4,2,3,0,9,2,0,6,2,8,4,5,6,1,8,2,4,6,2,Intermediate,Data,Database Administrator
+Bachelor's,6,3,2,1,10,8,3,2,2,10,0,7,7,4,7,0,0,1,0,Fresher,Data,Data Analyst
+Bachelor's,3,6,5,7,6,3,1,3,4,1,0,7,8,2,0,7,3,0,5,Fresher,Web,Mobile App Developer
+Bachelor's,0,0,2,7,1,1,1,0,7,5,2,8,5,0,0,9,1,1,2,Fresher,Web,UI/UX Designer
+PhD,10,1,6,1,4,8,10,8,3,9,1,8,7,10,1,0,5,0,3,Intermediate,AI,AI Engineer
+Bachelor's,2,2,2,1,6,3,0,0,2,8,0,10,9,0,6,3,2,0,0,Intermediate,General,Business Analyst
+Diploma,3,3,7,0,1,5,5,3,1,1,4,8,9,2,1,1,2,1,10,Intermediate,Embedded,Embedded Systems Engineer
+Bachelor's,10,10,5,5,6,4,1,5,7,1,5,7,8,2,2,5,4,1,0,Intermediate,Web,Backend Developer
+Bachelor's,10,4,6,7,4,2,2,3,2,3,8,6,10,1,2,4,2,10,2,Experienced,Security,Cybersecurity Engineer
+Bachelor's,6,3,2,4,3,3,1,10,4,3,4,5,8,4,2,3,9,2,1,Intermediate,Cloud,DevOps Engineer
+Diploma,5,3,3,2,4,7,2,3,1,5,9,5,9,2,1,1,2,9,1,Fresher,Security,Cybersecurity Analyst
+Bachelor's,5,2,10,0,4,3,0,0,3,2,2,7,9,1,0,2,4,3,9,Intermediate,Embedded,Embedded Systems Engineer
+Master's,7,5,4,2,6,6,2,4,9,5,1,5,8,2,2,7,5,0,2,Fresher,Web,Software Developer
+Master's,6,5,10,0,4,4,3,1,3,0,1,8,8,5,3,1,0,3,10,Experienced,Embedded,Embedded Systems Engineer
+Diploma,4,3,2,5,0,0,0,2,9,3,0,10,8,0,1,10,1,0,0,Fresher,Security,UI/UX Designer
+Bachelor's,7,5,3,3,5,1,2,10,6,4,3,7,10,1,1,4,10,0,5,Intermediate,Cloud,DevOps Engineer
+Master's,5,0,2,3,8,7,5,1,0,10,2,7,4,2,9,4,0,1,2,Fresher,Data,Data Analyst
+Bachelor's,4,4,1,10,4,1,0,4,10,5,4,5,5,0,2,10,1,0,1,Fresher,Web,Frontend Developer
+Diploma,7,6,2,4,9,4,2,7,8,3,4,7,6,1,1,10,9,0,4,Intermediate,Web,Backend Developer
+Bachelor's,6,3,5,3,10,8,8,1,2,10,1,5,7,7,10,4,4,0,3,Intermediate,AI,Data Scientist
+Bachelor's,8,4,4,3,6,1,2,5,2,6,10,6,6,2,3,3,1,10,0,Fresher,Security,Cybersecurity Analyst
+Bachelor's,3,8,5,5,9,2,0,5,7,4,2,6,9,2,5,7,4,2,2,Intermediate,Web,Backend Developer
+Bachelor's,7,7,9,3,4,2,7,5,5,5,10,6,7,5,3,3,6,10,6,Experienced,Security,Cybersecurity Engineer
+Bachelor's,7,4,10,0,1,3,4,3,0,3,2,6,9,3,0,1,1,0,10,Intermediate,Embedded,Embedded Systems Engineer
+Diploma,4,1,3,3,7,4,3,2,5,10,1,10,7,1,8,3,0,1,2,Fresher,General,Business Analyst
+Bachelor's,5,5,3,9,8,3,0,3,8,8,4,9,7,2,1,8,3,4,2,Intermediate,Web,Full Stack Developer
+Bachelor's,8,0,6,3,4,7,8,3,1,4,3,5,10,9,6,0,4,1,6,Intermediate,AI,AI Engineer
+Bachelor's,8,5,1,0,3,1,4,10,2,3,2,7,6,1,3,6,10,1,0,Intermediate,Security,Cloud Engineer
+Diploma,2,0,3,1,6,4,2,3,3,7,1,10,9,2,5,2,2,0,0,Intermediate,General,Business Analyst
+Bachelor's,6,4,1,0,9,2,2,10,3,3,4,6,8,3,2,4,10,3,2,Intermediate,Cloud,DevOps Engineer
+Bachelor's,6,3,0,10,2,2,0,6,8,2,0,7,6,3,0,10,0,1,1,Intermediate,Web,Frontend Developer
+Bachelor's,10,2,6,1,5,5,3,7,2,1,10,6,8,1,3,1,5,10,6,Experienced,Security,Cybersecurity Engineer
+Bachelor's,5,1,8,3,4,8,10,6,5,8,0,7,8,8,3,0,3,0,3,Intermediate,AI,Machine Learning Engineer
+Bachelor's,6,7,6,8,5,4,1,2,2,1,0,6,10,0,2,3,3,4,2,Fresher,General,Software Developer
+High School,1,3,0,7,2,4,1,5,10,7,4,10,8,1,1,10,1,2,0,Experienced,Web,Frontend Developer
+Bachelor's,3,3,4,2,9,2,1,7,0,6,1,5,7,0,7,1,4,4,0,Intermediate,Data,Database Administrator
+Bachelor's,6,6,2,1,10,4,6,5,2,7,2,5,8,6,8,0,5,3,1,Intermediate,Data,Data Engineer
+Diploma,7,2,2,1,0,4,0,7,1,3,7,6,9,2,4,0,3,6,1,Intermediate,Cloud,Network Engineer
+Master's,3,0,4,2,5,5,0,0,1,7,0,10,6,1,5,0,4,1,2,Fresher,General,Business Analyst
+Bachelor's,3,0,2,2,4,5,2,5,0,9,0,8,5,3,7,1,3,1,1,Fresher,General,Business Analyst
+Diploma,4,5,4,4,5,4,0,6,4,6,3,8,8,1,3,5,3,0,1,Intermediate,General,QA Engineer
+Diploma,6,8,0,9,8,1,0,4,10,6,2,7,7,2,1,10,5,1,1,Intermediate,Web,Full Stack Developer
+Bachelor's,9,3,4,2,4,2,0,10,4,0,3,5,10,2,4,4,9,3,1,Intermediate,Cloud,DevOps Engineer
+Diploma,8,9,4,5,7,3,0,8,5,5,4,4,9,1,3,7,6,4,2,Experienced,Web,Backend Developer
+Master's,2,3,0,4,1,1,0,2,9,3,0,10,7,2,0,6,0,1,0,Fresher,Web,UI/UX Designer
+Bachelor's,10,5,2,7,9,3,2,7,9,3,5,8,4,3,1,10,5,0,1,Intermediate,Web,Full Stack Developer
+Master's,10,3,5,7,6,9,10,3,2,7,2,7,9,9,5,3,5,0,3,Intermediate,AI,AI Engineer
+Diploma,4,5,2,6,6,1,1,4,2,2,1,7,4,2,2,0,0,2,0,Experienced,General,QA Engineer
+Master's,1,4,2,8,3,2,1,0,10,3,4,6,6,1,1,10,2,0,2,Fresher,Web,Frontend Developer
+Master's,7,2,4,1,6,6,7,6,1,6,0,7,10,9,6,3,1,4,6,Intermediate,AI,Machine Learning Engineer
+Bachelor's,5,10,4,3,3,3,1,2,6,2,0,6,8,1,0,10,0,2,5,Fresher,Web,Mobile App Developer
+Bachelor's,8,4,3,4,6,1,5,5,1,2,10,7,10,2,0,3,3,10,6,Fresher,Security,Cybersecurity Analyst
+Bachelor's,5,10,3,6,5,5,2,4,8,2,4,5,8,2,0,10,3,2,4,Fresher,Web,Mobile App Developer
+Bachelor's,7,4,2,0,5,6,8,6,0,4,0,7,10,10,5,0,5,3,4,Intermediate,AI,AI Engineer
+Master's,9,2,5,0,8,8,7,3,4,10,2,6,10,8,8,0,4,3,5,Intermediate,AI,Data Scientist
+Bachelor's,0,3,0,5,2,5,1,0,10,2,2,8,7,1,5,10,4,0,0,Fresher,Web,UI/UX Designer
+Master's,10,1,3,4,7,8,10,5,4,6,2,6,10,7,5,0,4,4,1,Intermediate,Security,AI Engineer
+Master's,7,2,2,3,4,8,8,5,4,7,0,6,9,10,3,1,8,1,0,Intermediate,AI,AI Engineer
+Bachelor's,9,5,5,0,4,4,3,5,4,4,10,5,7,3,3,3,4,9,3,Experienced,Embedded,Cybersecurity Engineer
+Master's,7,0,3,2,2,1,1,10,3,4,6,5,9,5,2,4,9,4,2,Intermediate,Cloud,DevOps Engineer
+Diploma,4,0,0,3,10,6,0,0,1,8,0,8,7,5,8,1,3,0,2,Fresher,Data,Data Analyst
+High School,3,1,1,2,7,7,1,3,2,10,2,9,6,6,9,0,0,0,1,Fresher,Data,Data Analyst
+Master's,10,4,2,3,5,8,10,3,4,8,1,6,10,10,6,3,2,3,4,Intermediate,AI,AI Engineer
+Master's,6,7,6,4,6,4,5,3,5,6,1,4,8,5,4,5,1,2,5,Fresher,General,Software Developer
+Bachelor's,6,5,0,4,4,1,5,9,6,3,5,6,9,4,3,2,8,2,4,Intermediate,Cloud,DevOps Engineer
+Diploma,4,2,3,3,6,0,1,4,5,4,2,6,8,2,1,3,0,3,0,Intermediate,General,QA Engineer
+PhD,8,0,4,4,6,7,6,3,6,4,3,5,9,10,4,5,4,2,2,Intermediate,AI,AI Engineer
+Bachelor's,7,4,3,5,4,1,0,7,4,3,2,5,10,3,0,2,10,2,0,Intermediate,Cloud,Cloud Engineer
+Bachelor's,4,2,5,2,10,3,4,6,1,6,1,9,7,5,9,1,5,3,2,Intermediate,Data,Data Engineer
+Bachelor's,4,2,3,10,5,1,0,2,9,4,3,7,6,3,1,10,3,0,0,Fresher,Web,Frontend Developer
+PhD,8,4,3,0,6,6,10,5,1,6,0,4,10,10,7,1,3,0,5,Intermediate,AI,Machine Learning Engineer
+PhD,10,0,4,3,8,10,7,2,1,6,2,9,8,10,9,2,1,0,3,Intermediate,AI,Data Scientist
+Master's,7,2,2,4,4,2,0,4,3,1,8,5,10,0,2,3,3,9,3,Fresher,Security,Cybersecurity Analyst
+Bachelor's,5,1,0,3,6,5,0,2,2,8,10,8,7,0,2,2,3,9,1,Fresher,Security,Cybersecurity Analyst
+Bachelor's,2,0,2,2,8,1,2,1,2,10,0,10,5,2,4,2,3,3,0,Fresher,General,Business Analyst
+Bachelor's,8,3,3,7,5,1,0,2,4,5,1,8,10,2,3,3,0,3,2,Intermediate,AI,QA Engineer
+Master's,5,3,2,3,5,2,1,10,7,2,3,5,9,1,0,1,10,5,5,Intermediate,Cloud,DevOps Engineer
+Bachelor's,6,4,3,6,7,3,2,10,3,5,4,4,10,4,1,6,7,1,2,Intermediate,Cloud,DevOps Engineer
+High School,4,7,3,5,5,4,2,4,4,2,2,9,7,1,5,4,2,0,2,Fresher,General,QA Engineer
+PhD,10,8,5,3,3,6,10,4,3,9,3,6,7,10,5,0,5,3,0,Intermediate,General,AI Engineer
+Bachelor's,7,5,0,3,4,3,2,10,3,6,2,5,9,2,1,0,9,1,5,Intermediate,Cloud,DevOps Engineer
+Bachelor's,5,2,4,2,6,7,2,1,2,6,0,9,6,0,10,2,1,0,2,Fresher,Data,Data Analyst
+Master's,7,10,4,8,6,1,1,0,6,2,2,8,7,3,1,4,7,3,3,Intermediate,General,Software Developer
+Bachelor's,5,10,7,4,5,0,0,9,7,2,2,4,9,2,6,9,7,2,0,Intermediate,Web,Backend Developer
+Bachelor's,0,5,2,4,10,5,0,3,3,6,3,7,7,2,6,3,4,5,3,Intermediate,Data,Database Administrator
+Diploma,6,6,4,3,10,1,4,5,7,5,2,6,10,1,1,6,7,3,3,Intermediate,Web,Backend Developer
+Master's,10,2,5,4,4,9,9,6,2,7,0,6,7,10,5,1,4,1,1,Intermediate,AI,AI Engineer
+Bachelor's,4,6,2,7,9,4,0,5,10,1,0,6,7,0,2,10,5,2,0,Intermediate,Web,Full Stack Developer
+Diploma,9,4,7,4,3,5,4,10,5,1,1,6,10,3,5,5,10,5,4,Intermediate,Cloud,DevOps Engineer
+Diploma,8,5,4,4,6,5,4,5,0,4,10,6,4,3,1,3,7,10,4,Experienced,Security,Cybersecurity Engineer
+Bachelor's,1,3,3,3,10,5,0,6,2,6,3,5,7,1,9,0,7,2,2,Fresher,Data,Database Administrator
+Bachelor's,8,2,1,4,10,8,4,2,1,8,0,8,7,2,4,0,4,0,2,Fresher,Data,Data Analyst
+Diploma,6,2,2,5,5,2,4,10,5,4,0,6,6,1,4,2,10,1,0,Intermediate,Cloud,Cloud Engineer
+PhD,10,0,6,0,8,8,6,6,4,8,2,5,6,10,9,3,1,0,1,Intermediate,AI,Machine Learning Engineer
+Bachelor's,8,5,6,10,6,2,3,2,3,7,4,7,7,3,5,5,0,6,3,Fresher,General,Software Developer
+Diploma,9,0,1,5,9,9,2,4,2,9,4,7,5,2,10,0,3,0,3,Fresher,Data,Data Analyst
+Master's,6,1,4,1,3,3,0,5,2,5,7,2,7,1,3,1,4,10,5,Intermediate,Cloud,Network Engineer
+Bachelor's,2,4,0,10,3,2,0,0,8,5,0,8,6,1,1,10,2,2,3,Fresher,Web,Frontend Developer
+Master's,8,1,0,4,10,10,10,3,7,9,1,6,10,10,9,4,2,1,0,Intermediate,AI,Data Scientist
+Master's,1,2,1,8,4,3,2,4,8,2,2,8,10,3,2,10,1,1,1,Fresher,Data,Frontend Developer
+Diploma,6,9,3,10,8,4,4,4,9,4,2,7,8,1,5,8,5,3,0,Intermediate,Web,Full Stack Developer
+Bachelor's,7,8,2,4,10,5,0,7,7,3,6,5,10,3,3,10,6,2,3,Intermediate,Web,Backend Developer
+Bachelor's,5,6,5,3,7,5,2,10,5,2,4,9,7,3,3,3,10,6,2,Intermediate,Cloud,Cloud Engineer
+PhD,6,7,3,4,7,4,3,5,1,5,3,9,9,3,0,5,3,3,3,Intermediate,General,QA Engineer
+High School,0,0,1,5,1,3,2,1,10,3,1,10,5,4,1,7,0,3,0,Fresher,Security,UI/UX Designer
+Master's,7,8,3,6,9,5,0,7,4,4,1,4,9,1,2,7,7,1,1,Intermediate,Web,Backend Developer
+Master's,9,2,2,3,8,7,8,3,2,9,3,5,9,10,6,1,1,0,0,Experienced,AI,Data Scientist
+Diploma,10,5,3,0,10,7,6,8,3,6,3,5,9,3,10,3,7,2,2,Intermediate,Data,Data Engineer
+Bachelor's,8,4,0,2,7,2,2,10,3,0,3,6,8,0,4,3,10,4,0,Intermediate,Cloud,Cloud Engineer
+Bachelor's,2,2,4,10,5,0,0,4,10,2,0,5,8,3,0,9,3,0,4,Fresher,Web,Frontend Developer
+Bachelor's,3,3,10,0,2,4,3,0,1,5,4,5,8,4,1,2,0,2,9,Intermediate,Embedded,Embedded Systems Engineer
+Bachelor's,10,2,7,1,8,8,10,6,4,6,3,9,9,10,5,0,7,0,0,Intermediate,AI,Machine Learning Engineer
+Bachelor's,9,4,1,2,8,4,4,6,3,7,0,3,8,3,7,4,7,1,1,Intermediate,Data,Data Engineer
+Bachelor's,9,6,4,2,7,4,10,5,4,9,0,8,9,9,6,1,6,2,2,Intermediate,AI,Machine Learning Engineer
+Bachelor's,2,7,6,10,4,2,0,4,8,2,0,9,10,2,3,8,3,0,0,Fresher,Web,Mobile App Developer
+Bachelor's,10,3,1,2,10,9,7,3,2,9,1,5,7,9,9,0,2,1,2,Intermediate,AI,Data Scientist
+High School,9,2,7,2,6,10,10,5,4,10,2,6,9,10,5,1,2,0,1,Intermediate,AI,Machine Learning Engineer
+Bachelor's,7,0,2,3,6,3,5,7,1,7,10,7,9,2,1,1,5,10,1,Fresher,Security,Cybersecurity Analyst
+Bachelor's,10,9,2,5,9,1,0,4,8,0,1,7,8,1,2,6,7,1,0,Intermediate,Web,Backend Developer
+Bachelor's,7,1,9,2,0,1,2,1,4,3,2,3,10,5,1,0,0,1,10,Intermediate,Embedded,Embedded Systems Engineer
+Diploma,2,2,1,6,0,2,2,1,7,0,2,9,9,0,0,7,3,3,4,Fresher,Web,UI/UX Designer
+PhD,4,1,4,1,4,2,2,4,4,0,6,4,9,2,0,3,5,9,5,Intermediate,AI,Network Engineer
+Bachelor's,4,8,0,10,8,1,0,2,9,4,0,7,6,2,0,10,3,0,0,Experienced,Web,Full Stack Developer
+Diploma,6,4,2,6,6,1,0,10,3,2,2,4,9,2,6,4,8,1,3,Intermediate,Cloud,DevOps Engineer
+High School,5,1,2,0,3,2,3,8,0,2,7,4,7,4,0,0,6,9,4,Intermediate,Cloud,Network Engineer
+Master's,10,6,4,3,4,9,9,3,2,6,0,8,8,10,4,4,2,1,1,Intermediate,General,Machine Learning Engineer
+Diploma,8,8,2,5,5,4,0,3,6,2,2,7,10,3,0,7,2,1,4,Fresher,Web,Mobile App Developer
+Master's,7,1,2,2,7,9,10,4,2,6,1,9,6,10,8,0,3,0,2,Intermediate,AI,Machine Learning Engineer
+Bachelor's,5,1,4,5,1,4,0,1,9,2,0,10,9,4,0,8,0,2,0,Fresher,Web,UI/UX Designer
+Master's,8,1,1,4,9,9,7,5,2,8,0,6,10,10,9,0,0,2,0,Intermediate,AI,Data Scientist
+Bachelor's,5,3,0,2,4,3,2,10,7,4,5,7,9,2,2,1,10,3,3,Experienced,Cloud,Cloud Engineer
+PhD,5,0,7,0,1,3,1,2,3,2,3,6,7,5,0,3,2,3,10,Intermediate,Data,Embedded Systems Engineer
+Bachelor's,9,2,5,1,5,9,10,2,0,5,0,7,9,10,7,3,5,1,4,Intermediate,AI,Machine Learning Engineer
+Diploma,6,6,3,8,7,2,0,5,9,3,3,9,7,1,1,9,3,2,2,Intermediate,Security,Full Stack Developer
+Bachelor's,4,0,3,6,10,4,4,4,1,9,0,8,5,3,7,3,4,0,0,Experienced,Data,Data Analyst
+Master's,7,3,0,4,4,3,3,6,5,3,8,8,9,0,2,3,1,8,1,Fresher,Security,Cybersecurity Analyst
+Bachelor's,10,2,4,0,4,5,10,5,4,8,1,10,9,8,4,1,5,0,2,Intermediate,AI,AI Engineer
+Bachelor's,9,4,3,1,9,3,6,7,3,9,3,7,8,6,10,3,4,1,0,Intermediate,Data,Data Engineer
+PhD,6,7,7,6,8,4,4,2,6,5,4,3,7,4,0,6,5,1,2,Fresher,General,Software Developer
+Diploma,4,2,9,0,1,3,3,3,1,1,4,6,8,1,0,1,3,3,10,Intermediate,Embedded,Embedded Systems Engineer
+Bachelor's,3,3,0,3,3,4,5,3,3,7,0,10,7,5,9,2,2,2,0,Intermediate,General,Business Analyst
+Master's,7,2,0,1,8,8,3,3,1,9,2,8,8,2,8,1,0,2,0,Fresher,Data,Data Analyst
+Bachelor's,8,5,3,4,5,4,2,10,1,4,3,5,10,3,0,4,10,2,1,Intermediate,Web,DevOps Engineer
+Bachelor's,7,8,3,10,8,2,0,6,10,3,2,10,8,2,3,10,3,3,1,Intermediate,Web,Full Stack Developer
+Diploma,3,5,0,3,8,4,3,6,0,5,5,7,7,0,10,3,4,3,2,Intermediate,Data,Database Administrator
+Bachelor's,3,2,2,0,5,7,4,2,1,10,0,10,6,2,5,1,1,2,1,Fresher,General,Business Analyst
+Master's,10,5,6,0,9,3,2,9,1,4,2,9,5,5,10,1,9,0,3,Experienced,General,Data Engineer
+High School,5,4,0,8,6,1,0,5,6,5,2,8,7,1,2,4,0,5,4,Fresher,General,QA Engineer
+Bachelor's,6,1,10,0,1,4,3,2,2,5,3,2,7,3,3,1,2,2,10,Intermediate,Embedded,Embedded Systems Engineer
+Bachelor's,7,5,6,0,10,4,4,6,4,10,2,8,9,6,9,3,5,0,4,Intermediate,Data,Data Engineer
+Master's,8,4,4,0,6,8,10,6,3,8,1,5,9,9,9,3,5,2,2,Intermediate,AI,Machine Learning Engineer
+Bachelor's,8,9,7,3,5,2,2,3,3,2,0,1,8,7,6,3,3,0,1,Fresher,General,Software Developer
+Master's,9,0,7,3,6,9,10,7,1,10,3,6,10,8,5,4,1,2,3,Intermediate,AI,AI Engineer
+High School,3,5,4,0,10,6,1,4,3,6,6,5,6,2,8,1,1,2,2,Intermediate,Data,Database Administrator
+Bachelor's,9,8,4,3,8,2,2,5,8,6,3,7,9,5,4,9,6,1,0,Intermediate,Web,Backend Developer
+Diploma,7,5,4,3,10,6,2,8,2,8,1,4,6,5,10,1,6,0,2,Intermediate,Data,Data Engineer
+Diploma,3,4,10,1,3,3,5,2,1,4,6,5,8,2,2,1,0,4,10,Intermediate,Embedded,Embedded Systems Engineer
+Diploma,8,4,2,0,6,1,3,4,0,4,10,7,9,1,3,1,1,10,3,Fresher,Security,Cybersecurity Analyst
+Bachelor's,6,4,3,3,9,6,3,2,2,9,0,9,10,0,10,1,3,1,2,Fresher,Data,Data Analyst
+High School,6,1,4,4,10,7,1,0,5,10,1,7,9,1,8,3,1,1,1,Fresher,Data,Data Analyst
+Master's,7,2,2,5,6,4,3,2,2,8,2,9,8,3,6,3,4,2,0,Fresher,Data,Data Analyst
+Bachelor's,3,4,4,0,4,1,1,4,1,4,6,7,8,3,0,3,7,8,4,Intermediate,Cloud,Network Engineer
+Master's,4,0,7,2,2,5,0,7,1,1,6,8,9,1,0,1,4,9,3,Intermediate,Cloud,Network Engineer
+Bachelor's,6,3,4,1,4,0,0,9,1,3,3,8,10,0,0,1,4,9,6,Intermediate,Cloud,Network Engineer
+Bachelor's,5,0,4,1,3,5,2,2,2,10,1,10,9,2,7,1,2,2,0,Fresher,AI,Business Analyst
+Bachelor's,7,4,6,2,6,3,3,1,2,6,10,7,9,5,2,1,5,10,4,Experienced,Security,Cybersecurity Engineer
+Bachelor's,2,3,0,6,1,1,0,0,8,1,0,10,10,2,0,10,0,0,2,Fresher,Embedded,UI/UX Designer
+Master's,5,3,4,2,2,1,3,5,0,3,7,5,7,3,2,1,4,8,4,Intermediate,Cloud,Network Engineer
+Bachelor's,2,4,3,2,8,5,1,7,0,6,3,6,9,2,8,1,2,2,3,Intermediate,Data,Database Administrator
+Bachelor's,5,1,0,1,9,5,4,1,6,8,1,6,10,5,9,0,2,0,3,Fresher,Data,Data Analyst
+Master's,6,3,6,3,6,1,5,4,5,3,9,8,8,0,0,3,5,9,2,Experienced,Security,Cybersecurity Engineer
+Bachelor's,5,0,1,0,6,7,1,4,3,8,1,9,5,0,9,4,0,1,0,Fresher,General,Business Analyst
+Bachelor's,3,0,0,3,8,6,1,0,3,9,2,10,10,0,5,2,1,0,3,Fresher,General,Business Analyst
+Bachelor's,2,0,5,2,8,5,0,0,1,10,1,10,5,1,8,0,2,0,2,Fresher,General,Business Analyst
+Diploma,6,7,2,3,5,2,0,4,5,1,2,2,8,1,5,6,3,0,0,Fresher,General,QA Engineer
+PhD,10,2,2,1,2,8,10,6,0,9,2,8,9,10,4,2,3,0,0,Intermediate,AI,Machine Learning Engineer
+Bachelor's,4,7,7,0,4,5,2,0,3,0,2,5,7,4,1,0,0,4,10,Intermediate,Embedded,Embedded Systems Engineer
+Master's,9,3,5,2,6,2,0,10,2,3,2,4,9,1,0,3,8,3,2,Intermediate,Cloud,DevOps Engineer
+Bachelor's,10,5,5,1,10,4,4,7,3,7,0,7,9,4,10,1,6,0,1,Experienced,Data,Data Engineer
+Bachelor's,7,5,0,2,1,2,0,10,6,3,2,7,10,3,4,2,9,3,0,Intermediate,Cloud,Cloud Engineer
+Master's,9,3,2,2,9,8,8,3,0,8,4,8,7,7,9,3,2,3,2,Intermediate,AI,Data Scientist
+Bachelor's,8,3,3,0,4,7,10,2,2,9,3,5,7,10,2,3,4,4,0,Intermediate,AI,Machine Learning Engineer
+Master's,10,4,1,2,6,9,7,4,1,10,1,6,7,9,10,1,6,3,1,Intermediate,AI,Data Scientist
+PhD,6,10,2,4,10,2,0,8,9,4,2,5,8,0,5,10,6,3,3,Fresher,Web,Backend Developer
+Master's,6,0,2,2,2,3,0,7,0,3,4,7,8,2,1,0,8,9,5,Fresher,Cloud,Network Engineer
+Bachelor's,1,1,2,2,2,1,0,7,3,3,9,8,5,2,0,0,5,9,6,Intermediate,Cloud,Network Engineer
+Master's,3,0,2,7,2,3,0,1,7,1,1,10,7,1,0,10,0,1,4,Fresher,Web,UI/UX Designer
+High School,5,0,3,1,7,4,5,8,3,9,1,7,9,4,9,2,5,3,2,Intermediate,Data,Data Engineer
+Bachelor's,8,1,1,2,4,6,9,3,3,8,0,5,10,9,5,3,5,2,3,Intermediate,AI,Machine Learning Engineer
+Bachelor's,5,2,1,0,8,2,1,3,2,6,2,8,5,3,4,1,2,2,4,Intermediate,Data,Database Administrator
+Diploma,3,4,2,6,8,3,1,1,10,3,1,8,7,2,2,10,1,3,0,Fresher,Web,Frontend Developer
+Diploma,5,2,0,4,2,5,2,6,4,3,7,5,10,0,0,0,5,7,7,Intermediate,Cloud,Network Engineer
+Master's,7,2,2,5,7,5,9,2,2,9,1,8,7,8,10,0,0,2,3,Intermediate,AI,Data Scientist
+Diploma,7,9,7,3,5,4,0,3,5,3,6,5,9,2,4,6,2,2,2,Fresher,Security,Software Developer
+Master's,6,1,9,3,2,4,2,3,0,4,2,3,7,3,1,1,0,3,9,Fresher,Embedded,Embedded Systems Engineer
+PhD,6,3,2,2,4,1,5,3,4,6,10,7,9,3,2,0,0,10,0,Fresher,Security,Cybersecurity Analyst
+Bachelor's,5,0,1,6,4,2,1,10,6,1,2,8,9,2,5,1,10,3,2,Intermediate,Cloud,Cloud Engineer
+Diploma,1,4,0,10,5,0,0,2,10,3,0,4,7,0,1,10,0,4,2,Fresher,Web,Frontend Developer
+Bachelor's,5,3,3,2,8,6,0,3,3,6,0,10,5,0,6,4,4,2,1,Fresher,General,Business Analyst
+Bachelor's,8,1,3,4,5,5,1,4,3,4,10,7,9,4,5,0,4,10,4,Intermediate,Security,Cybersecurity Engineer
+Diploma,10,4,4,2,6,4,3,4,5,7,10,9,10,6,3,2,5,9,4,Experienced,Security,Cybersecurity Engineer
+Bachelor's,9,4,3,3,9,10,7,1,3,10,3,6,8,10,9,0,3,0,0,Intermediate,AI,Data Scientist
+Master's,6,5,5,5,3,4,4,4,4,3,2,6,9,4,5,3,3,1,3,Fresher,General,Software Developer
+Bachelor's,4,3,3,1,3,0,2,5,0,3,8,5,9,2,4,1,6,7,5,Intermediate,Cloud,Network Engineer
+Bachelor's,5,3,1,2,7,3,0,2,0,8,0,10,7,4,8,2,1,1,1,Fresher,General,Business Analyst
+Diploma,6,1,2,0,2,0,2,6,0,3,8,4,8,2,0,1,5,9,3,Intermediate,Cloud,Network Engineer
+Bachelor's,8,3,6,2,8,5,0,10,4,2,5,4,9,0,2,5,10,2,2,Fresher,Cloud,Cloud Engineer
+Bachelor's,9,7,6,5,8,5,4,3,4,7,3,5,10,2,5,7,2,3,4,Fresher,General,Software Developer
+Bachelor's,1,0,3,9,0,3,3,0,5,4,1,8,7,1,6,8,2,3,3,Fresher,Web,UI/UX Designer
+PhD,10,2,1,5,7,10,4,5,4,9,2,8,8,10,8,0,4,3,0,Intermediate,Data,Data Scientist
+Master's,1,1,0,1,6,6,0,1,1,9,1,10,9,7,8,3,0,2,1,Fresher,AI,Business Analyst
+Diploma,7,5,4,5,4,1,0,4,4,4,4,9,8,3,2,1,0,2,2,Experienced,General,QA Engineer
+Bachelor's,8,8,2,5,7,5,0,7,6,3,4,8,8,3,2,8,8,3,0,Intermediate,Web,Backend Developer
+Master's,10,1,4,3,8,8,10,2,2,8,4,8,8,10,9,0,3,2,1,Intermediate,AI,Data Scientist
+High School,5,4,3,4,4,2,3,4,6,5,2,6,7,0,4,3,0,4,1,Fresher,General,QA Engineer
+Bachelor's,6,3,8,0,6,5,4,8,5,5,9,7,10,2,1,0,4,8,2,Experienced,Security,Cybersecurity Engineer
+Bachelor's,4,3,0,6,5,1,3,3,10,1,2,9,7,4,0,7,3,0,4,Fresher,Web,Frontend Developer
+Master's,10,1,4,4,4,7,10,4,2,8,0,7,10,8,6,0,5,0,2,Intermediate,AI,AI Engineer
+Diploma,9,6,5,1,3,3,3,9,3,1,7,5,9,2,4,1,10,1,4,Intermediate,Cloud,DevOps Engineer
+Bachelor's,5,4,9,3,1,4,3,3,4,2,3,4,8,2,1,0,0,0,10,Intermediate,Embedded,Embedded Systems Engineer
+Bachelor's,0,0,0,5,1,0,2,0,8,3,2,9,6,2,3,8,3,3,0,Fresher,Web,UI/UX Designer
+Master's,10,5,5,5,5,4,1,4,3,1,2,3,10,1,1,6,2,0,6,Fresher,General,Software Developer
+Bachelor's,6,3,0,1,10,6,1,3,3,7,1,9,8,4,7,3,2,0,2,Fresher,Data,Data Analyst
+Diploma,1,6,2,5,8,0,0,3,0,4,3,8,8,1,1,3,2,0,3,Fresher,General,QA Engineer
+Bachelor's,7,6,4,8,7,2,1,4,10,4,4,7,7,3,1,10,6,4,2,Intermediate,Web,Full Stack Developer
+Bachelor's,8,6,5,8,8,4,3,3,8,5,1,4,9,3,1,6,3,3,4,Fresher,General,Software Developer
+Bachelor's,5,10,6,7,9,0,0,8,10,5,3,4,8,2,6,8,6,2,2,Fresher,Web,Backend Developer
+Bachelor's,3,3,4,0,4,2,0,7,1,0,6,3,6,1,1,0,7,8,3,Intermediate,Cloud,Network Engineer
+Bachelor's,9,3,4,1,10,3,3,8,3,10,0,4,6,2,10,3,4,4,3,Intermediate,Data,Data Engineer
+Master's,8,3,3,3,7,6,10,5,0,7,1,8,8,10,6,0,2,3,4,Intermediate,AI,Machine Learning Engineer
+Master's,10,1,2,4,9,7,7,3,5,6,1,5,8,8,8,0,2,0,0,Intermediate,AI,Data Scientist
+Bachelor's,3,1,2,0,10,3,1,3,1,2,7,4,5,3,9,1,5,5,1,Intermediate,Data,Database Administrator
+Bachelor's,5,4,3,5,9,5,3,2,2,10,0,9,5,4,9,1,2,1,1,Fresher,Data,Data Analyst
+Diploma,5,6,2,8,4,1,2,5,9,2,1,9,6,3,2,10,3,1,1,Experienced,Web,Full Stack Developer
+Bachelor's,7,6,1,3,5,2,2,4,7,5,6,7,8,3,5,5,8,1,0,Intermediate,Web,Backend Developer
+Bachelor's,5,6,4,8,5,2,0,2,9,5,2,7,5,3,2,9,4,2,0,Intermediate,Web,Full Stack Developer
+PhD,5,4,0,4,9,9,4,5,3,6,1,6,6,5,10,1,0,1,0,Fresher,Data,Data Analyst
+Bachelor's,7,7,6,6,6,1,3,2,3,2,2,6,5,2,5,4,3,4,4,Fresher,General,Software Developer
+Diploma,2,9,4,8,5,3,0,4,9,0,1,7,8,4,2,9,3,3,4,Fresher,Web,Mobile App Developer
+Master's,3,5,3,9,9,3,2,8,10,3,2,9,8,1,3,9,5,3,1,Intermediate,Web,Full Stack Developer
+Master's,9,8,6,6,9,6,4,9,6,7,3,6,5,3,1,9,4,5,2,Intermediate,Web,Backend Developer
+Bachelor's,2,6,0,7,4,0,2,5,10,1,1,8,8,3,4,10,1,1,1,Intermediate,Web,Full Stack Developer
+Bachelor's,5,2,3,0,7,3,3,6,3,7,3,7,6,0,8,0,4,3,0,Intermediate,Data,Database Administrator
+Master's,8,3,5,1,5,7,9,6,3,6,1,6,8,10,4,6,2,0,1,Intermediate,AI,AI Engineer
+Bachelor's,9,5,6,5,5,0,5,4,1,2,10,7,7,1,2,3,4,9,4,Fresher,Security,Cybersecurity Engineer
+Master's,8,4,1,7,6,2,0,7,10,2,2,9,9,0,1,10,5,0,2,Intermediate,Web,Full Stack Developer
+Master's,9,4,5,1,5,10,10,4,2,7,1,7,10,10,7,0,3,3,3,Intermediate,AI,Machine Learning Engineer
+Bachelor's,2,2,0,6,0,1,3,0,6,4,0,10,10,2,3,6,0,0,2,Fresher,Web,UI/UX Designer
+Master's,0,4,3,4,10,5,4,5,3,8,3,6,6,2,5,3,5,4,0,Intermediate,Data,Database Administrator
+Bachelor's,10,6,6,6,3,3,2,6,3,3,1,4,10,3,2,4,2,1,1,Fresher,General,Software Developer
+Bachelor's,7,6,6,8,9,1,1,1,7,3,2,9,8,4,4,4,5,1,5,Fresher,General,Software Developer
+Master's,8,6,2,1,7,5,10,6,3,8,1,4,9,8,7,2,6,2,3,Intermediate,AI,Machine Learning Engineer
+Diploma,4,8,3,10,4,5,0,3,9,5,2,7,7,0,4,10,6,3,0,Intermediate,Web,Full Stack Developer
+Bachelor's,0,1,1,7,4,3,3,1,10,2,3,10,8,0,3,10,2,2,2,Intermediate,Web,UI/UX Designer
+High School,1,9,6,7,3,0,2,0,7,1,0,8,6,1,1,7,3,1,5,Fresher,Web,Mobile App Developer
+Diploma,3,7,4,5,1,3,2,4,7,4,1,4,10,0,1,8,2,0,2,Fresher,Data,Mobile App Developer
+Bachelor's,6,7,5,3,8,5,4,5,1,9,1,6,5,7,8,2,6,2,0,Intermediate,Data,Data Engineer
+Bachelor's,10,3,3,0,4,8,10,5,0,7,1,7,10,5,7,0,2,1,3,Intermediate,Web,Machine Learning Engineer
+Diploma,3,3,4,0,10,3,0,4,3,4,6,7,8,1,6,0,5,2,1,Intermediate,Data,Database Administrator
+Diploma,3,5,1,10,5,3,3,5,8,3,3,9,6,2,1,10,0,0,0,Fresher,Web,Frontend Developer
+Bachelor's,1,2,0,5,0,0,1,2,10,0,1,10,5,4,0,10,1,2,4,Fresher,Web,UI/UX Designer
+PhD,10,2,0,3,10,10,10,1,3,8,1,5,8,8,10,2,2,0,1,Intermediate,Security,Data Scientist
+High School,7,6,3,6,3,0,5,4,3,2,10,9,10,2,4,2,6,9,6,Fresher,Security,Cybersecurity Engineer
+Bachelor's,2,3,1,3,5,8,1,4,1,8,2,10,6,2,8,0,0,0,3,Intermediate,General,Business Analyst
+Bachelor's,5,1,1,2,5,3,1,3,1,8,1,10,8,3,8,1,4,1,1,Fresher,General,Business Analyst
+Bachelor's,5,0,3,6,7,7,3,1,2,6,3,8,8,4,6,1,2,0,1,Fresher,General,Business Analyst
+Master's,10,4,2,3,5,8,6,0,2,5,0,6,8,10,9,2,3,3,1,Intermediate,AI,Data Scientist
+Bachelor's,6,1,5,4,5,2,3,9,3,2,8,8,9,4,4,1,10,3,3,Intermediate,Web,DevOps Engineer
+Bachelor's,7,3,4,5,3,4,2,7,0,0,6,7,9,3,1,2,7,8,3,Fresher,Cloud,Network Engineer
+Master's,4,2,1,1,10,3,0,5,2,7,3,6,8,0,9,1,2,1,1,Intermediate,Embedded,Database Administrator
+Bachelor's,8,7,1,10,7,0,0,7,10,5,4,9,9,3,3,10,3,3,3,Intermediate,Web,Full Stack Developer
+PhD,10,4,7,4,3,7,10,4,3,8,2,10,8,8,7,0,4,1,4,Intermediate,AI,AI Engineer
+PhD,9,5,1,1,10,8,9,1,2,6,0,8,9,8,8,1,2,3,0,Intermediate,AI,Data Scientist
+High School,1,2,2,3,1,4,0,0,8,3,0,10,10,0,0,5,2,0,0,Fresher,Web,UI/UX Designer
+Master's,9,4,4,0,7,8,10,7,3,7,1,4,6,9,6,0,3,1,2,Intermediate,AI,Machine Learning Engineer
+Diploma,9,1,2,1,8,8,5,1,1,6,1,6,6,2,9,0,0,4,0,Fresher,General,Data Analyst
+Master's,8,6,5,2,8,5,3,4,2,8,4,4,8,6,8,2,9,0,1,Intermediate,Data,Data Engineer
+Bachelor's,4,2,0,4,8,2,3,10,4,3,4,7,9,3,3,3,7,4,0,Fresher,Cloud,Cloud Engineer
+Bachelor's,5,3,3,4,10,9,2,3,1,9,0,10,8,3,10,0,0,2,1,Fresher,Data,Data Analyst
+Bachelor's,5,0,0,2,8,5,1,7,3,6,2,7,8,4,9,0,4,4,3,Intermediate,AI,Database Administrator
+Bachelor's,5,1,5,4,4,3,1,7,4,4,10,4,7,2,3,3,3,10,5,Experienced,Security,Cybersecurity Engineer
+Master's,7,4,5,1,6,5,9,5,2,8,1,6,9,10,6,2,4,0,3,Intermediate,AI,Machine Learning Engineer
+High School,5,3,0,1,6,3,1,10,6,3,4,5,10,0,5,5,8,2,3,Intermediate,Cloud,DevOps Engineer
+Master's,8,2,2,2,9,10,7,4,0,9,1,5,9,9,9,2,5,0,2,Intermediate,AI,Machine Learning Engineer
+Master's,5,10,7,6,5,3,2,4,6,3,0,6,5,2,2,6,6,0,7,Fresher,General,Software Developer
+Diploma,8,4,3,2,8,7,7,9,3,10,0,4,7,4,9,0,6,1,2,Intermediate,Data,Data Engineer
+High School,0,3,1,5,0,2,0,1,9,2,4,9,9,4,3,10,0,1,1,Fresher,Web,UI/UX Designer
+Master's,3,0,3,3,6,5,1,0,1,9,0,9,6,7,8,4,1,2,0,Fresher,General,Business Analyst
+Master's,4,2,0,0,10,1,1,5,2,5,5,6,6,1,6,2,3,2,2,Intermediate,Data,Database Administrator
+Bachelor's,1,2,4,2,2,5,2,3,4,10,1,9,5,1,8,0,1,2,0,Fresher,General,Business Analyst
+Bachelor's,5,3,2,3,10,3,1,0,1,9,0,6,6,7,10,1,1,0,0,Fresher,Data,Data Analyst
+Bachelor's,6,10,4,4,4,2,2,2,5,2,1,6,8,2,1,7,3,1,2,Fresher,Web,Mobile App Developer
+PhD,8,2,0,0,8,8,7,2,3,9,1,8,9,9,10,2,2,1,0,Intermediate,AI,Data Scientist
+Bachelor's,1,0,3,8,0,3,1,1,9,0,2,10,9,0,1,8,0,0,0,Fresher,Web,UI/UX Designer
+Diploma,6,1,8,1,0,3,3,2,2,1,3,7,6,4,0,3,2,3,9,Intermediate,Embedded,Embedded Systems Engineer
+Diploma,4,3,1,9,3,1,1,0,10,1,0,9,10,4,2,10,1,2,0,Fresher,Web,Frontend Developer
+Diploma,5,8,4,5,7,3,4,0,2,5,3,6,9,4,2,4,3,3,1,Fresher,General,Software Developer
+Bachelor's,1,1,1,2,4,5,0,1,3,7,1,10,6,1,5,1,2,2,0,Fresher,General,Business Analyst
+Bachelor's,8,1,3,2,8,7,3,5,3,2,10,5,9,4,2,4,5,7,0,Fresher,Security,Cybersecurity Analyst
+Bachelor's,2,0,0,5,0,4,1,0,9,2,1,10,5,4,0,9,0,0,0,Experienced,Web,UI/UX Designer
+Bachelor's,3,1,2,4,10,5,4,1,3,9,0,7,8,4,9,4,4,1,2,Fresher,Data,Data Analyst
+Diploma,9,4,0,4,4,0,3,9,5,2,5,6,4,3,2,5,10,4,0,Intermediate,Cloud,Cloud Engineer
+Diploma,4,2,2,6,1,1,0,0,9,4,2,10,8,3,0,9,1,1,3,Intermediate,Web,UI/UX Designer
+Bachelor's,8,5,4,3,10,6,3,9,1,8,4,5,6,3,10,0,6,0,1,Intermediate,Data,Data Engineer
+Master's,8,9,5,5,7,4,1,4,4,7,4,7,10,1,1,4,2,1,0,Fresher,General,QA Engineer
+Diploma,5,2,5,1,9,10,0,0,1,8,2,8,4,4,8,4,1,0,2,Fresher,Web,Data Analyst
+Master's,7,3,5,5,6,9,10,7,1,6,1,6,10,10,6,2,3,3,3,Intermediate,Web,AI Engineer
+Diploma,9,3,4,3,6,0,2,10,4,6,4,6,9,2,0,4,10,4,3,Experienced,Cloud,DevOps Engineer
+Bachelor's,9,10,3,3,6,2,3,5,6,2,2,6,6,4,3,10,4,5,3,Intermediate,Web,Backend Developer
+Bachelor's,3,6,6,8,4,2,2,3,9,0,3,6,7,1,4,6,2,5,2,Fresher,Web,Mobile App Developer
+Bachelor's,6,4,3,4,5,1,2,9,5,3,4,6,10,3,2,2,10,3,0,Intermediate,Data,DevOps Engineer
+Bachelor's,3,5,8,1,2,3,2,3,3,0,2,5,10,3,1,0,0,2,9,Intermediate,Embedded,Embedded Systems Engineer
+High School,3,10,5,7,5,3,2,5,6,2,4,6,7,4,2,6,3,2,5,Fresher,Web,Mobile App Developer
+Master's,9,3,5,3,6,7,10,6,3,6,3,5,10,10,4,1,3,0,0,Intermediate,AI,AI Engineer
+Bachelor's,4,2,1,1,3,5,0,1,5,5,0,10,6,1,7,2,0,0,1,Fresher,General,Business Analyst
+Bachelor's,8,7,7,5,7,2,0,6,6,2,3,7,6,0,3,9,7,3,4,Intermediate,Web,Backend Developer
+Diploma,1,4,0,10,3,0,2,2,10,3,2,7,6,1,1,10,3,1,2,Fresher,Web,Frontend Developer
+Diploma,3,5,4,0,10,2,0,5,3,6,3,2,6,2,6,3,3,3,0,Intermediate,AI,Database Administrator
+Bachelor's,8,3,1,1,6,1,3,5,1,4,10,6,8,2,4,5,3,9,4,Fresher,Security,Cybersecurity Analyst
+PhD,9,1,0,1,8,8,9,2,4,9,0,6,6,9,8,0,1,0,4,Intermediate,AI,Data Scientist
+Bachelor's,1,1,0,7,2,3,3,3,7,1,2,10,7,1,0,10,0,0,2,Fresher,Web,UI/UX Designer
+Bachelor's,4,5,2,9,9,2,1,6,10,5,2,7,8,2,1,10,4,2,0,Intermediate,Web,Full Stack Developer
+Bachelor's,5,4,2,10,8,5,4,2,8,0,3,6,7,2,3,8,2,2,3,Intermediate,Web,Full Stack Developer
+Bachelor's,8,4,7,3,5,4,2,5,0,4,10,7,8,3,1,2,3,10,4,Fresher,Security,Cybersecurity Analyst
+Bachelor's,6,6,2,4,8,2,2,10,7,4,7,6,8,1,2,0,9,2,2,Intermediate,Cloud,DevOps Engineer
+Master's,3,1,2,10,4,1,1,4,10,4,2,9,6,1,3,10,1,0,1,Fresher,Web,Frontend Developer
+Bachelor's,5,5,10,0,1,3,3,3,3,3,0,5,10,3,1,0,3,1,10,Intermediate,Embedded,Embedded Systems Engineer
+Bachelor's,4,2,2,2,3,5,3,2,2,1,10,10,9,1,1,1,3,10,4,Fresher,Web,Cybersecurity Analyst
+Bachelor's,8,5,3,0,8,5,5,4,0,10,0,6,6,5,6,1,8,2,0,Fresher,Cloud,Data Engineer
+Bachelor's,7,3,4,6,2,3,2,4,1,3,10,7,10,3,2,3,3,10,0,Fresher,Security,Cybersecurity Analyst
+Bachelor's,8,7,3,3,4,0,2,10,4,4,2,6,10,4,3,4,9,0,2,Intermediate,Cloud,Cloud Engineer
+Master's,3,3,2,1,8,5,2,1,0,7,2,10,8,4,6,1,0,0,0,Fresher,General,Business Analyst
+Master's,9,0,2,5,6,9,10,6,2,4,3,6,10,9,8,2,6,4,0,Intermediate,AI,AI Engineer
+PhD,9,2,5,2,4,7,9,7,2,6,5,6,10,10,6,2,4,1,1,Intermediate,AI,AI Engineer
+Bachelor's,7,5,6,4,6,2,2,6,4,5,9,6,7,0,2,4,4,10,3,Experienced,Data,Cybersecurity Engineer
+Master's,7,0,6,3,4,7,9,7,3,6,2,5,9,10,3,2,4,1,2,Intermediate,AI,AI Engineer
+Bachelor's,6,6,2,5,7,4,2,10,4,3,4,4,10,1,3,5,10,2,1,Intermediate,Cloud,DevOps Engineer
+Diploma,3,10,6,8,3,4,1,2,6,1,2,5,8,0,1,6,1,1,6,Fresher,Web,Mobile App Developer
+Diploma,5,4,3,1,5,3,3,4,3,4,2,9,9,2,2,2,0,2,2,Fresher,General,QA Engineer
+PhD,5,8,5,4,6,0,4,5,8,6,0,7,8,2,0,9,3,1,4,Experienced,Web,Mobile App Developer
+Bachelor's,5,2,10,2,0,3,4,0,0,1,4,7,9,7,0,2,0,5,10,Intermediate,Security,Embedded Systems Engineer
+PhD,7,5,3,4,6,1,5,8,4,1,4,5,8,3,0,3,10,1,0,Intermediate,Embedded,Cloud Engineer
+Bachelor's,6,1,2,2,6,4,2,3,2,10,2,8,7,1,8,3,2,3,0,Experienced,General,Business Analyst
+Bachelor's,4,5,0,6,5,0,1,9,3,2,3,5,6,3,4,3,10,1,1,Intermediate,Cloud,Cloud Engineer
+Diploma,8,6,2,4,6,2,2,10,3,2,3,3,8,2,3,5,10,5,0,Intermediate,Cloud,Cloud Engineer
+Bachelor's,5,5,0,4,5,4,0,0,4,2,2,8,8,0,2,5,0,3,0,Fresher,General,QA Engineer
+Diploma,4,0,4,3,7,6,2,0,4,4,3,10,8,2,9,2,2,2,4,Fresher,General,Business Analyst
+Master's,2,3,0,5,3,3,1,2,8,4,1,10,9,0,3,8,2,4,1,Fresher,Web,UI/UX Designer
+Bachelor's,5,5,2,10,2,0,1,0,10,0,1,4,7,1,0,9,1,0,1,Fresher,Web,Frontend Developer
+PhD,7,0,5,3,4,6,9,8,2,4,2,6,10,9,6,4,3,0,3,Intermediate,AI,AI Engineer
+Bachelor's,9,5,2,3,10,6,4,2,3,8,0,5,5,2,9,5,4,0,2,Fresher,Data,Data Analyst
+Diploma,7,4,3,4,6,3,4,2,1,3,10,5,10,3,5,2,2,10,4,Fresher,Embedded,Cybersecurity Analyst
+Master's,3,2,1,1,8,6,4,0,2,8,0,10,8,5,9,1,2,1,1,Fresher,Data,Data Analyst
+Bachelor's,4,3,1,9,3,2,1,3,9,2,3,9,9,1,1,9,0,0,1,Fresher,Web,Frontend Developer
+PhD,9,0,0,4,8,10,7,3,6,7,0,9,8,9,8,1,0,1,2,Intermediate,AI,Data Scientist
+Bachelor's,0,1,4,5,3,1,4,0,7,4,3,10,5,2,1,8,2,0,0,Fresher,Web,UI/UX Designer
+Diploma,8,4,3,3,8,4,4,10,3,8,3,6,10,5,10,0,5,1,2,Intermediate,Data,Data Engineer
+Diploma,4,3,0,5,6,1,0,5,6,4,3,4,8,1,1,4,2,0,4,Fresher,General,QA Engineer
+Diploma,5,4,1,3,5,3,3,10,2,4,5,7,7,3,0,2,10,1,1,Intermediate,Cloud,Cloud Engineer
+Bachelor's,8,6,6,6,8,3,1,2,6,2,2,5,8,1,0,6,5,0,4,Experienced,General,Software Developer
+Diploma,8,2,2,5,6,3,2,10,5,3,4,4,10,3,1,5,10,3,3,Intermediate,Cloud,DevOps Engineer
+Diploma,7,3,3,9,7,0,0,7,10,3,1,7,6,2,3,10,3,1,2,Intermediate,Web,Full Stack Developer
+Master's,9,2,4,3,4,6,10,5,2,7,0,5,9,9,8,2,4,0,2,Intermediate,AI,AI Engineer
+Master's,4,9,3,4,7,3,2,1,5,6,2,5,6,2,4,6,2,0,4,Fresher,General,Software Developer
+Master's,9,0,5,4,5,5,10,3,4,6,2,9,10,9,7,1,4,0,0,Intermediate,AI,AI Engineer
+Bachelor's,4,3,5,3,5,4,1,4,0,7,8,7,10,2,0,0,4,9,0,Fresher,Security,Cybersecurity Analyst
+Diploma,9,5,4,3,10,7,3,0,3,9,0,8,7,6,10,2,2,1,1,Fresher,Cloud,Data Analyst
+Diploma,3,6,3,2,8,0,2,1,3,2,1,7,6,2,3,8,3,4,0,Fresher,General,QA Engineer
+Bachelor's,2,1,2,1,2,2,0,5,1,2,10,6,8,0,1,0,7,8,5,Intermediate,Cloud,Network Engineer
+Diploma,3,0,10,3,2,4,4,1,3,4,1,6,9,3,2,2,2,1,10,Intermediate,Embedded,Embedded Systems Engineer
+Diploma,5,7,4,5,6,0,1,2,10,3,1,7,9,2,2,8,2,0,6,Fresher,Web,Mobile App Developer
+Master's,5,10,5,8,9,4,4,0,5,6,3,4,8,0,4,2,5,4,2,Fresher,General,Software Developer
+Diploma,3,0,1,5,0,1,2,0,7,3,2,10,7,1,2,8,0,3,2,Fresher,Web,UI/UX Designer
+Diploma,5,1,1,10,4,1,1,2,10,2,4,7,7,1,2,9,1,1,2,Fresher,Web,Frontend Developer
+Bachelor's,5,6,3,7,8,1,1,4,9,5,0,8,10,3,0,8,3,2,1,Intermediate,Security,Full Stack Developer
+Bachelor's,8,5,2,8,6,4,4,5,10,3,5,4,9,1,0,9,7,1,2,Intermediate,Web,Full Stack Developer
+High School,7,5,3,4,10,7,2,3,3,8,0,10,8,2,10,2,2,2,0,Fresher,Data,Data Analyst
+Bachelor's,7,5,7,2,5,1,3,7,5,4,6,5,9,2,2,2,3,10,3,Experienced,Security,Cybersecurity Engineer
+Master's,4,3,0,1,6,0,2,10,3,3,2,7,7,1,1,4,10,0,1,Experienced,Cloud,Cloud Engineer
+Master's,2,0,1,1,5,7,0,5,3,7,3,9,10,2,8,2,2,1,0,Fresher,General,Business Analyst
+Bachelor's,5,4,5,2,2,1,0,5,4,0,10,6,7,1,4,0,4,10,2,Experienced,Security,Cybersecurity Engineer
+PhD,1,4,1,6,0,3,0,3,6,1,0,10,6,3,0,10,2,1,1,Fresher,Web,UI/UX Designer
+High School,10,3,3,0,10,7,10,5,3,8,1,6,9,9,6,3,2,0,0,Intermediate,AI,Data Scientist
+PhD,3,3,3,1,8,9,2,6,2,10,4,8,5,3,9,0,2,0,2,Fresher,Data,Data Analyst
+Diploma,10,6,3,5,6,4,4,3,5,5,2,5,10,5,5,5,0,2,2,Fresher,AI,Software Developer
+Master's,6,3,4,1,6,3,3,10,6,3,3,7,10,3,0,3,8,4,3,Intermediate,Cloud,DevOps Engineer
+Master's,3,4,2,0,8,8,3,1,4,7,0,8,8,4,10,2,3,1,1,Fresher,Data,Data Analyst
+Diploma,7,3,5,5,3,1,2,8,4,4,2,6,10,3,2,2,10,1,1,Intermediate,Cloud,Cloud Engineer
+Bachelor's,7,0,3,3,6,8,2,1,0,8,2,8,8,4,10,1,0,3,0,Intermediate,Data,Data Analyst
+Diploma,9,8,8,4,10,3,0,5,9,3,4,3,9,2,3,9,5,1,1,Intermediate,Web,Backend Developer
+High School,5,9,6,7,7,1,3,4,4,2,2,4,10,2,6,2,3,4,2,Fresher,General,Software Developer
+Bachelor's,7,8,0,9,6,2,1,3,8,3,2,5,9,1,1,10,4,3,0,Intermediate,Web,Full Stack Developer
+Master's,8,3,3,2,3,9,10,5,1,6,2,4,10,10,8,0,3,2,2,Intermediate,AI,Machine Learning Engineer
+Master's,6,5,7,1,7,0,4,5,3,4,9,7,9,3,5,2,3,8,6,Experienced,Security,Cybersecurity Engineer
+Bachelor's,6,1,3,4,6,4,0,6,0,4,10,8,7,0,2,3,1,10,0,Intermediate,Security,Cybersecurity Analyst
+Bachelor's,6,2,8,0,2,0,5,2,2,0,2,4,9,3,2,1,0,6,10,Experienced,Embedded,Embedded Systems Engineer
+Bachelor's,7,6,4,2,6,3,3,5,3,3,10,5,10,4,1,6,3,9,4,Fresher,Security,Cybersecurity Engineer
+Master's,7,9,1,2,10,1,0,4,8,2,3,4,5,4,4,7,5,4,2,Intermediate,Web,Backend Developer
+Bachelor's,5,5,3,5,6,2,3,7,7,3,7,5,6,3,3,4,10,2,0,Intermediate,Cloud,Cloud Engineer
+PhD,10,2,5,3,2,9,10,6,4,5,0,7,9,10,5,4,5,1,1,Intermediate,AI,AI Engineer
+Bachelor's,6,3,10,0,2,1,2,4,2,2,0,6,9,4,3,0,0,3,9,Intermediate,Embedded,Embedded Systems Engineer
+Bachelor's,7,10,4,5,10,3,2,5,8,1,2,8,10,3,0,6,5,2,0,Intermediate,Web,Backend Developer
+Bachelor's,5,2,0,8,2,2,4,2,10,3,2,6,10,1,1,10,2,3,0,Fresher,Web,Frontend Developer
+Bachelor's,2,2,1,9,3,1,1,1,10,1,1,9,5,4,1,10,0,3,1,Fresher,Web,Frontend Developer
+Bachelor's,6,4,4,4,5,5,3,9,3,4,4,4,10,4,4,5,10,6,3,Intermediate,Embedded,DevOps Engineer
+Bachelor's,4,4,0,7,5,2,0,2,10,5,1,9,5,1,0,10,4,1,0,Fresher,Web,Frontend Developer
+Bachelor's,7,1,5,3,5,2,3,10,1,5,6,6,8,0,0,4,10,4,1,Fresher,Cloud,Cloud Engineer
+Bachelor's,5,1,1,1,1,4,1,4,0,3,7,5,8,0,1,3,9,8,5,Intermediate,Cloud,Network Engineer
+Bachelor's,5,7,3,7,4,6,3,2,8,2,3,6,9,2,1,10,0,2,3,Fresher,Web,Mobile App Developer
+Bachelor's,6,6,2,7,6,1,0,4,8,4,3,5,8,5,0,10,4,4,1,Experienced,Web,Full Stack Developer
+Bachelor's,9,5,2,0,7,10,8,5,0,7,2,5,9,8,5,4,4,0,1,Intermediate,AI,Machine Learning Engineer
+Bachelor's,3,10,4,6,5,0,3,2,9,1,2,5,9,2,1,10,2,3,8,Fresher,Web,Mobile App Developer
+Master's,9,0,3,1,6,7,7,6,3,7,0,5,8,9,5,2,4,0,1,Intermediate,AI,AI Engineer
+Master's,4,0,9,0,2,4,3,5,0,0,3,4,7,3,0,0,3,2,10,Intermediate,Embedded,Embedded Systems Engineer
+Bachelor's,3,9,6,3,3,1,2,6,6,4,2,9,8,1,1,10,2,2,5,Fresher,Web,Mobile App Developer
+Master's,3,8,4,6,4,2,2,2,5,4,4,7,9,1,0,8,0,2,6,Fresher,Web,Mobile App Developer
+Bachelor's,8,3,10,0,2,1,5,0,2,3,3,1,6,3,0,0,0,0,8,Intermediate,Embedded,Embedded Systems Engineer
+Master's,7,0,6,3,0,1,3,7,0,2,8,5,8,2,0,0,5,7,3,Intermediate,Cloud,Network Engineer
+Bachelor's,3,5,2,2,2,4,3,5,1,4,7,5,8,0,1,0,7,5,2,Intermediate,Cloud,Network Engineer
+Master's,7,7,3,7,5,4,3,1,4,6,2,5,8,5,4,3,6,4,3,Fresher,General,Software Developer
+PhD,7,8,5,5,4,1,0,4,4,1,2,4,10,2,4,7,1,2,4,Fresher,General,Software Developer
+Master's,5,7,3,7,5,2,2,3,7,2,5,5,9,2,0,6,2,0,7,Fresher,Data,Mobile App Developer
+Diploma,4,1,0,4,5,8,1,2,1,8,7,9,9,2,9,0,5,2,1,Fresher,General,Business Analyst
+Diploma,8,6,2,3,4,2,3,10,6,4,3,4,10,4,2,1,10,4,2,Intermediate,Cloud,DevOps Engineer
+Master's,7,1,4,3,7,8,10,4,2,7,0,4,7,10,6,2,1,0,3,Intermediate,AI,Machine Learning Engineer
+Bachelor's,3,1,1,1,9,6,2,8,2,7,3,6,7,2,8,2,5,3,0,Experienced,Data,Database Administrator
+Diploma,5,2,1,5,9,9,3,2,2,9,4,4,4,2,9,3,3,0,3,Fresher,Data,Data Analyst
+Bachelor's,10,6,2,7,8,6,4,5,5,1,2,7,8,3,1,3,6,5,3,Fresher,General,Software Developer
+Diploma,1,0,2,5,0,3,1,0,6,2,0,9,9,3,0,9,0,1,0,Fresher,Web,UI/UX Designer
+Bachelor's,3,0,0,0,7,6,4,5,2,10,1,9,7,3,10,4,2,2,2,Fresher,General,Business Analyst
+Diploma,5,2,3,2,0,1,4,5,1,4,7,5,10,1,1,0,6,9,3,Intermediate,Cloud,Network Engineer
+Bachelor's,8,4,2,5,5,4,2,4,9,1,2,6,10,2,2,8,3,2,0,Intermediate,Web,Full Stack Developer
+Diploma,6,0,3,5,6,5,3,1,2,8,2,9,7,5,10,1,3,0,2,Fresher,Data,Data Analyst
+Bachelor's,4,4,1,2,8,6,4,6,2,8,2,6,8,5,9,3,5,1,5,Fresher,Data,Data Engineer
+Master's,4,2,2,0,2,0,0,9,0,4,5,4,6,0,2,2,6,10,4,Intermediate,Cloud,Network Engineer
+Bachelor's,7,5,2,2,7,1,3,10,5,2,6,8,10,2,1,8,8,4,2,Intermediate,Cloud,Cloud Engineer
+Bachelor's,3,5,1,2,2,4,3,10,4,0,2,5,8,2,2,5,8,3,3,Intermediate,Cloud,DevOps Engineer
+PhD,7,4,3,1,8,9,9,1,1,9,1,8,7,10,10,2,2,1,0,Intermediate,AI,Data Scientist
+Master's,8,1,4,1,4,6,1,4,4,3,10,8,10,1,2,3,5,10,4,Experienced,Security,Cybersecurity Engineer
+Diploma,6,4,4,1,6,4,6,6,2,3,10,7,9,0,1,2,5,8,3,Experienced,Security,Cybersecurity Engineer
+Bachelor's,5,10,3,5,6,2,0,4,7,5,4,7,8,1,4,7,7,4,0,Intermediate,Web,Backend Developer
+Bachelor's,9,3,3,4,6,2,1,4,6,2,4,6,7,2,2,2,10,3,2,Intermediate,Security,Cloud Engineer
+Diploma,4,3,1,9,2,0,2,3,10,2,2,7,4,1,0,8,0,1,0,Fresher,Web,Frontend Developer
+Bachelor's,6,5,6,7,5,2,4,2,4,3,2,3,7,3,3,7,6,4,4,Fresher,General,Software Developer
+Bachelor's,7,8,7,4,6,6,2,4,6,4,2,7,9,3,2,6,3,2,7,Fresher,General,Software Developer
+Diploma,6,3,0,10,1,1,0,1,10,3,3,8,8,1,0,10,0,0,1,Experienced,AI,Frontend Developer
+Bachelor's,7,5,4,7,7,3,0,6,9,4,0,8,7,4,2,10,5,2,2,Intermediate,Security,Full Stack Developer
+Bachelor's,0,10,4,8,4,0,2,2,5,3,3,8,7,0,2,7,2,3,4,Fresher,Web,Mobile App Developer
+Master's,5,8,5,6,2,3,0,6,6,2,1,7,9,1,2,8,2,1,8,Fresher,Web,Mobile App Developer
+Bachelor's,6,9,5,3,5,2,0,3,5,3,4,3,8,2,0,9,3,5,5,Fresher,Web,Mobile App Developer
+Diploma,7,8,6,4,9,1,2,5,7,4,4,6,7,5,4,7,5,4,1,Intermediate,Web,Backend Developer
+Diploma,1,8,3,7,5,1,1,3,5,3,1,7,6,1,0,8,4,3,3,Fresher,Web,Mobile App Developer
+Diploma,2,3,0,10,1,0,0,0,9,1,1,7,10,1,2,10,2,2,1,Fresher,Web,Frontend Developer
+Diploma,1,0,0,4,1,0,1,3,10,0,0,10,8,1,0,9,0,2,3,Fresher,Web,UI/UX Designer
+Bachelor's,7,6,5,0,7,1,3,6,3,8,10,6,10,2,2,2,3,10,2,Experienced,Security,Cybersecurity Engineer
+Diploma,6,4,3,3,5,1,3,5,3,5,9,7,10,1,0,1,2,10,5,Experienced,Security,Cybersecurity Engineer
+Bachelor's,8,4,1,5,4,0,2,0,8,4,0,8,4,0,2,2,1,4,1,Fresher,General,QA Engineer
+Bachelor's,5,3,5,0,4,2,2,5,0,3,8,5,9,3,0,0,4,7,3,Intermediate,Cloud,Network Engineer
+Bachelor's,1,3,4,1,2,3,0,5,1,5,5,7,8,1,0,0,7,6,6,Intermediate,Cloud,Network Engineer
+Bachelor's,5,9,5,7,10,3,0,9,5,4,3,5,9,2,4,7,6,1,1,Experienced,Web,Backend Developer
+Bachelor's,6,4,6,4,4,4,5,5,4,1,10,7,8,2,2,1,3,10,3,Fresher,Security,Cybersecurity Analyst
+Master's,10,5,5,1,2,7,10,4,3,7,3,6,10,10,8,0,3,2,4,Intermediate,AI,Machine Learning Engineer
+Diploma,5,7,7,5,4,5,3,1,3,2,3,6,9,2,2,6,2,2,1,Fresher,Security,Software Developer
+Bachelor's,4,5,0,10,2,0,0,0,10,6,0,8,7,3,5,10,1,2,2,Intermediate,Web,Frontend Developer
+Bachelor's,1,1,1,1,7,6,3,4,0,9,0,10,7,2,5,4,0,2,0,Fresher,General,Business Analyst
+Bachelor's,7,2,0,5,10,4,1,4,1,7,3,7,7,0,10,2,5,4,0,Intermediate,Data,Database Administrator
+Diploma,7,7,4,5,6,2,0,4,3,4,1,5,10,4,5,6,4,0,2,Experienced,General,Software Developer
+Bachelor's,3,1,10,0,4,4,2,3,0,1,4,5,8,3,3,3,2,1,10,Intermediate,Embedded,Embedded Systems Engineer
+Diploma,7,8,5,3,5,3,3,5,3,3,1,7,7,2,1,6,3,1,3,Fresher,General,Software Developer
+Bachelor's,7,6,4,3,9,4,7,6,4,9,1,4,7,5,8,3,6,2,2,Intermediate,Data,Data Engineer
+Master's,9,4,4,2,9,9,10,4,0,9,4,7,10,10,7,2,0,0,3,Intermediate,AI,Data Scientist
+Bachelor's,4,1,3,2,0,4,1,5,1,1,4,5,5,0,0,3,4,8,6,Intermediate,General,Network Engineer
+Diploma,5,7,0,4,9,2,1,3,5,1,2,7,6,2,3,5,5,1,2,Fresher,General,QA Engineer
+Diploma,9,7,0,3,10,6,6,7,2,10,1,5,7,4,6,2,6,2,0,Intermediate,Data,Data Engineer
+Bachelor's,4,9,7,3,5,3,3,2,6,1,0,3,7,5,6,5,2,2,4,Fresher,General,Software Developer
+Bachelor's,2,3,5,10,4,0,0,1,10,3,4,6,3,0,2,10,1,0,3,Intermediate,Web,Frontend Developer
+Diploma,6,3,3,4,5,2,3,8,3,2,3,7,8,0,2,1,10,4,0,Intermediate,Cloud,DevOps Engineer
+PhD,8,6,2,4,5,3,3,10,4,4,6,5,9,0,3,5,10,3,2,Intermediate,Cloud,DevOps Engineer
+Bachelor's,0,2,0,9,1,1,1,0,8,0,2,9,7,4,0,9,0,2,1,Fresher,Cloud,UI/UX Designer
+Bachelor's,5,3,1,3,10,1,1,4,4,7,4,6,9,1,9,3,3,6,3,Intermediate,Data,Database Administrator
+Master's,8,1,6,2,6,9,10,3,1,7,0,7,9,10,6,1,2,2,1,Intermediate,AI,AI Engineer
+Bachelor's,1,7,2,6,5,4,1,3,4,1,2,4,10,3,0,6,1,1,2,Intermediate,Web,Mobile App Developer
+Bachelor's,9,2,6,3,7,4,1,5,3,1,10,8,9,3,1,2,3,10,1,Fresher,Security,Cybersecurity Analyst
+Bachelor's,4,2,0,0,10,2,0,7,2,9,3,4,5,2,10,0,2,5,0,Intermediate,Data,Database Administrator
+Master's,7,2,4,2,6,7,10,5,3,5,1,7,8,10,4,3,3,2,2,Intermediate,AI,AI Engineer
+Master's,9,3,2,2,8,4,3,3,0,8,0,6,7,0,10,3,2,0,0,Fresher,Web,Data Analyst
+Master's,7,7,3,6,6,0,3,3,8,3,2,7,7,3,3,8,1,2,5,Fresher,Web,Mobile App Developer
+Diploma,8,6,4,0,8,4,5,8,1,8,0,9,9,5,10,3,6,1,3,Intermediate,Data,Data Engineer
+Master's,4,0,10,1,3,7,4,3,3,3,1,7,9,5,2,3,1,0,10,Intermediate,Embedded,Embedded Systems Engineer
+Bachelor's,8,8,4,8,7,3,1,6,10,3,2,9,8,0,2,6,3,1,1,Fresher,Web,Backend Developer
+Bachelor's,10,3,4,3,10,6,3,7,5,7,3,6,10,6,9,0,5,0,1,Experienced,Data,Data Engineer
+Bachelor's,4,7,2,4,4,3,0,10,3,2,4,2,6,3,3,1,10,2,2,Intermediate,Cloud,Cloud Engineer
+Master's,5,8,3,9,7,1,4,8,10,7,1,5,7,2,6,10,3,1,3,Intermediate,Web,Full Stack Developer
+Diploma,3,7,4,2,6,2,0,0,3,2,0,5,8,0,4,4,3,0,0,Fresher,General,QA Engineer
+Master's,10,1,3,3,8,6,10,5,3,6,0,7,10,10,7,0,3,3,3,Experienced,Embedded,Machine Learning Engineer
+Master's,6,3,4,6,4,4,1,3,3,3,10,4,9,4,1,3,0,9,0,Experienced,Security,Cybersecurity Engineer
+Diploma,7,2,2,2,10,7,3,2,5,7,2,5,7,6,10,2,1,1,1,Intermediate,Data,Data Analyst
+Bachelor's,9,3,3,0,2,2,3,10,7,3,3,4,7,3,3,3,10,5,1,Intermediate,AI,Cloud Engineer
+Master's,9,4,3,0,7,9,8,4,3,10,1,4,8,10,7,2,3,1,0,Intermediate,AI,Data Scientist
+PhD,6,7,1,3,5,4,2,4,2,5,10,7,7,5,3,2,2,8,3,Fresher,Security,Cybersecurity Analyst
+Diploma,4,2,2,1,4,2,1,6,1,2,5,8,8,0,2,1,8,9,4,Intermediate,Cloud,Network Engineer
+Bachelor's,4,10,1,4,10,2,0,7,7,3,2,6,7,6,3,7,5,5,0,Intermediate,Web,Backend Developer
+Diploma,5,4,1,2,2,2,0,6,2,0,9,4,9,0,1,2,7,8,4,Intermediate,Cloud,Network Engineer
+Bachelor's,10,3,3,3,8,9,10,2,1,9,2,6,9,9,5,1,2,1,3,Intermediate,AI,Data Scientist
+Master's,3,0,5,1,0,4,3,2,0,2,2,4,7,5,0,0,1,1,10,Intermediate,Embedded,Embedded Systems Engineer
+Master's,10,6,7,3,7,9,8,6,1,8,1,7,9,5,6,2,5,1,5,Intermediate,AI,Machine Learning Engineer
+Bachelor's,6,5,3,2,5,2,4,9,5,2,5,8,10,4,2,5,10,1,1,Intermediate,Cloud,DevOps Engineer
+Bachelor's,2,3,0,4,5,6,0,2,0,10,0,8,4,2,6,3,2,3,0,Fresher,General,Business Analyst
+Diploma,5,4,3,4,10,2,2,7,2,4,3,5,6,0,10,1,6,1,0,Intermediate,Data,Database Administrator
+Bachelor's,6,4,8,1,1,1,1,3,5,1,3,5,8,5,5,0,4,1,8,Intermediate,Embedded,Embedded Systems Engineer
+Bachelor's,4,8,5,7,7,2,1,6,7,2,3,6,7,3,5,9,4,2,0,Intermediate,Web,Backend Developer
+Master's,3,1,1,2,10,2,1,8,2,7,7,5,6,0,7,0,4,3,1,Intermediate,Data,Database Administrator
+High School,3,0,1,2,9,4,1,3,3,8,3,7,5,3,6,0,1,0,2,Fresher,General,Business Analyst
+Bachelor's,3,1,8,2,1,4,3,5,2,1,3,6,7,5,1,2,1,1,9,Intermediate,Embedded,Embedded Systems Engineer
+Bachelor's,10,7,4,6,5,2,0,6,8,3,3,8,8,2,3,10,6,1,0,Intermediate,Web,Backend Developer
+Master's,9,1,5,3,6,8,10,3,6,6,1,5,8,10,7,3,4,2,2,Intermediate,AI,AI Engineer
+Bachelor's,5,2,0,2,0,2,1,6,1,2,8,6,10,0,0,0,7,5,2,Intermediate,Cloud,Network Engineer
+Diploma,6,4,3,3,8,4,6,10,4,5,4,9,5,6,9,0,6,2,3,Intermediate,Web,Data Engineer
+Master's,8,4,5,1,5,4,8,4,2,5,0,4,9,10,7,1,2,0,1,Intermediate,AI,Machine Learning Engineer
+Bachelor's,6,1,0,5,5,5,1,2,2,8,0,10,8,2,10,0,3,0,2,Fresher,General,Business Analyst
+Diploma,6,6,4,1,10,5,5,8,0,10,2,5,7,4,8,0,5,0,3,Intermediate,Data,Data Engineer
+Bachelor's,7,6,4,4,6,5,4,2,3,4,10,4,7,1,0,1,4,9,2,Intermediate,Security,Cybersecurity Analyst
+Diploma,5,1,10,2,1,2,4,4,2,2,2,6,8,1,3,0,0,4,7,Fresher,Embedded,Embedded Systems Engineer
+Master's,9,2,3,1,6,10,10,1,4,9,2,8,10,9,10,1,3,0,4,Intermediate,AI,Data Scientist
+Diploma,6,6,3,3,5,3,0,1,2,6,1,7,6,2,2,5,1,3,0,Fresher,General,QA Engineer
+Bachelor's,4,3,10,1,3,3,0,3,2,2,1,4,8,2,0,0,4,4,10,Intermediate,Embedded,Embedded Systems Engineer
+Master's,2,5,3,8,9,1,2,7,10,1,0,9,7,4,1,10,2,1,0,Intermediate,Web,Full Stack Developer
+Diploma,2,4,4,4,10,2,0,6,4,5,5,10,7,2,10,5,4,5,0,Intermediate,Data,Database Administrator
+Bachelor's,5,3,10,1,2,3,3,4,0,4,1,5,10,4,0,1,4,1,10,Intermediate,Embedded,Embedded Systems Engineer
+Diploma,8,5,1,3,6,1,2,10,3,4,2,6,10,0,1,4,10,2,0,Intermediate,Cloud,DevOps Engineer
+Bachelor's,5,1,5,1,1,2,1,4,1,3,9,8,10,1,2,0,9,7,7,Intermediate,Web,Network Engineer
+Diploma,3,6,10,2,0,4,2,4,0,4,5,4,10,5,2,0,2,2,10,Intermediate,Embedded,Embedded Systems Engineer
+Master's,9,0,0,2,7,10,6,4,0,10,0,5,10,10,10,2,2,0,0,Intermediate,AI,Data Scientist
+PhD,0,1,0,5,0,3,0,0,6,2,1,9,6,3,0,9,1,0,4,Fresher,Web,UI/UX Designer
+PhD,5,10,5,5,4,1,4,3,9,2,4,3,8,3,1,9,3,4,5,Fresher,Web,Mobile App Developer
+Bachelor's,4,1,2,6,2,2,2,0,10,0,2,10,8,0,0,10,3,1,2,Fresher,Web,UI/UX Designer
+High School,5,3,4,6,6,3,1,3,3,3,1,7,5,3,5,3,4,2,0,Fresher,General,QA Engineer
+Bachelor's,4,0,3,0,5,1,0,5,1,5,1,6,10,0,2,3,6,7,5,Intermediate,Cloud,Network Engineer
+Master's,2,5,1,4,3,0,3,6,0,3,8,7,10,1,2,0,7,7,2,Intermediate,Cloud,Network Engineer
+Diploma,5,2,1,5,10,5,4,1,1,10,0,9,6,2,8,1,4,2,4,Intermediate,Data,Data Analyst
+Bachelor's,1,4,0,10,4,2,2,0,9,4,2,10,10,1,1,8,0,0,0,Fresher,Web,Frontend Developer
+Bachelor's,7,5,4,0,7,5,3,10,4,3,5,7,9,3,3,4,8,4,4,Intermediate,Cloud,Cloud Engineer
+Master's,10,0,0,1,9,10,9,1,2,9,1,8,8,9,10,2,1,0,0,Intermediate,AI,Data Scientist
+Diploma,2,1,0,6,0,1,2,1,5,3,1,8,5,2,0,10,0,0,0,Fresher,General,UI/UX Designer
+Bachelor's,6,5,1,9,8,2,4,4,10,2,3,6,10,0,5,10,5,4,2,Intermediate,Web,Full Stack Developer
+Bachelor's,9,5,7,1,10,6,4,8,2,5,3,7,9,4,10,0,8,0,1,Intermediate,Data,Data Engineer
+Diploma,10,5,5,4,8,5,5,2,3,6,2,9,5,2,9,2,2,1,1,Fresher,Data,Data Analyst
+Master's,10,2,6,0,1,6,8,5,3,7,0,7,9,10,4,4,4,4,1,Intermediate,AI,AI Engineer
+Master's,7,6,3,2,10,7,7,4,4,8,2,8,4,5,10,0,4,4,0,Intermediate,Data,Data Engineer
+Master's,5,6,2,8,8,0,4,6,10,0,1,9,10,4,4,10,3,4,0,Intermediate,Web,Full Stack Developer
+PhD,10,0,2,0,8,7,9,3,4,9,0,7,7,10,10,5,1,1,0,Intermediate,AI,Data Scientist
+Bachelor's,5,6,6,3,5,3,4,6,4,4,9,7,10,4,5,2,2,9,5,Experienced,Security,Cybersecurity Engineer
+Diploma,6,7,5,7,7,5,0,0,5,9,4,5,9,4,1,7,3,2,3,Fresher,General,Software Developer
+Diploma,8,4,6,3,3,2,1,5,5,5,8,6,9,3,1,0,4,10,3,Experienced,Security,Cybersecurity Engineer
+Bachelor's,2,0,2,1,4,7,1,0,4,7,0,8,6,2,7,4,2,0,3,Fresher,General,Business Analyst
+Diploma,5,6,2,8,7,1,1,5,9,3,2,7,10,2,2,9,2,3,0,Intermediate,Web,Full Stack Developer
+Master's,7,7,1,0,9,5,4,7,0,6,1,5,10,4,8,3,7,0,0,Intermediate,Data,Data Engineer
+Master's,7,7,4,6,10,0,3,6,6,2,1,3,9,5,0,6,7,2,2,Intermediate,Web,Backend Developer
+Diploma,9,6,6,3,9,2,0,5,3,6,9,7,7,4,2,2,7,10,1,Experienced,Security,Cybersecurity Engineer
+Bachelor's,8,5,1,6,9,10,3,2,3,10,2,7,9,2,8,3,2,1,1,Fresher,Data,Data Analyst
+Bachelor's,2,2,4,8,1,0,0,0,8,3,2,9,9,4,0,8,1,0,1,Intermediate,Web,UI/UX Designer
+Bachelor's,8,1,5,3,7,3,4,4,0,4,10,6,9,1,1,0,1,10,2,Experienced,Security,Cybersecurity Engineer
+Master's,6,7,3,3,5,1,1,6,8,3,3,5,9,2,2,8,5,1,0,Intermediate,Web,Backend Developer
+Master's,0,0,0,5,2,3,1,2,7,6,1,8,8,4,0,7,0,0,1,Fresher,Web,UI/UX Designer
+Bachelor's,6,4,2,3,4,0,3,10,6,4,3,6,10,0,1,4,8,4,3,Experienced,Cloud,DevOps Engineer
+High School,5,1,0,1,3,4,0,5,0,1,10,3,6,1,4,2,8,7,2,Intermediate,Cloud,Network Engineer
+Master's,6,0,0,2,6,8,7,2,4,10,1,6,8,10,10,0,2,0,1,Intermediate,AI,Data Scientist
+Bachelor's,6,3,3,9,5,3,0,7,10,0,2,6,7,1,2,9,1,4,1,Intermediate,Web,Full Stack Developer
+Bachelor's,4,5,9,0,3,1,4,2,0,1,6,5,9,4,0,3,1,0,9,Intermediate,Embedded,Embedded Systems Engineer
+Master's,8,4,4,4,6,1,3,10,2,6,8,8,10,3,1,3,10,1,0,Intermediate,Cloud,DevOps Engineer
+Diploma,0,3,2,4,0,3,0,2,10,3,0,9,9,2,2,8,0,2,0,Fresher,Web,UI/UX Designer
+Bachelor's,7,7,4,5,6,3,6,8,3,2,5,4,9,3,3,4,10,3,2,Intermediate,Cloud,Cloud Engineer
+Diploma,6,3,0,1,7,3,2,3,2,9,3,10,7,5,9,1,1,0,0,Fresher,Data,Data Analyst
+Bachelor's,1,1,0,5,2,3,4,2,9,3,0,7,5,3,3,10,1,4,0,Fresher,Embedded,UI/UX Designer
+Master's,10,3,0,3,5,9,10,3,1,10,3,9,10,10,10,1,2,1,0,Intermediate,AI,Data Scientist
+Diploma,6,1,4,4,6,5,4,5,2,10,3,10,7,1,5,0,5,1,0,Fresher,General,Business Analyst
+PhD,9,1,4,1,5,5,9,6,3,4,2,6,8,10,5,0,7,1,2,Intermediate,AI,AI Engineer
+Master's,6,6,3,7,8,4,2,5,4,2,2,5,10,4,7,7,9,5,1,Intermediate,Web,Backend Developer
+Bachelor's,8,3,3,1,6,3,2,10,6,3,5,5,9,0,1,3,7,4,4,Intermediate,Cloud,DevOps Engineer
+Master's,10,0,1,5,5,6,10,4,2,7,0,6,10,10,7,4,4,0,0,Intermediate,AI,AI Engineer
+Diploma,4,5,2,7,5,1,3,1,3,4,4,5,7,2,3,4,2,2,0,Fresher,General,QA Engineer
+Bachelor's,9,7,4,3,10,6,3,9,2,8,2,8,10,4,10,1,8,1,0,Intermediate,Data,Data Engineer
+Diploma,5,4,8,0,0,0,4,3,1,5,0,2,7,0,0,2,1,4,10,Intermediate,Embedded,Embedded Systems Engineer
+Bachelor's,3,4,3,5,5,1,1,3,6,5,4,6,9,0,2,4,5,4,1,Intermediate,General,QA Engineer
+Master's,0,2,2,10,3,0,0,4,10,1,0,9,8,0,3,10,0,1,0,Fresher,Web,Frontend Developer
+Diploma,3,3,4,5,2,1,0,2,5,3,3,7,6,0,3,4,3,1,2,Fresher,General,QA Engineer
+Bachelor's,8,1,3,3,5,1,3,7,0,4,10,7,10,1,2,0,3,10,3,Fresher,Security,Cybersecurity Analyst
+Bachelor's,5,3,0,9,3,1,2,3,10,0,0,6,7,2,2,10,0,3,2,Fresher,Web,Frontend Developer
+Diploma,5,5,1,5,5,0,2,6,2,3,4,6,9,8,3,4,3,3,0,Fresher,Embedded,QA Engineer
+Bachelor's,4,4,0,4,8,1,1,6,3,7,3,6,6,1,8,0,3,0,2,Intermediate,Data,Database Administrator
+Bachelor's,4,6,1,7,9,1,3,5,10,3,0,5,8,3,0,10,2,2,1,Intermediate,Web,Full Stack Developer
+Bachelor's,5,5,10,2,4,2,1,2,1,3,4,7,6,2,1,2,4,0,9,Intermediate,Embedded,Embedded Systems Engineer
+Diploma,2,7,6,8,3,3,0,3,7,4,4,6,7,4,0,9,2,5,3,Fresher,Web,Mobile App Developer
+Master's,5,1,4,0,10,2,0,7,2,9,2,4,6,6,9,2,5,2,5,Intermediate,Data,Database Administrator
+Bachelor's,6,4,0,3,8,3,2,3,3,4,10,6,8,1,5,2,2,7,1,Fresher,Security,Cybersecurity Analyst
+Bachelor's,5,9,6,7,5,3,3,4,5,1,0,7,10,3,0,9,3,2,2,Fresher,Web,Mobile App Developer
+Bachelor's,2,2,3,2,7,7,0,4,2,6,1,10,5,0,10,2,4,0,0,Fresher,General,Business Analyst
+Bachelor's,2,7,5,8,2,1,3,0,9,0,1,6,8,0,4,4,0,1,2,Fresher,Web,Mobile App Developer
+Bachelor's,5,2,9,2,4,3,2,4,0,4,1,6,8,4,4,0,0,2,10,Fresher,Embedded,Embedded Systems Engineer
+Bachelor's,5,3,2,5,3,0,0,10,4,4,2,8,6,0,1,3,9,5,3,Intermediate,Cloud,DevOps Engineer
+Diploma,6,4,0,6,5,7,0,0,7,4,2,8,6,0,5,1,5,3,1,Fresher,General,QA Engineer
+Bachelor's,10,1,4,3,3,7,9,3,1,3,0,6,8,10,5,3,4,0,2,Intermediate,AI,AI Engineer
+Bachelor's,8,3,7,1,6,10,9,8,2,10,2,6,9,9,6,2,4,0,2,Intermediate,AI,Machine Learning Engineer
+Bachelor's,6,2,2,2,6,3,0,7,3,6,7,6,9,0,0,2,4,6,5,Intermediate,Cloud,Network Engineer
+Bachelor's,8,4,3,1,6,6,5,7,1,8,3,5,9,2,9,1,8,0,0,Intermediate,Data,Data Engineer
+PhD,7,2,4,3,8,6,10,3,3,8,3,5,10,10,4,3,7,2,3,Intermediate,AI,AI Engineer
+Bachelor's,7,4,0,10,3,3,1,3,8,2,1,5,7,2,1,8,1,0,1,Fresher,Web,Frontend Developer
+Diploma,4,1,1,1,6,5,2,3,3,10,2,10,4,4,7,2,0,4,0,Fresher,General,Business Analyst
+High School,5,9,2,10,6,2,2,6,10,2,2,9,7,3,2,10,4,1,1,Intermediate,Web,Full Stack Developer
+Diploma,2,3,2,7,6,3,3,5,3,3,4,8,9,0,3,2,2,2,1,Fresher,General,QA Engineer
+Bachelor's,5,8,4,4,2,2,1,3,8,5,2,9,9,3,3,9,1,4,3,Fresher,Web,Mobile App Developer
+Diploma,3,6,1,4,6,3,3,3,4,1,1,5,8,1,1,4,2,0,3,Fresher,General,QA Engineer
+Diploma,5,3,4,5,3,2,1,10,3,5,4,6,8,0,2,5,10,1,0,Experienced,Cloud,Cloud Engineer
+Master's,6,1,2,2,7,5,2,0,2,10,0,8,7,4,9,0,0,1,3,Fresher,Data,Data Analyst
+Master's,5,3,3,1,10,0,1,4,1,6,2,9,5,0,6,1,6,4,3,Intermediate,Data,Database Administrator
+Master's,10,1,7,1,6,9,8,4,2,10,1,9,10,10,4,3,2,4,2,Intermediate,AI,Machine Learning Engineer
+Bachelor's,5,3,9,1,2,1,4,4,1,3,4,5,9,3,0,2,2,3,10,Intermediate,Embedded,Embedded Systems Engineer
+Master's,10,2,0,1,8,10,9,4,1,10,0,6,8,7,10,2,4,1,2,Intermediate,AI,Data Scientist
+Bachelor's,10,8,7,3,9,5,7,6,4,8,2,5,6,4,10,0,9,0,0,Intermediate,Data,Data Engineer
+Bachelor's,4,5,10,0,5,1,2,3,3,2,2,5,8,4,0,0,0,1,10,Intermediate,Embedded,Embedded Systems Engineer
+Bachelor's,6,7,7,7,7,6,3,3,5,2,4,2,7,3,2,4,6,4,2,Fresher,General,Software Developer
+Bachelor's,6,4,4,2,7,0,0,8,1,4,2,4,10,3,4,4,9,3,3,Intermediate,Cloud,DevOps Engineer
+Bachelor's,9,5,2,4,4,4,3,4,3,3,10,5,7,3,4,3,3,9,2,Experienced,Security,Cybersecurity Engineer
+High School,6,6,7,4,6,2,0,3,5,6,2,4,8,0,1,6,3,3,0,Fresher,Data,Software Developer
+PhD,5,2,2,1,4,3,3,6,2,3,8,7,9,2,2,3,3,10,1,Intermediate,Security,Cybersecurity Analyst
+Bachelor's,8,2,6,3,2,7,10,3,3,6,1,6,10,10,7,2,3,0,0,Intermediate,Web,AI Engineer
+Master's,8,6,3,1,10,5,3,8,3,10,5,7,8,1,7,1,4,0,1,Intermediate,Data,Data Engineer
+PhD,10,3,3,4,7,9,8,1,2,10,1,5,7,10,9,0,2,0,3,Intermediate,AI,Data Scientist
+Bachelor's,9,7,1,8,7,0,0,5,8,4,2,6,7,3,2,9,4,2,0,Intermediate,Web,Full Stack Developer
+Master's,6,3,4,2,6,3,0,3,3,6,10,10,10,1,2,2,2,10,3,Fresher,Security,Cybersecurity Analyst
+Bachelor's,7,3,0,2,7,10,9,5,1,9,0,6,9,8,7,0,0,0,2,Intermediate,AI,Data Scientist
+Diploma,9,6,6,1,6,3,2,7,3,3,10,5,8,0,1,1,5,8,0,Experienced,Security,Cybersecurity Engineer
+Bachelor's,7,10,7,5,7,0,0,0,8,6,3,6,6,3,6,5,2,0,5,Fresher,General,Software Developer
+Master's,5,7,4,4,9,0,2,7,7,5,2,5,10,5,2,8,8,2,2,Intermediate,Web,Backend Developer
+Bachelor's,6,1,3,4,10,8,4,0,1,6,1,8,9,5,9,1,3,0,1,Fresher,Data,Data Analyst
+Master's,5,0,6,5,8,7,8,4,3,4,4,10,10,10,3,4,4,1,3,Intermediate,AI,AI Engineer
+Bachelor's,10,3,7,4,8,8,7,9,2,8,1,8,8,10,5,5,5,2,0,Intermediate,AI,AI Engineer
+Bachelor's,4,5,0,1,10,3,0,7,4,7,2,6,8,1,10,1,7,4,1,Intermediate,Data,Database Administrator
+Master's,6,2,1,8,6,0,0,1,10,4,1,9,7,2,4,10,0,2,2,Fresher,Web,Frontend Developer
+Master's,6,1,2,3,9,10,2,3,4,9,5,7,8,2,8,2,3,2,3,Fresher,Web,Data Analyst
+Master's,6,8,3,9,5,3,0,7,10,2,3,10,8,3,1,10,2,2,1,Intermediate,Web,Full Stack Developer
+Bachelor's,6,6,6,4,5,3,1,2,3,2,2,6,6,4,4,7,3,3,6,Fresher,General,Software Developer
+Master's,8,5,6,3,7,7,6,7,0,8,3,8,5,3,10,3,7,3,2,Intermediate,Data,Data Engineer
+Bachelor's,7,4,4,4,8,10,3,8,2,8,1,8,7,1,7,3,8,0,2,Intermediate,Data,Data Engineer
+Bachelor's,10,5,6,0,9,5,5,6,0,9,2,5,9,4,9,1,5,0,0,Intermediate,Data,Data Engineer
+Diploma,9,9,3,1,4,2,1,9,3,4,4,5,8,1,0,2,10,3,0,Intermediate,Cloud,DevOps Engineer
+PhD,10,1,2,3,8,10,8,2,5,10,0,8,8,7,10,0,3,1,1,Intermediate,AI,Data Scientist
+Bachelor's,6,1,10,0,3,2,1,4,0,2,5,4,9,2,1,1,2,1,10,Intermediate,Embedded,Embedded Systems Engineer
+Master's,10,4,2,2,9,10,10,6,0,8,1,7,8,10,6,1,5,0,0,Intermediate,AI,Machine Learning Engineer
+Master's,8,3,3,4,3,5,10,5,4,5,0,8,7,10,7,3,3,0,2,Intermediate,AI,AI Engineer
+Bachelor's,4,4,0,7,0,0,1,1,9,3,2,7,8,0,0,9,0,0,0,Fresher,Web,Frontend Developer
+High School,3,6,0,2,10,2,1,0,5,5,2,8,10,2,0,2,5,2,1,Fresher,Cloud,QA Engineer
+Diploma,4,7,4,7,3,4,6,4,7,4,0,8,7,5,0,9,0,2,2,Fresher,Web,Mobile App Developer
+Bachelor's,6,4,3,3,7,0,0,10,2,2,3,5,7,1,3,3,10,2,3,Intermediate,Cloud,DevOps Engineer
+Bachelor's,1,1,0,7,1,2,3,2,8,1,0,6,9,1,2,9,3,2,2,Fresher,Web,UI/UX Designer
+Diploma,5,10,6,7,8,1,0,4,7,4,5,5,8,2,2,9,7,2,2,Experienced,Web,Backend Developer
+Master's,9,2,1,6,3,2,5,10,6,4,4,6,6,1,2,3,10,3,3,Fresher,Cloud,DevOps Engineer
+PhD,8,8,4,3,7,5,2,5,5,2,2,9,8,0,3,8,4,3,3,Intermediate,Web,Backend Developer
+Master's,10,5,2,2,2,9,10,6,3,8,3,8,10,9,6,3,4,0,4,Intermediate,AI,AI Engineer
+Diploma,3,3,4,5,4,4,3,3,2,6,10,7,10,1,0,0,6,10,0,Experienced,Security,Cybersecurity Engineer
+Diploma,4,7,0,6,8,2,2,4,8,1,2,5,8,1,2,10,5,3,0,Intermediate,Web,Full Stack Developer
+Master's,10,6,5,4,8,1,0,6,5,5,2,7,6,2,3,1,3,1,3,Fresher,General,Software Developer
+Bachelor's,8,5,4,2,5,3,3,4,4,2,9,8,7,4,0,0,2,10,4,Experienced,Security,Cybersecurity Engineer
+Master's,8,10,5,6,6,4,4,7,6,3,2,5,9,2,5,9,5,1,0,Intermediate,Web,Backend Developer
+PhD,0,3,2,6,3,2,2,0,9,1,1,9,8,1,6,7,1,1,2,Fresher,Web,UI/UX Designer
+Master's,6,0,5,0,9,8,8,2,3,9,0,5,9,7,10,5,4,2,1,Intermediate,AI,Data Scientist
+Bachelor's,7,5,5,4,9,2,0,7,1,3,0,4,5,2,0,4,3,3,2,Fresher,General,QA Engineer
+Bachelor's,5,7,4,8,7,4,0,5,10,1,2,7,9,0,2,10,7,4,0,Intermediate,Web,Full Stack Developer
+PhD,4,9,4,4,6,2,2,6,10,4,3,7,8,2,5,7,6,4,1,Intermediate,Web,Backend Developer
+Bachelor's,3,2,1,5,8,4,1,0,2,9,0,10,9,3,6,3,3,1,3,Experienced,Data,Data Analyst
+Master's,6,4,5,10,5,0,3,1,10,2,2,7,6,1,3,10,0,3,0,Fresher,Web,Frontend Developer
+Diploma,5,2,4,1,6,3,2,9,4,1,5,7,8,1,5,1,8,3,1,Intermediate,Data,Cloud Engineer
+Diploma,6,6,5,6,5,7,3,1,4,3,3,3,6,2,4,7,5,3,3,Fresher,General,Software Developer
+Master's,9,3,7,5,4,5,4,2,4,3,7,7,9,4,2,3,5,10,2,Experienced,Embedded,Cybersecurity Engineer
+Bachelor's,3,1,4,3,10,7,3,4,2,6,0,9,8,0,8,1,1,0,0,Fresher,Data,Data Analyst
+Diploma,8,7,3,5,9,4,2,5,4,4,9,10,9,4,2,5,2,9,3,Fresher,Data,Cybersecurity Analyst
+Bachelor's,10,1,3,0,10,8,9,5,3,9,1,7,8,8,10,1,1,0,3,Intermediate,AI,Data Scientist
+High School,3,6,6,8,4,4,4,2,4,4,0,5,10,4,3,5,4,3,2,Fresher,General,Software Developer
+Master's,6,5,0,4,8,0,3,9,8,5,4,4,6,3,0,1,10,3,2,Intermediate,Cloud,Cloud Engineer
+Bachelor's,3,0,0,1,5,6,1,7,1,9,1,9,9,4,4,0,2,0,0,Fresher,Security,Business Analyst
+Bachelor's,4,6,4,2,10,7,4,6,2,10,3,5,8,5,8,0,6,3,2,Intermediate,General,Data Engineer
+Diploma,5,5,2,1,10,0,1,6,5,3,3,4,4,1,9,3,3,4,1,Intermediate,Data,Database Administrator
+Master's,5,9,6,6,3,0,1,4,6,3,4,5,6,1,0,10,2,1,3,Fresher,Web,Mobile App Developer
+PhD,9,4,6,1,7,8,7,8,0,8,2,6,8,10,4,1,3,0,3,Intermediate,Web,Machine Learning Engineer
+Master's,7,9,4,6,7,2,3,8,5,3,4,9,10,1,5,8,8,3,0,Intermediate,Web,Backend Developer
+Master's,9,6,1,3,10,6,2,9,4,8,3,7,6,3,9,4,4,4,1,Intermediate,General,Data Engineer
+Bachelor's,7,6,4,10,8,2,2,5,10,6,1,9,8,0,2,9,5,2,0,Intermediate,Web,Full Stack Developer
+Master's,4,3,2,10,4,2,0,1,10,2,0,7,8,3,3,8,0,1,1,Fresher,Embedded,Frontend Developer
+Master's,10,4,5,3,3,6,9,5,3,8,3,8,8,10,5,1,5,0,6,Fresher,Embedded,Machine Learning Engineer
+Diploma,8,6,5,0,3,7,4,10,4,3,1,5,8,1,1,7,10,3,1,Experienced,Cloud,Cloud Engineer
+Bachelor's,0,0,2,5,2,1,0,2,8,0,1,8,9,4,0,10,2,0,2,Fresher,Web,UI/UX Designer
+Diploma,8,4,6,7,7,5,3,7,4,5,1,8,8,6,2,7,4,2,4,Fresher,General,Software Developer
+Master's,10,2,2,1,8,10,7,3,2,10,1,9,10,9,9,0,2,2,1,Intermediate,AI,Data Scientist
+Bachelor's,4,2,7,1,3,2,5,4,2,0,5,5,10,2,1,1,0,0,6,Intermediate,Embedded,Embedded Systems Engineer
+Bachelor's,8,6,5,4,4,4,3,2,4,6,10,9,10,3,4,1,1,9,5,Experienced,Security,Cybersecurity Engineer
+Bachelor's,4,2,1,0,10,5,1,5,3,6,7,4,8,1,6,5,8,3,2,Intermediate,Data,Database Administrator
+Master's,5,4,4,10,8,1,1,3,10,0,0,6,10,0,0,10,7,2,2,Intermediate,Web,Full Stack Developer
+Master's,4,4,4,1,4,0,2,6,1,2,7,5,10,3,3,0,4,8,4,Intermediate,Cloud,Network Engineer
+Bachelor's,6,3,6,2,6,2,3,5,3,3,10,6,10,2,3,1,3,10,2,Experienced,Security,Cybersecurity Engineer
+Bachelor's,5,6,0,10,7,1,2,5,7,1,4,7,5,3,1,9,2,4,0,Intermediate,Web,Full Stack Developer
+Bachelor's,5,3,4,1,5,0,2,10,6,3,3,8,9,3,1,3,9,4,3,Fresher,Cloud,DevOps Engineer
+Bachelor's,8,5,6,3,5,3,2,4,0,2,10,2,6,1,2,1,0,10,1,Experienced,Security,Cybersecurity Engineer
+Bachelor's,0,1,4,5,2,3,0,1,7,3,4,8,6,6,0,7,3,1,1,Fresher,Web,UI/UX Designer
+Bachelor's,7,3,5,6,2,2,3,4,4,4,10,6,9,0,2,0,3,10,5,Experienced,Security,Cybersecurity Engineer
+Bachelor's,0,3,0,4,0,2,2,0,10,1,0,7,6,0,2,7,1,0,0,Fresher,Web,UI/UX Designer
+Bachelor's,4,0,4,0,10,7,1,1,0,10,2,5,6,2,10,0,5,1,0,Fresher,Data,Data Analyst
+Bachelor's,5,1,4,4,8,7,0,3,0,10,1,10,5,3,10,4,1,1,1,Fresher,Data,Data Analyst
+PhD,7,7,4,3,4,5,3,2,4,3,1,7,8,6,5,7,4,1,4,Fresher,General,Software Developer
+Bachelor's,7,1,4,2,5,5,8,1,3,4,10,7,9,1,2,3,5,10,2,Experienced,Security,Cybersecurity Engineer
+Master's,5,4,3,2,5,0,2,8,6,3,3,8,7,1,0,5,10,0,1,Fresher,Cloud,DevOps Engineer
+Bachelor's,5,4,3,1,10,4,0,5,3,5,4,8,9,1,8,0,3,1,1,Intermediate,Data,Database Administrator
+Master's,7,3,5,2,6,4,3,5,2,4,7,6,7,2,1,0,8,10,5,Experienced,Security,Cybersecurity Engineer
+Bachelor's,7,5,7,7,6,3,2,6,10,0,5,7,10,0,2,9,5,3,2,Intermediate,Web,Full Stack Developer
+Bachelor's,8,2,6,6,7,8,10,5,2,4,0,6,9,8,5,1,2,0,1,Intermediate,AI,AI Engineer
+Bachelor's,0,0,4,9,5,0,0,3,10,3,1,7,6,0,3,10,0,0,0,Fresher,Web,Frontend Developer
+Diploma,4,0,4,4,2,2,0,10,0,2,6,4,6,2,2,0,8,4,2,Intermediate,Cloud,Network Engineer
+Bachelor's,2,8,6,9,3,1,7,2,8,1,3,5,7,1,0,8,3,5,3,Fresher,Data,Mobile App Developer
+Master's,4,4,2,3,6,3,3,10,4,0,5,7,6,2,3,5,10,4,3,Intermediate,Cloud,Cloud Engineer
+High School,7,4,2,2,5,4,0,1,3,3,3,8,9,1,1,3,3,5,0,Fresher,General,QA Engineer
+Bachelor's,6,4,3,4,5,4,1,2,3,6,8,7,8,3,2,7,3,10,5,Fresher,Security,Cybersecurity Analyst
+Master's,4,2,3,2,6,5,1,1,4,8,2,10,8,0,7,6,5,1,0,Fresher,General,Business Analyst
+Bachelor's,2,3,0,5,10,0,1,6,2,5,3,6,6,0,8,0,6,5,0,Intermediate,Data,Database Administrator
+Bachelor's,3,2,0,3,2,3,2,8,2,3,9,5,10,2,1,0,6,9,4,Intermediate,Cloud,Network Engineer
+Diploma,3,0,3,0,4,0,3,8,1,0,6,6,6,0,3,1,6,9,4,Intermediate,Cloud,Network Engineer
+Bachelor's,5,1,2,2,3,4,2,5,0,1,10,6,9,0,0,1,9,6,3,Intermediate,Cloud,Network Engineer
+Bachelor's,5,8,3,4,4,1,2,2,6,2,2,7,9,5,1,7,2,3,6,Fresher,Web,Mobile App Developer
+Bachelor's,6,8,2,10,4,0,0,6,10,4,1,6,8,4,5,10,5,4,1,Intermediate,Web,Full Stack Developer
+PhD,10,1,1,3,4,6,8,5,1,9,3,10,8,9,10,0,4,0,1,Experienced,AI,Data Scientist
+Diploma,2,6,1,6,5,5,1,6,4,4,5,6,8,2,3,4,2,3,1,Fresher,General,QA Engineer
+Bachelor's,7,5,1,2,7,7,8,7,4,8,2,6,6,10,10,3,1,1,2,Intermediate,AI,Data Scientist
+Master's,6,5,2,8,7,0,2,5,7,5,2,7,9,3,4,10,6,2,2,Intermediate,Web,Full Stack Developer
+PhD,10,2,0,4,7,10,8,3,4,8,0,7,10,7,6,2,1,0,0,Intermediate,AI,Data Scientist
+Bachelor's,10,4,3,3,8,10,10,5,2,8,1,6,7,10,4,0,4,4,1,Intermediate,AI,Machine Learning Engineer
+Bachelor's,7,6,2,6,5,0,0,2,1,2,0,5,10,2,4,5,4,2,3,Intermediate,General,QA Engineer
+Bachelor's,7,4,5,4,4,3,3,9,2,4,4,4,8,1,0,2,10,5,3,Intermediate,Cloud,Cloud Engineer
+Bachelor's,7,2,6,4,5,2,7,3,2,5,8,4,10,3,3,2,3,10,3,Experienced,Security,Cybersecurity Engineer
+Bachelor's,2,4,4,3,8,3,1,6,2,8,2,6,4,2,9,6,6,4,1,Intermediate,Data,Database Administrator
+Bachelor's,10,4,1,3,10,7,2,8,1,9,2,9,9,3,9,1,4,4,4,Intermediate,Data,Data Engineer
+Bachelor's,8,3,2,0,10,8,2,5,1,9,5,7,6,4,10,1,6,1,0,Intermediate,Data,Data Engineer
+Diploma,6,6,3,4,6,4,5,4,4,2,8,5,10,5,5,1,4,10,4,Experienced,Security,Cybersecurity Engineer
+PhD,9,6,3,7,10,9,3,7,0,7,1,10,7,4,7,2,5,2,0,Intermediate,Data,Data Engineer
+Diploma,5,6,1,9,7,2,0,3,2,5,0,9,7,0,2,4,2,4,2,Fresher,General,QA Engineer
+High School,3,4,1,10,3,0,1,4,9,3,1,7,8,2,2,10,1,0,0,Fresher,Web,Frontend Developer
+Master's,6,6,1,1,8,6,10,7,2,8,4,9,9,9,5,3,2,1,2,Fresher,AI,Machine Learning Engineer
+PhD,7,2,4,1,3,9,8,7,2,6,2,5,10,7,6,0,4,2,3,Intermediate,AI,AI Engineer
+Diploma,5,4,3,1,2,1,3,9,4,4,3,6,6,3,2,4,8,3,0,Intermediate,Cloud,Cloud Engineer
+Master's,7,0,3,5,9,9,4,0,2,8,0,7,9,10,9,3,2,1,3,Intermediate,AI,Data Scientist
+Master's,6,2,1,0,2,4,1,6,1,5,10,7,9,1,0,3,6,10,1,Fresher,Security,Cybersecurity Analyst
+Bachelor's,3,2,4,0,6,5,1,6,2,4,1,10,7,1,5,5,3,1,4,Fresher,General,Business Analyst
+Bachelor's,3,3,1,10,2,2,0,0,10,3,1,5,7,1,0,8,1,2,2,Fresher,Web,Frontend Developer
+Bachelor's,2,10,4,3,3,3,2,4,0,4,7,5,7,0,0,0,6,9,8,Intermediate,Cloud,Network Engineer
+Diploma,7,5,6,5,4,8,1,2,7,7,4,4,8,0,4,2,2,2,4,Fresher,General,Software Developer
+Master's,1,0,0,4,1,1,1,0,9,2,1,9,8,0,1,7,1,1,1,Fresher,Web,UI/UX Designer
+High School,2,3,0,1,6,7,4,1,3,8,1,10,4,2,8,1,3,0,1,Intermediate,AI,Business Analyst
+Master's,8,5,6,2,5,10,8,6,6,7,0,7,8,8,7,3,4,0,0,Intermediate,AI,Machine Learning Engineer
+PhD,10,3,2,4,8,9,6,5,1,10,1,5,8,10,9,0,2,1,7,Intermediate,AI,Data Scientist
+Bachelor's,8,4,7,5,6,0,0,8,3,5,5,5,8,2,3,2,10,3,0,Fresher,Cloud,Cloud Engineer
+Bachelor's,9,3,3,2,9,4,5,8,0,8,3,5,7,5,5,1,9,0,2,Intermediate,Data,Data Engineer
+Master's,9,3,3,0,10,0,4,8,2,6,5,8,7,4,6,2,4,2,3,Intermediate,Data,Data Engineer
+Bachelor's,7,7,3,5,7,3,1,5,9,3,4,8,10,3,3,6,6,4,2,Intermediate,Web,Backend Developer
+PhD,10,3,3,6,6,8,10,4,3,4,1,4,10,10,5,2,5,0,2,Intermediate,Data,AI Engineer
+Master's,4,3,4,10,3,2,3,3,10,0,0,9,8,1,2,10,3,3,0,Fresher,Web,Frontend Developer
+Diploma,3,10,3,6,4,2,4,3,9,2,3,6,10,1,1,8,2,3,6,Fresher,Web,Mobile App Developer
+Bachelor's,8,1,3,3,6,3,0,4,2,5,10,7,10,4,4,2,6,9,0,Fresher,Security,Cybersecurity Analyst
+Bachelor's,8,7,6,3,9,3,0,5,7,4,2,4,10,3,5,9,9,4,0,Intermediate,Web,Backend Developer
+Bachelor's,6,7,0,8,5,3,0,4,10,2,1,8,10,3,3,10,4,1,1,Intermediate,Web,Full Stack Developer
+Master's,0,1,1,3,0,2,3,0,9,1,0,8,5,1,3,8,0,1,1,Fresher,Web,UI/UX Designer
+Bachelor's,3,10,5,7,5,2,4,0,7,3,4,4,6,0,2,9,0,5,4,Fresher,Web,Mobile App Developer
+Bachelor's,3,5,3,8,6,1,1,0,9,4,1,7,7,0,1,10,3,1,4,Fresher,Web,Frontend Developer
+Bachelor's,7,6,1,3,5,6,4,3,3,8,9,7,10,1,5,1,1,9,3,Fresher,Security,Cybersecurity Analyst
+Bachelor's,8,2,2,2,4,1,0,9,6,3,4,2,10,1,4,3,9,0,5,Intermediate,Cloud,DevOps Engineer
+Bachelor's,10,2,2,4,5,6,10,4,4,4,0,5,10,10,2,4,6,0,0,Intermediate,AI,AI Engineer
+Master's,10,3,6,4,8,10,8,6,1,4,1,8,10,10,6,5,4,1,0,Intermediate,AI,Machine Learning Engineer
+Bachelor's,6,1,10,0,2,3,4,4,1,2,0,7,8,3,5,0,1,3,10,Intermediate,AI,Embedded Systems Engineer
+PhD,8,5,1,1,10,9,7,3,4,10,0,7,9,7,9,1,4,3,0,Intermediate,AI,Data Scientist
+Diploma,8,4,7,3,6,5,3,4,2,5,9,5,7,3,1,0,2,9,2,Experienced,Security,Cybersecurity Engineer
+Master's,0,1,2,1,3,0,2,0,6,3,3,9,10,0,0,9,0,1,0,Fresher,Web,UI/UX Designer
+Master's,0,0,0,8,2,2,1,1,10,0,2,8,8,3,2,10,0,3,1,Experienced,Web,UI/UX Designer
+Bachelor's,6,4,4,4,6,3,0,7,8,2,3,4,9,2,3,9,5,0,3,Intermediate,Web,Backend Developer
+Bachelor's,6,9,6,7,6,2,2,4,7,4,0,3,7,0,6,6,2,0,5,Fresher,General,Software Developer
+Master's,10,3,2,1,10,10,5,2,2,10,2,7,10,9,8,1,2,1,0,Intermediate,Cloud,Data Scientist
+Bachelor's,5,4,1,5,9,3,8,6,0,6,2,6,7,3,9,3,7,0,1,Intermediate,Data,Data Engineer
+Bachelor's,7,4,1,2,4,0,4,10,4,4,5,10,9,3,2,2,10,4,0,Experienced,Cloud,Cloud Engineer
+Diploma,3,3,2,4,9,2,0,6,3,8,6,7,8,2,9,0,2,1,3,Intermediate,Data,Database Administrator
+Bachelor's,9,2,0,3,7,6,4,3,1,10,3,10,8,5,6,1,1,1,0,Fresher,Data,Data Analyst
+Bachelor's,7,2,3,3,4,0,3,10,5,2,4,4,7,2,2,0,8,2,4,Intermediate,Cloud,DevOps Engineer
+Bachelor's,4,2,2,8,5,2,1,2,2,7,10,8,8,2,2,1,4,10,3,Fresher,Security,Cybersecurity Analyst
+PhD,4,2,0,5,3,3,1,1,8,1,0,10,7,3,2,10,2,2,1,Fresher,Web,UI/UX Designer
+Diploma,2,3,0,3,10,2,3,3,2,5,5,7,9,1,3,0,7,2,0,Intermediate,Data,Database Administrator
+Master's,7,6,3,9,9,3,2,2,8,2,4,10,8,1,0,10,3,7,0,Intermediate,Web,Full Stack Developer
+Bachelor's,7,9,2,8,4,3,0,6,10,1,3,9,10,0,1,8,5,3,0,Fresher,Web,Full Stack Developer
+Bachelor's,5,3,2,10,7,4,2,5,9,2,0,7,8,5,3,9,2,2,2,Intermediate,Web,Full Stack Developer
+PhD,10,4,3,2,10,6,2,8,2,9,6,5,6,4,10,2,5,0,0,Intermediate,Data,Data Engineer
+Bachelor's,5,2,0,1,9,7,3,2,3,9,1,10,9,5,7,0,5,4,2,Fresher,General,Business Analyst
+Master's,6,3,2,3,7,10,9,6,4,4,2,8,9,8,8,0,4,1,3,Intermediate,AI,Machine Learning Engineer
+High School,9,5,0,7,8,2,0,4,9,3,6,8,8,1,0,10,5,1,3,Intermediate,Web,Full Stack Developer
+Bachelor's,8,9,5,7,4,1,3,1,6,4,4,6,8,4,2,4,4,2,2,Fresher,General,Software Developer
+PhD,8,3,1,0,4,7,8,4,2,5,1,5,10,10,4,2,4,3,1,Intermediate,Cloud,AI Engineer
+Diploma,5,3,6,3,4,0,2,10,5,3,7,8,10,6,2,5,9,4,2,Intermediate,Cloud,DevOps Engineer
+Bachelor's,6,9,3,5,2,2,4,3,9,1,0,10,8,3,0,6,2,0,4,Fresher,Web,Mobile App Developer
+Master's,7,8,9,4,4,1,4,5,4,1,1,7,8,3,2,7,4,3,3,Fresher,General,Software Developer
+Bachelor's,5,4,2,2,6,7,1,4,4,8,1,7,6,4,9,5,1,3,1,Fresher,Data,Data Analyst
+Diploma,4,6,1,3,6,3,4,6,1,6,0,5,7,0,0,0,4,3,1,Fresher,General,QA Engineer
+Bachelor's,7,1,0,2,10,8,3,3,0,9,1,7,8,2,10,3,0,3,0,Fresher,Data,Data Analyst
+PhD,8,4,6,1,7,7,7,5,1,6,4,4,10,8,7,1,5,0,1,Intermediate,AI,Machine Learning Engineer
+Bachelor's,8,3,1,3,5,8,8,4,2,7,2,8,10,10,8,2,4,3,4,Intermediate,AI,Machine Learning Engineer
+Master's,10,1,4,3,8,9,8,5,1,6,2,8,10,10,8,2,2,0,1,Intermediate,AI,Data Scientist
+Master's,6,1,2,5,3,6,5,7,3,3,10,8,8,0,2,1,5,9,2,Fresher,Security,Cybersecurity Analyst
+Master's,4,5,10,1,3,4,3,2,1,0,2,8,8,0,2,1,1,2,10,Intermediate,Embedded,Embedded Systems Engineer
+Bachelor's,4,7,1,8,6,3,0,3,10,3,2,8,7,1,2,8,4,1,2,Intermediate,Web,Full Stack Developer
+Bachelor's,5,3,3,4,2,3,2,2,0,3,10,7,8,1,1,2,5,6,3,Fresher,Embedded,Cybersecurity Analyst
+Bachelor's,8,2,4,2,4,0,6,4,2,1,10,6,8,2,3,1,1,8,1,Experienced,Security,Cybersecurity Engineer
+Master's,6,3,1,4,0,1,2,10,8,2,6,9,9,1,0,4,10,4,3,Intermediate,Cloud,Cloud Engineer
+Bachelor's,5,4,1,3,7,8,5,2,2,7,1,5,6,3,10,6,1,3,1,Fresher,Data,Data Analyst
+Bachelor's,3,6,4,6,6,3,0,0,5,6,0,7,9,0,1,5,2,2,0,Fresher,General,QA Engineer
+Diploma,5,6,4,2,10,4,4,9,4,6,1,3,10,5,6,1,6,0,3,Intermediate,Data,Data Engineer
+High School,6,4,3,2,1,2,0,6,2,3,8,6,8,3,0,0,7,10,3,Intermediate,Cloud,Network Engineer
+Bachelor's,6,4,6,6,7,3,4,4,7,6,5,6,6,4,4,8,5,5,4,Fresher,General,Software Developer
+Bachelor's,4,2,1,3,9,10,3,0,2,9,3,9,8,5,7,1,1,0,0,Fresher,Data,Data Analyst
+Master's,6,4,5,4,5,0,1,10,4,4,5,5,8,5,1,1,7,2,4,Fresher,Cloud,DevOps Engineer
+Bachelor's,9,6,5,4,10,6,5,6,3,6,2,7,10,3,10,1,8,0,2,Intermediate,Data,Data Engineer
+Master's,8,2,5,3,5,9,10,0,1,9,0,6,10,9,6,0,7,1,2,Intermediate,AI,Machine Learning Engineer
+Master's,5,1,5,3,4,1,1,7,1,1,6,5,6,6,0,0,7,7,3,Intermediate,Cloud,Network Engineer
+PhD,3,10,5,4,3,0,2,4,6,2,5,7,10,0,2,8,0,0,4,Fresher,Web,Mobile App Developer
+High School,8,5,6,5,5,0,3,2,3,6,4,6,7,0,0,5,3,3,1,Fresher,General,QA Engineer
+Master's,0,1,1,3,7,3,3,1,3,8,2,6,8,1,7,4,1,0,0,Fresher,General,Business Analyst
+Diploma,4,7,0,4,7,4,2,0,8,2,3,4,7,3,4,7,0,4,2,Fresher,Web,Mobile App Developer
+Master's,4,5,0,10,1,0,4,4,10,2,0,7,9,2,0,10,0,2,0,Fresher,Web,Frontend Developer
+Master's,10,0,5,2,6,7,10,5,3,8,1,8,10,10,2,4,3,2,0,Intermediate,AI,AI Engineer
+Bachelor's,7,7,2,2,5,0,2,10,5,3,5,8,10,3,1,0,10,4,1,Intermediate,Cloud,Cloud Engineer
+Bachelor's,5,7,6,4,7,3,4,2,10,3,1,4,8,0,3,2,3,0,2,Fresher,General,Software Developer
+Bachelor's,8,9,4,4,9,0,2,7,7,4,3,7,6,3,5,9,7,2,2,Intermediate,General,Backend Developer
+Bachelor's,5,2,5,3,6,1,0,10,3,4,5,7,10,5,3,5,10,0,1,Intermediate,Cloud,Cloud Engineer
+Bachelor's,4,5,0,2,8,4,1,3,3,6,4,6,7,3,7,3,4,5,1,Intermediate,Data,Database Administrator
+Master's,4,2,2,10,0,2,2,4,10,2,2,6,6,0,3,10,0,1,3,Fresher,Data,Frontend Developer
+High School,6,1,0,2,7,8,1,3,0,8,0,10,8,3,10,0,2,4,1,Fresher,Data,Data Analyst
+High School,8,3,1,4,5,0,5,7,4,0,4,5,10,2,4,2,7,3,2,Fresher,Cloud,DevOps Engineer
+Bachelor's,3,2,2,10,2,3,1,4,10,4,2,7,7,1,0,10,1,2,1,Experienced,Web,Frontend Developer
+Bachelor's,8,3,7,0,4,0,2,5,4,4,9,4,7,2,3,1,6,8,2,Experienced,Security,Cybersecurity Engineer
+Bachelor's,7,4,3,2,7,2,0,5,7,5,9,6,10,0,1,3,7,9,6,Experienced,Security,Cybersecurity Engineer
+Diploma,6,1,2,0,7,5,1,3,1,8,3,7,8,2,9,0,1,2,0,Fresher,Data,Data Analyst
+Bachelor's,9,3,4,6,5,3,0,3,4,3,1,8,7,0,4,5,0,0,0,Fresher,General,QA Engineer
+Bachelor's,10,5,5,2,10,5,7,8,1,9,2,6,8,5,6,0,7,1,0,Intermediate,Data,Data Engineer
+Diploma,4,4,3,3,4,1,1,2,4,3,3,7,10,1,0,4,2,1,3,Fresher,General,QA Engineer
+Bachelor's,10,2,5,2,9,2,5,5,3,10,0,8,8,1,7,1,7,0,1,Intermediate,Data,Data Engineer
+Bachelor's,7,7,6,5,4,4,3,3,5,7,1,8,7,5,5,5,6,3,2,Fresher,General,Software Developer
+Master's,5,7,2,0,10,5,4,8,3,8,4,6,8,5,10,0,6,2,0,Experienced,Data,Data Engineer
+Bachelor's,6,1,0,9,1,1,1,0,10,0,1,9,8,1,0,10,2,2,1,Fresher,Web,Frontend Developer
+Diploma,6,7,0,4,3,3,0,4,4,1,0,7,9,0,2,2,0,1,1,Fresher,General,QA Engineer
+Master's,3,0,2,8,0,0,0,1,5,1,1,6,8,3,2,10,3,0,2,Fresher,Web,Frontend Developer
+Diploma,7,5,3,4,5,0,5,9,3,5,6,6,10,0,2,5,9,1,2,Intermediate,Cloud,DevOps Engineer
+Diploma,8,1,5,1,4,3,5,3,0,2,10,5,10,2,2,2,2,10,0,Fresher,Security,Cybersecurity Analyst
+Diploma,5,6,6,6,4,0,3,3,7,0,1,5,9,2,0,7,0,0,6,Fresher,Web,Mobile App Developer
+Master's,0,3,2,7,6,3,0,0,8,2,1,9,6,3,3,10,4,0,1,Fresher,Web,UI/UX Designer
+Bachelor's,5,3,2,4,4,3,1,6,4,0,0,10,7,1,2,6,0,4,3,Fresher,Security,QA Engineer
+Bachelor's,6,2,4,0,7,2,0,8,1,4,2,7,9,1,3,4,10,2,2,Experienced,Cloud,DevOps Engineer
+Diploma,7,4,1,3,7,3,0,3,3,7,7,8,8,3,3,2,4,10,2,Fresher,Security,Cybersecurity Analyst
+Bachelor's,6,5,4,4,7,3,7,7,6,4,7,5,8,0,0,4,1,10,6,Fresher,AI,Cybersecurity Engineer
+Master's,8,4,4,4,5,6,10,4,5,6,0,3,6,10,3,2,4,1,3,Intermediate,AI,AI Engineer
+Bachelor's,7,4,3,6,3,3,2,9,6,1,0,6,8,0,0,6,10,3,5,Intermediate,Cloud,Cloud Engineer
+Bachelor's,7,1,7,3,4,9,8,4,5,6,0,7,8,10,4,4,7,0,2,Intermediate,AI,AI Engineer
+Master's,5,5,2,9,5,0,2,5,10,3,1,7,10,4,2,9,0,4,2,Intermediate,Web,Full Stack Developer
+Bachelor's,4,3,2,10,2,1,2,3,10,3,2,8,6,0,1,8,2,3,0,Fresher,Web,Frontend Developer
+Bachelor's,5,3,4,4,6,3,5,6,2,4,9,8,7,1,0,1,5,10,2,Fresher,Security,Cybersecurity Analyst
+Master's,7,1,3,2,5,5,10,6,6,6,0,9,8,10,6,0,5,2,4,Intermediate,AI,AI Engineer
+Bachelor's,5,1,1,9,1,0,0,1,10,4,2,8,7,2,1,9,4,0,0,Fresher,Web,Frontend Developer
+Master's,5,5,10,0,2,6,4,2,3,1,4,8,10,6,1,0,3,0,10,Intermediate,Embedded,Embedded Systems Engineer
+Bachelor's,4,4,2,5,4,3,3,3,4,2,1,6,9,1,1,3,0,5,0,Fresher,Embedded,QA Engineer
+Bachelor's,2,2,3,5,1,6,2,2,7,1,0,10,5,3,2,6,3,1,0,Fresher,Web,UI/UX Designer
+Master's,8,2,2,0,6,7,10,5,2,6,1,7,10,10,8,1,5,0,0,Intermediate,AI,Machine Learning Engineer
+Diploma,10,4,0,0,10,7,3,7,0,9,2,4,8,2,10,0,7,0,0,Intermediate,Data,Data Engineer
+Master's,4,3,2,4,6,2,1,3,5,7,2,6,6,2,1,8,6,2,0,Fresher,General,QA Engineer
+Bachelor's,8,4,2,4,10,6,3,7,1,9,2,3,10,6,10,0,6,0,1,Intermediate,Data,Data Engineer
+Diploma,4,1,3,1,10,1,3,5,2,7,2,5,7,0,5,0,2,2,2,Intermediate,Data,Database Administrator
+Bachelor's,4,4,3,7,5,5,0,6,2,4,10,10,9,1,1,3,4,8,3,Fresher,Security,Cybersecurity Analyst
+Bachelor's,8,6,0,4,3,2,3,9,5,2,3,7,7,1,4,3,8,4,0,Intermediate,Embedded,Cloud Engineer
+Diploma,0,4,4,7,2,2,1,2,9,5,0,9,7,4,5,10,2,2,3,Fresher,Web,UI/UX Designer
+Bachelor's,3,3,2,0,1,1,1,4,0,3,9,6,8,0,2,0,7,10,5,Intermediate,Cloud,Network Engineer
+Bachelor's,5,3,0,3,10,2,0,6,5,7,5,5,6,2,6,1,5,3,2,Intermediate,Data,Database Administrator
+Diploma,6,5,3,1,4,3,4,9,2,6,4,6,8,2,5,3,10,3,0,Intermediate,Cloud,DevOps Engineer
+Bachelor's,0,4,10,4,3,3,3,1,1,4,4,6,9,2,3,3,1,3,10,Intermediate,Embedded,Embedded Systems Engineer
+Bachelor's,1,4,2,4,10,3,2,3,4,5,3,8,7,1,9,2,4,4,0,Intermediate,Data,Database Administrator
+Diploma,5,2,10,5,2,0,4,4,2,2,2,4,9,2,0,3,2,4,9,Intermediate,Embedded,Embedded Systems Engineer
+Diploma,0,2,5,6,0,1,2,0,10,2,1,6,8,1,1,9,0,1,0,Fresher,Web,UI/UX Designer
+Bachelor's,6,1,1,3,0,3,0,5,4,6,9,5,8,2,0,4,2,10,0,Intermediate,Security,Cybersecurity Analyst
+Master's,5,4,0,7,5,2,0,5,10,7,0,7,8,0,2,10,4,4,0,Intermediate,Web,Full Stack Developer
+Diploma,6,6,3,5,4,0,3,3,5,4,2,8,9,0,4,3,2,0,1,Fresher,General,QA Engineer
+Master's,2,4,1,3,6,4,0,4,3,6,0,8,9,0,8,3,2,0,3,Fresher,General,Business Analyst
+Diploma,2,4,3,2,6,7,0,0,2,9,2,10,6,0,6,3,1,0,1,Fresher,General,Business Analyst
+Bachelor's,3,1,0,10,1,0,0,2,10,2,0,10,6,1,0,10,1,2,2,Fresher,Web,Frontend Developer
+Bachelor's,5,6,0,10,7,3,0,4,10,0,2,5,7,1,0,10,0,1,1,Experienced,Web,Full Stack Developer
+Bachelor's,7,3,1,4,6,2,4,9,1,2,2,7,8,4,4,2,9,4,4,Intermediate,Cloud,DevOps Engineer
+Master's,5,7,2,8,6,2,4,5,8,4,1,7,7,4,1,10,2,2,3,Fresher,Web,Full Stack Developer
+Diploma,4,0,1,4,10,7,1,0,2,8,2,9,7,4,9,3,1,1,1,Fresher,General,Data Analyst
+Bachelor's,6,10,5,6,5,2,0,1,7,2,6,6,8,1,2,8,1,0,3,Fresher,Web,Mobile App Developer
+Bachelor's,6,6,2,3,10,5,5,7,2,9,2,6,7,7,8,3,5,2,4,Intermediate,Data,Data Engineer
+PhD,6,4,0,6,7,3,0,10,4,4,3,6,9,1,1,3,10,4,3,Intermediate,Cloud,Cloud Engineer
+Master's,7,6,3,10,8,2,0,5,10,0,2,7,6,1,2,10,4,4,1,Intermediate,Web,Full Stack Developer
+PhD,9,0,4,3,5,8,10,4,0,6,0,5,10,10,5,3,2,1,2,Intermediate,AI,AI Engineer
+Master's,3,5,4,10,2,0,0,2,8,1,1,4,5,0,1,9,1,0,0,Fresher,AI,Frontend Developer
+Bachelor's,4,4,2,10,2,2,0,2,10,4,1,8,4,0,0,10,0,1,1,Fresher,Web,Frontend Developer
+Bachelor's,8,5,10,0,0,3,2,3,0,3,3,4,10,3,0,2,2,2,10,Intermediate,Embedded,Embedded Systems Engineer
+Bachelor's,4,10,6,9,6,5,4,2,9,0,6,4,9,4,2,5,0,3,5,Fresher,Web,Mobile App Developer
+Master's,3,9,6,5,4,6,2,1,6,1,3,6,7,5,1,7,0,1,2,Fresher,Web,Mobile App Developer
+Diploma,2,3,1,3,1,3,0,2,9,2,1,9,7,0,0,9,3,2,3,Fresher,Data,UI/UX Designer
+Diploma,5,3,5,1,9,8,4,1,2,7,1,8,7,2,10,4,2,2,1,Fresher,Cloud,Data Analyst
+Master's,10,0,4,2,10,8,6,3,2,8,1,10,10,10,10,3,2,0,1,Intermediate,AI,Data Scientist
+PhD,10,0,3,2,7,9,10,3,4,7,0,3,10,10,3,2,5,1,0,Intermediate,AI,AI Engineer
+Bachelor's,10,3,4,3,6,4,2,10,4,2,6,7,8,4,1,3,9,4,1,Intermediate,Cloud,DevOps Engineer
+Master's,6,3,2,3,6,1,2,9,2,3,3,7,9,1,2,2,7,2,1,Intermediate,Cloud,Cloud Engineer
+Master's,10,1,4,5,1,8,9,4,4,8,3,6,10,10,5,1,3,2,2,Intermediate,AI,AI Engineer
+Diploma,6,4,2,1,4,5,2,9,3,5,1,6,10,5,3,5,10,3,2,Intermediate,AI,Cloud Engineer
+Bachelor's,8,5,0,5,5,0,4,8,7,5,4,7,10,4,2,8,10,4,0,Intermediate,Cloud,Cloud Engineer
+Diploma,4,5,3,5,5,6,2,1,7,2,3,8,10,3,1,10,1,2,4,Fresher,Web,Mobile App Developer
+Bachelor's,5,7,2,10,7,6,0,8,10,6,0,7,7,2,4,10,6,1,0,Intermediate,Web,Full Stack Developer
+Bachelor's,10,0,3,1,7,10,7,2,2,10,0,4,8,10,9,2,2,0,4,Intermediate,AI,Data Scientist
+Bachelor's,4,0,2,2,10,6,1,2,2,9,0,10,5,2,6,2,4,0,1,Fresher,General,Business Analyst
+Diploma,10,3,4,2,7,5,2,8,2,6,10,4,10,0,3,0,5,10,5,Experienced,Security,Cybersecurity Engineer
+Diploma,8,0,4,6,5,3,3,4,6,3,8,6,10,1,3,4,4,10,4,Experienced,Security,Cybersecurity Analyst
+Bachelor's,3,7,6,3,4,3,3,2,5,4,1,4,8,1,3,8,4,3,3,Fresher,Web,Mobile App Developer
+Master's,5,4,4,2,10,3,4,7,2,8,2,5,6,6,7,1,9,3,2,Intermediate,Data,Data Engineer
+Bachelor's,7,3,10,0,5,5,5,0,2,0,4,6,10,2,0,0,1,2,10,Intermediate,Embedded,Embedded Systems Engineer
+Bachelor's,0,0,4,4,0,3,0,2,6,1,3,7,7,2,0,9,1,2,4,Fresher,Web,UI/UX Designer
+Bachelor's,5,3,2,3,5,0,3,10,1,1,6,9,5,3,5,2,10,3,2,Intermediate,Cloud,Cloud Engineer
+Master's,9,3,3,4,4,6,9,3,5,4,0,8,8,10,3,3,5,2,3,Intermediate,Cloud,AI Engineer
+Bachelor's,6,5,7,2,3,9,9,4,3,7,0,5,9,9,4,0,5,1,0,Intermediate,AI,Machine Learning Engineer
+PhD,9,1,5,5,6,8,8,6,4,8,4,3,8,9,5,2,4,3,0,Intermediate,AI,AI Engineer
+Bachelor's,4,5,5,10,2,0,4,3,10,0,0,8,8,0,2,7,3,1,0,Experienced,Web,Frontend Developer
+Bachelor's,7,4,4,6,5,4,0,9,1,3,5,2,9,3,3,1,10,3,3,Intermediate,Cloud,DevOps Engineer
+Master's,0,0,4,1,4,4,1,3,3,7,3,10,6,2,8,4,0,1,1,Fresher,General,Business Analyst
+Bachelor's,5,0,2,2,3,4,0,5,2,3,8,6,6,0,5,0,4,9,2,Intermediate,Cloud,Network Engineer
+Master's,5,7,4,8,3,3,0,5,6,2,2,4,6,3,2,7,3,3,3,Fresher,Web,Mobile App Developer
+Master's,7,6,3,1,6,4,4,10,0,2,3,6,10,0,6,2,9,4,3,Intermediate,Cloud,DevOps Engineer
+Master's,9,2,3,5,7,10,8,0,3,10,0,7,6,7,10,0,0,1,0,Intermediate,AI,Data Scientist
+Master's,4,5,0,2,9,2,1,5,4,6,5,6,9,1,8,2,3,4,5,Intermediate,Data,Database Administrator
+Bachelor's,6,3,2,0,10,8,2,2,0,7,0,10,6,4,8,2,2,2,0,Fresher,Data,Data Analyst
+Bachelor's,8,8,3,1,8,7,3,6,4,10,2,6,8,3,8,0,7,1,3,Intermediate,Data,Data Engineer
+Master's,5,4,4,6,5,0,2,10,3,4,2,6,10,4,2,5,9,3,4,Fresher,Cloud,DevOps Engineer
+Bachelor's,8,5,6,5,6,5,3,3,4,4,1,6,10,3,4,4,5,3,4,Intermediate,General,Software Developer
+Bachelor's,2,1,1,6,1,4,1,0,5,2,0,8,9,2,0,10,0,2,0,Experienced,Web,UI/UX Designer
+Bachelor's,6,8,2,3,2,1,3,9,5,4,2,8,6,1,2,6,8,3,1,Intermediate,Cloud,Cloud Engineer
+Bachelor's,6,6,10,4,5,5,3,3,0,2,4,5,7,6,2,4,2,4,10,Intermediate,Embedded,Embedded Systems Engineer
+Diploma,3,2,10,2,1,2,5,4,0,1,1,5,10,3,0,4,0,3,10,Intermediate,Embedded,Embedded Systems Engineer
+Diploma,7,5,10,1,2,4,2,2,4,3,5,3,8,4,1,0,2,4,10,Intermediate,Embedded,Embedded Systems Engineer
+Diploma,8,2,5,5,6,2,0,5,3,3,0,6,7,0,2,2,5,2,2,Fresher,General,QA Engineer
+PhD,8,6,5,1,5,8,7,6,0,8,0,6,8,10,9,3,5,1,3,Intermediate,AI,Machine Learning Engineer
+Diploma,7,6,2,1,6,3,1,3,4,4,4,8,6,0,3,6,0,2,5,Fresher,General,QA Engineer
+Diploma,6,1,2,3,6,7,9,5,2,4,2,7,10,9,7,1,5,0,2,Experienced,AI,AI Engineer
+Diploma,6,3,5,3,2,2,0,5,1,2,8,9,7,3,1,0,6,8,3,Intermediate,Cloud,Network Engineer
+Diploma,6,1,4,3,3,2,2,9,3,4,4,5,8,2,3,3,10,3,4,Experienced,Cloud,DevOps Engineer
+Master's,9,4,3,2,9,5,5,6,1,10,3,8,10,2,9,0,4,0,1,Intermediate,Data,Data Engineer
+Bachelor's,0,1,2,8,4,4,1,2,8,1,1,10,8,5,0,8,2,2,1,Fresher,Web,UI/UX Designer
+Bachelor's,6,5,5,1,6,3,2,4,2,4,10,9,5,3,4,2,5,10,1,Experienced,Security,Cybersecurity Engineer
+Bachelor's,8,7,7,3,7,3,2,2,7,7,0,7,3,4,0,4,1,2,4,Fresher,General,Software Developer
+Master's,4,2,4,0,2,3,2,7,1,2,9,4,8,0,2,0,5,8,5,Intermediate,Cloud,Network Engineer
+Bachelor's,4,2,10,3,3,3,7,3,1,2,4,0,10,1,0,0,0,1,10,Intermediate,Embedded,Embedded Systems Engineer
+Master's,7,1,2,1,8,9,7,4,4,8,2,7,10,10,10,0,3,3,1,Intermediate,AI,Data Scientist
+Bachelor's,6,7,1,6,7,0,0,6,2,3,5,6,10,0,2,6,1,2,2,Fresher,General,QA Engineer
+Master's,7,5,6,6,3,2,2,6,3,4,10,6,9,4,0,2,2,10,3,Experienced,Security,Cybersecurity Engineer
+Bachelor's,5,3,10,3,0,4,4,0,2,3,3,1,10,3,2,0,0,0,10,Fresher,Embedded,Embedded Systems Engineer
+Master's,8,1,1,3,8,8,7,1,4,9,0,8,8,7,10,0,1,1,3,Intermediate,AI,Data Scientist
+High School,8,7,3,5,3,2,0,0,5,6,0,7,8,1,0,6,0,0,0,Fresher,General,QA Engineer
+Master's,5,4,3,3,6,1,5,7,5,4,5,5,10,2,0,1,10,0,4,Intermediate,General,Cloud Engineer
+Bachelor's,8,2,0,3,10,5,2,3,2,10,1,9,5,3,9,0,0,2,0,Fresher,Data,Data Analyst
+Master's,5,4,10,1,3,4,3,3,0,0,4,2,10,1,3,0,3,2,10,Intermediate,Embedded,Embedded Systems Engineer
+Diploma,5,4,1,3,5,1,3,4,3,5,2,7,8,4,3,4,3,3,1,Fresher,General,QA Engineer
+Diploma,5,8,3,2,6,3,2,2,8,4,2,6,10,4,4,6,0,0,3,Fresher,General,Software Developer
+Diploma,6,3,3,2,6,4,3,5,5,6,10,8,10,0,5,1,4,10,2,Intermediate,Security,Cybersecurity Analyst
+Bachelor's,8,5,5,2,10,5,6,7,3,10,0,6,10,6,10,1,8,0,0,Intermediate,Data,Data Engineer
+Master's,6,6,2,3,4,1,2,10,3,3,4,7,5,1,0,3,9,2,0,Intermediate,Cloud,Cloud Engineer
+Master's,5,2,10,0,4,2,4,2,1,3,4,5,10,5,0,4,2,1,10,Intermediate,Embedded,Embedded Systems Engineer
+Bachelor's,5,4,4,2,5,3,3,5,1,5,9,8,10,6,1,2,2,8,1,Fresher,Security,Cybersecurity Analyst
+Bachelor's,6,5,1,10,5,2,2,5,8,2,1,6,10,2,1,10,5,1,2,Intermediate,Web,Full Stack Developer
+Master's,2,0,0,7,3,0,1,0,7,2,2,6,9,2,3,10,2,4,0,Fresher,Web,UI/UX Designer
+Bachelor's,3,0,2,4,1,2,0,2,8,2,3,8,8,4,3,9,0,0,0,Fresher,Embedded,UI/UX Designer
+Master's,9,3,1,2,9,7,1,5,5,10,0,9,8,4,10,3,3,2,2,Experienced,Data,Data Analyst
+Bachelor's,3,2,2,3,7,8,4,0,3,10,1,7,7,4,6,2,1,4,1,Intermediate,Data,Data Analyst
+Master's,10,2,4,3,7,10,9,5,1,9,1,8,7,10,10,0,4,5,3,Intermediate,AI,Data Scientist
+Bachelor's,7,6,2,3,6,3,1,10,4,0,5,4,9,0,1,2,10,2,0,Experienced,Cloud,Cloud Engineer
+PhD,10,5,6,1,6,8,10,7,3,10,2,6,10,10,9,3,4,1,3,Intermediate,Web,Machine Learning Engineer
+Bachelor's,3,3,5,9,6,3,2,0,10,1,1,5,8,3,3,9,0,2,4,Fresher,Web,Frontend Developer
+Bachelor's,5,3,3,4,4,0,3,5,2,2,3,7,8,0,0,2,5,10,2,Intermediate,Cloud,Network Engineer
+Diploma,2,1,0,9,3,3,0,6,8,0,4,9,7,2,2,10,0,0,0,Fresher,Cloud,Frontend Developer
+High School,5,3,6,4,6,4,1,2,5,2,5,7,8,0,0,4,5,2,2,Fresher,General,QA Engineer
+Diploma,6,6,4,10,4,3,1,4,10,0,4,8,7,1,0,9,3,0,2,Intermediate,Web,Full Stack Developer
+Master's,10,6,1,7,9,1,0,6,10,4,2,7,8,3,3,10,4,1,1,Intermediate,Web,Full Stack Developer
+PhD,10,2,6,3,8,5,10,6,3,8,0,9,10,10,6,4,2,0,4,Intermediate,Security,AI Engineer
+Bachelor's,6,4,7,1,4,0,2,5,4,1,10,4,7,2,3,2,2,10,2,Experienced,Security,Cybersecurity Engineer
+Diploma,5,2,3,6,6,1,0,2,4,1,3,7,10,2,1,1,1,4,1,Fresher,General,QA Engineer
+Bachelor's,4,1,3,6,2,2,0,0,8,4,1,9,6,4,3,8,0,0,2,Fresher,Web,UI/UX Designer
+Bachelor's,4,5,0,5,10,0,0,5,1,3,4,5,8,0,10,2,4,4,0,Intermediate,Data,Database Administrator
+Bachelor's,4,4,0,0,10,2,1,5,1,6,5,6,8,0,7,2,3,1,1,Intermediate,Data,Database Administrator
+Bachelor's,4,3,2,4,5,2,0,5,5,3,2,8,8,4,2,6,0,0,4,Fresher,General,QA Engineer
+Bachelor's,9,9,2,5,10,4,5,7,2,9,0,5,9,6,10,1,7,3,0,Intermediate,Data,Data Engineer
+Bachelor's,3,4,3,2,9,3,0,4,0,6,6,7,6,0,7,4,4,3,0,Experienced,Data,Database Administrator
+Bachelor's,8,6,2,5,6,3,4,4,3,2,8,9,10,2,5,5,4,8,2,Fresher,Security,Cybersecurity Analyst
+Diploma,3,5,2,0,10,1,1,4,1,4,3,8,4,3,10,2,4,3,3,Intermediate,Data,Database Administrator
+Master's,10,3,0,0,7,10,9,1,0,8,0,5,7,8,9,0,2,3,0,Intermediate,AI,Data Scientist
+Master's,10,1,6,1,3,5,10,7,2,5,1,7,8,9,3,1,6,1,1,Intermediate,AI,AI Engineer
+Bachelor's,7,5,3,5,8,3,3,5,5,3,2,8,9,4,2,5,3,2,5,Fresher,General,Software Developer
+High School,4,4,3,8,7,2,1,5,5,4,2,5,9,0,3,3,3,2,0,Fresher,General,QA Engineer
+Diploma,4,4,3,5,3,1,4,10,5,4,5,9,9,0,3,2,10,4,1,Intermediate,Cloud,DevOps Engineer
+High School,4,6,1,2,6,3,3,2,2,5,10,6,7,2,0,4,3,9,0,Fresher,AI,Cybersecurity Analyst
+Diploma,4,9,5,5,7,1,0,2,7,0,4,6,6,0,2,9,1,0,4,Fresher,General,Mobile App Developer
+Master's,5,3,3,5,7,3,4,10,7,5,3,7,6,4,2,5,10,0,5,Intermediate,Cloud,Cloud Engineer
+Bachelor's,7,4,6,4,4,1,4,2,4,3,10,5,10,2,1,1,4,10,1,Experienced,Security,Cybersecurity Engineer
+Bachelor's,2,2,0,3,9,3,5,5,2,6,5,7,5,0,7,1,7,4,1,Intermediate,Data,Database Administrator
+Bachelor's,4,9,6,7,6,1,3,2,9,2,3,6,9,1,0,10,4,2,5,Intermediate,Web,Mobile App Developer
+Master's,6,6,6,4,3,5,4,7,3,4,10,10,8,0,1,1,6,8,2,Experienced,Security,Cybersecurity Engineer
+Bachelor's,3,7,4,5,3,3,5,2,9,3,0,6,8,4,3,9,4,2,6,Fresher,Web,Mobile App Developer
+Bachelor's,4,0,1,0,8,6,2,5,2,9,0,7,7,1,10,0,2,0,1,Fresher,Data,Data Analyst
+Master's,6,2,1,0,9,8,5,4,4,10,2,7,10,10,10,0,2,2,0,Fresher,AI,Data Scientist
+Master's,10,2,6,2,7,6,10,5,4,6,0,7,10,9,2,3,3,1,3,Intermediate,AI,AI Engineer
+Master's,5,4,6,7,0,3,0,2,8,2,4,6,8,4,0,8,2,2,6,Fresher,AI,Mobile App Developer
+Bachelor's,6,1,5,9,6,0,0,4,9,2,3,10,9,4,1,10,5,1,0,Intermediate,Web,Full Stack Developer
+Bachelor's,5,7,3,3,7,3,4,1,1,5,10,8,10,4,3,0,5,9,3,Fresher,AI,Cybersecurity Analyst
+Master's,2,4,3,10,0,0,0,4,10,2,1,7,5,2,1,8,2,0,1,Intermediate,Web,Frontend Developer
+Master's,5,0,10,2,2,3,6,1,0,3,4,3,10,3,0,2,2,2,10,Fresher,Embedded,Embedded Systems Engineer
+Bachelor's,1,3,1,7,2,2,3,0,8,0,0,5,8,3,3,7,2,1,2,Fresher,Web,UI/UX Designer
+Master's,4,0,0,3,9,4,0,4,3,4,2,10,6,1,6,1,3,2,0,Fresher,General,Business Analyst
+Bachelor's,8,8,7,5,7,5,3,3,4,3,1,6,9,1,2,5,2,3,3,Fresher,General,Software Developer
+Bachelor's,6,8,5,6,10,3,2,6,5,2,2,2,6,5,4,7,7,0,1,Intermediate,Web,Backend Developer
+Bachelor's,5,1,0,10,0,1,3,4,10,3,0,9,5,0,2,9,1,2,4,Fresher,Web,Frontend Developer
+Master's,6,5,0,6,6,3,0,3,9,2,1,7,10,4,5,7,3,3,0,Intermediate,Web,Full Stack Developer
+Diploma,3,8,6,7,2,0,0,2,7,0,1,8,10,4,0,10,2,2,6,Fresher,Web,Mobile App Developer
+Bachelor's,7,3,4,0,8,4,1,9,5,4,3,3,10,4,2,3,10,4,0,Intermediate,Cloud,DevOps Engineer
+Diploma,5,4,3,3,7,1,0,2,4,5,2,8,10,1,3,7,0,4,3,Intermediate,General,QA Engineer
+Bachelor's,5,1,0,10,7,0,0,4,8,4,1,6,7,2,2,10,4,2,0,Intermediate,Web,Full Stack Developer
+Master's,2,0,3,8,6,2,1,3,10,2,3,9,7,0,3,7,2,2,0,Fresher,Web,Frontend Developer
+Bachelor's,5,3,10,1,4,3,3,1,1,3,2,7,10,2,3,3,2,1,10,Intermediate,Embedded,Embedded Systems Engineer
+Master's,3,3,10,2,2,4,4,2,2,1,4,4,10,4,1,2,3,0,10,Intermediate,Embedded,Embedded Systems Engineer
+Bachelor's,8,3,4,0,4,3,2,9,4,4,4,7,10,3,5,4,10,2,0,Intermediate,Cloud,DevOps Engineer
+Master's,4,1,3,1,5,3,0,5,0,2,7,6,10,0,3,1,3,8,6,Intermediate,AI,Network Engineer
+PhD,8,3,4,5,6,8,9,6,4,10,1,7,9,10,7,1,4,2,2,Intermediate,AI,Machine Learning Engineer
+High School,4,3,2,3,8,5,0,1,5,5,5,10,5,3,2,5,3,3,3,Fresher,General,QA Engineer
+Bachelor's,4,1,6,1,0,2,1,8,1,2,10,4,9,1,0,0,8,9,5,Intermediate,Cloud,Network Engineer
+Bachelor's,8,4,3,1,5,2,0,10,6,2,3,5,6,5,1,2,8,2,1,Intermediate,Cloud,DevOps Engineer
+Bachelor's,0,0,1,6,3,5,4,0,9,3,0,6,7,0,0,8,1,3,1,Fresher,Web,UI/UX Designer
+Bachelor's,10,1,2,4,7,4,5,5,0,4,9,9,10,0,4,4,2,10,4,Fresher,Security,Cybersecurity Analyst
+Bachelor's,5,4,3,1,4,1,3,4,1,3,5,7,8,3,2,1,6,8,7,Intermediate,Cloud,Network Engineer
+Bachelor's,1,4,0,6,0,2,0,0,8,2,2,5,7,2,1,9,0,0,1,Fresher,Web,UI/UX Designer
+High School,8,3,2,2,5,8,10,5,3,6,1,5,9,10,5,0,2,2,4,Intermediate,Cloud,AI Engineer
+Bachelor's,7,4,6,3,9,6,0,3,3,4,5,5,8,1,5,0,2,2,2,Fresher,General,Software Developer
+Master's,9,2,4,4,9,10,7,6,3,10,0,6,10,10,10,0,3,3,2,Intermediate,AI,Data Scientist
+Bachelor's,0,1,2,7,0,2,1,1,6,2,0,6,8,2,2,8,2,3,4,Fresher,Web,UI/UX Designer
+Bachelor's,7,1,4,1,9,10,3,4,2,10,1,8,6,4,8,3,4,2,1,Fresher,Data,Data Analyst
+Master's,3,2,3,10,5,1,1,2,8,3,2,9,5,0,0,10,1,0,0,Fresher,Cloud,Frontend Developer
+PhD,10,0,2,5,4,5,10,6,2,4,4,6,10,10,4,1,6,3,0,Fresher,AI,AI Engineer
+Master's,5,4,9,0,0,5,3,4,3,1,2,5,10,1,2,2,0,0,10,Intermediate,Cloud,Embedded Systems Engineer
+Diploma,5,2,2,2,5,2,4,8,1,4,10,7,7,5,3,3,5,10,2,Fresher,Security,Cybersecurity Analyst
+Master's,3,4,0,1,10,2,2,2,1,5,4,4,10,0,10,2,4,3,4,Intermediate,General,Database Administrator
+Diploma,8,4,3,4,5,2,0,7,3,1,4,3,8,2,2,4,9,2,4,Intermediate,Cloud,DevOps Engineer
+Bachelor's,8,3,1,3,8,2,0,3,3,3,2,6,7,1,2,5,3,0,3,Fresher,General,QA Engineer
+Master's,9,1,3,1,9,10,8,2,2,10,4,9,10,10,10,2,3,0,0,Intermediate,AI,Data Scientist
+Master's,10,5,3,0,10,8,8,1,3,8,1,7,10,10,9,1,1,3,0,Intermediate,General,Data Scientist
+Master's,8,2,4,2,2,6,9,4,5,4,1,6,10,10,6,2,5,0,0,Intermediate,AI,AI Engineer
+Bachelor's,10,6,3,3,10,3,0,5,9,4,5,6,9,2,2,8,4,3,2,Intermediate,Web,Backend Developer
+Master's,9,3,2,4,3,7,8,3,6,6,1,3,8,10,5,0,4,2,4,Intermediate,AI,AI Engineer
+PhD,10,3,7,0,6,9,9,5,0,8,3,6,6,8,7,1,0,3,2,Intermediate,AI,Machine Learning Engineer
+Bachelor's,9,2,5,3,5,4,2,4,5,2,9,4,10,2,3,1,2,9,3,Experienced,Security,Cybersecurity Engineer
+Bachelor's,3,3,1,1,6,6,0,2,3,7,0,9,5,3,5,2,1,0,3,Fresher,General,Business Analyst
+Master's,3,1,1,2,9,4,0,0,1,10,0,8,8,3,5,0,1,2,1,Fresher,General,Business Analyst
+High School,5,8,4,6,4,2,3,6,3,5,6,3,8,4,2,10,3,0,6,Fresher,Web,Mobile App Developer
+Master's,7,6,6,5,5,5,2,9,3,2,4,7,7,1,2,4,10,3,0,Experienced,Cloud,DevOps Engineer
+Diploma,4,4,0,10,1,1,6,0,10,2,1,7,7,1,1,9,4,1,2,Fresher,Web,Frontend Developer
+Master's,5,1,1,3,8,8,0,3,1,10,0,10,9,5,7,3,3,0,1,Fresher,Data,Data Analyst
+Bachelor's,7,1,2,1,5,3,3,5,3,2,9,9,8,0,3,1,5,10,2,Fresher,Security,Cybersecurity Analyst
+Diploma,6,5,1,8,0,2,3,1,10,1,0,9,7,1,5,8,2,0,1,Fresher,Web,Frontend Developer
+Master's,4,5,3,1,5,1,3,8,1,5,9,6,8,0,1,1,5,8,2,Intermediate,Cloud,Network Engineer
+Diploma,8,10,6,5,9,3,0,4,5,3,2,4,8,2,5,10,7,1,2,Intermediate,Web,Backend Developer
+PhD,8,5,4,4,6,8,7,2,0,8,0,8,9,10,5,2,3,0,4,Experienced,AI,Machine Learning Engineer
+Diploma,5,2,4,1,0,1,2,5,2,3,7,5,8,1,2,0,5,6,0,Fresher,Cloud,Network Engineer
+Diploma,2,0,2,8,0,1,0,1,9,2,4,10,8,2,3,9,0,2,1,Fresher,Web,UI/UX Designer
+Diploma,7,4,0,3,10,6,2,2,3,9,3,9,8,4,10,2,0,4,0,Fresher,Data,Data Analyst
+Bachelor's,6,3,1,4,10,2,0,5,3,5,5,9,5,0,6,0,4,2,2,Intermediate,Data,Database Administrator
+Diploma,5,8,4,4,3,0,3,3,1,3,4,5,9,2,0,10,2,2,3,Fresher,Embedded,Mobile App Developer
+Master's,5,8,3,9,8,2,2,5,9,0,3,6,9,3,1,10,4,2,1,Intermediate,Web,Full Stack Developer
+Bachelor's,2,10,5,7,3,1,1,3,7,0,5,5,10,1,1,10,3,2,5,Fresher,Web,Mobile App Developer
+High School,5,0,4,1,6,2,3,4,0,10,0,10,7,4,7,3,4,1,1,Fresher,General,Business Analyst
+Bachelor's,5,0,0,2,4,3,3,6,0,3,6,6,8,2,0,0,4,7,7,Experienced,Cloud,Network Engineer
+Master's,8,2,4,3,9,9,10,6,0,5,0,4,10,10,6,0,7,0,5,Intermediate,AI,Machine Learning Engineer
+Bachelor's,3,4,3,2,10,5,3,5,1,7,3,7,8,5,10,0,3,0,0,Intermediate,Data,Database Administrator
+Diploma,8,1,1,2,5,3,5,10,5,4,5,6,8,0,0,4,10,2,3,Experienced,Cloud,DevOps Engineer
+Bachelor's,2,0,5,1,6,3,2,0,5,10,2,10,7,2,8,2,4,0,3,Intermediate,General,Business Analyst
+Master's,6,2,2,2,3,5,5,1,2,4,10,6,10,3,4,1,1,10,0,Fresher,General,Cybersecurity Analyst
+Diploma,4,5,4,1,9,2,0,5,4,10,3,7,8,0,6,1,7,3,0,Intermediate,Data,Database Administrator
+Bachelor's,8,0,0,2,10,7,2,1,1,8,5,8,8,2,9,1,0,0,0,Fresher,Data,Data Analyst
+Bachelor's,10,3,3,0,10,8,8,0,0,10,0,4,10,10,10,1,2,2,3,Intermediate,AI,Data Scientist
+Bachelor's,9,4,3,2,5,4,4,10,2,1,4,7,8,1,4,4,10,2,1,Intermediate,Cloud,DevOps Engineer
+Bachelor's,5,5,0,5,8,2,0,2,4,2,1,9,6,0,2,3,2,3,0,Fresher,General,QA Engineer
+Bachelor's,4,3,4,2,10,4,3,4,0,3,5,6,7,0,8,1,5,1,0,Experienced,Data,Database Administrator
+Bachelor's,0,4,1,4,3,2,2,0,7,4,0,10,5,2,4,7,1,2,1,Fresher,Web,UI/UX Designer
+Master's,1,3,8,2,3,3,5,2,1,3,2,7,8,4,3,0,0,0,10,Intermediate,Embedded,Embedded Systems Engineer
+Bachelor's,6,3,3,2,10,2,0,6,0,4,6,8,6,0,9,2,5,4,1,Intermediate,Data,Database Administrator
+Diploma,10,8,2,3,8,1,1,3,8,1,3,5,10,2,6,9,8,2,2,Intermediate,Web,Backend Developer
+Diploma,7,5,0,9,7,3,2,5,10,2,0,8,8,3,0,10,5,2,0,Intermediate,Web,Full Stack Developer
+Bachelor's,6,1,0,1,8,4,2,1,0,9,3,9,7,2,8,5,1,0,1,Fresher,General,Business Analyst
+Bachelor's,7,2,0,1,5,0,2,10,5,2,2,5,9,3,3,5,10,2,3,Intermediate,Cloud,Cloud Engineer
+Diploma,2,6,1,5,6,3,1,2,5,5,4,5,10,0,4,3,3,4,1,Fresher,General,QA Engineer
+Bachelor's,6,5,2,6,5,4,1,4,4,6,2,7,10,0,2,3,3,3,1,Fresher,General,QA Engineer
+Master's,1,0,1,9,0,0,0,0,7,0,1,10,7,2,2,10,3,1,1,Fresher,Web,UI/UX Designer
+Bachelor's,5,2,1,3,2,2,2,6,3,3,8,6,9,1,1,0,5,7,4,Intermediate,Cloud,Network Engineer
+PhD,10,7,4,4,5,8,10,6,1,6,3,8,10,10,6,1,6,2,0,Intermediate,AI,Machine Learning Engineer
+Diploma,6,5,10,2,3,2,6,3,1,3,5,3,9,7,4,1,2,1,10,Intermediate,Embedded,Embedded Systems Engineer
+Master's,2,2,4,4,10,5,0,3,0,3,2,5,7,1,7,2,3,3,0,Intermediate,Data,Database Administrator
+Master's,8,1,2,4,5,4,2,7,1,8,10,8,7,3,3,0,1,10,2,Fresher,Security,Cybersecurity Analyst
+Bachelor's,3,10,5,3,9,2,2,8,8,1,3,3,9,4,1,7,5,1,2,Experienced,Web,Backend Developer
+Master's,8,2,2,2,5,7,8,4,1,7,0,4,6,10,2,2,7,4,0,Intermediate,AI,AI Engineer
+Master's,6,7,9,2,7,3,1,3,6,5,2,8,10,4,2,6,4,1,0,Fresher,General,Software Developer
+High School,5,6,10,0,0,2,1,1,0,1,2,5,9,2,3,2,0,1,8,Intermediate,Embedded,Embedded Systems Engineer
+Master's,6,3,2,3,5,2,1,4,0,3,10,7,8,1,0,2,6,10,0,Fresher,Security,Cybersecurity Analyst
+Diploma,9,6,6,2,9,4,4,5,2,9,4,4,8,4,9,1,6,3,3,Fresher,Data,Data Engineer
+Master's,7,2,2,3,10,9,6,2,3,7,1,10,8,3,10,3,4,1,0,Fresher,Data,Data Analyst
+Master's,6,2,4,0,10,4,3,5,2,7,2,7,9,5,9,0,7,2,1,Intermediate,Data,Data Engineer
+Master's,8,3,3,2,10,8,2,3,3,8,0,6,7,4,8,2,3,2,3,Fresher,Data,Data Analyst
+Bachelor's,5,1,0,4,8,7,3,3,1,7,1,9,8,2,10,1,1,0,3,Fresher,General,Data Analyst
+Bachelor's,2,3,6,2,3,3,5,2,2,0,0,5,10,5,1,1,2,2,10,Intermediate,Embedded,Embedded Systems Engineer
+Bachelor's,9,6,3,2,9,5,1,7,7,6,2,7,9,2,10,0,4,3,2,Intermediate,Data,Data Engineer
+Master's,9,3,4,1,8,7,3,2,4,6,3,8,7,1,10,0,3,0,1,Fresher,Data,Data Analyst
+Bachelor's,5,3,10,0,1,0,3,0,1,2,1,4,6,2,0,4,3,4,8,Intermediate,Embedded,Embedded Systems Engineer
+Bachelor's,2,2,2,1,5,4,0,1,3,7,4,10,7,1,6,3,3,1,0,Intermediate,General,Business Analyst
+Bachelor's,1,7,1,10,2,2,1,3,10,4,0,9,7,0,4,10,0,1,2,Intermediate,Web,Frontend Developer
+Bachelor's,4,2,4,3,10,0,2,3,2,6,7,6,5,3,9,2,6,6,0,Intermediate,Data,Database Administrator
+PhD,8,1,4,3,4,4,9,6,3,8,4,7,10,10,8,5,6,2,2,Intermediate,AI,AI Engineer
+Bachelor's,2,10,5,5,2,4,0,4,9,1,1,5,6,2,2,9,1,3,2,Fresher,Web,Mobile App Developer
+Diploma,8,5,4,3,5,3,4,10,4,0,5,4,8,2,0,4,10,2,2,Intermediate,Cloud,Cloud Engineer
+Diploma,5,1,2,5,3,1,3,3,3,6,10,6,10,3,2,2,4,10,0,Fresher,Security,Cybersecurity Analyst
+Master's,7,3,3,0,3,2,4,5,2,3,8,7,10,2,5,1,3,7,2,Experienced,Security,Cybersecurity Analyst
+Diploma,3,0,1,0,5,8,0,0,3,7,1,10,8,2,7,4,0,0,0,Fresher,Embedded,Business Analyst
+Master's,10,1,5,3,5,9,10,3,3,7,1,6,8,10,6,1,5,0,1,Intermediate,AI,Machine Learning Engineer
+Bachelor's,5,4,5,3,4,3,0,10,6,4,0,6,6,4,4,4,8,5,1,Intermediate,Cloud,Cloud Engineer
+Bachelor's,2,1,2,2,4,4,0,5,0,2,9,6,8,1,1,3,9,9,5,Intermediate,Cloud,Network Engineer
+Master's,7,5,3,2,3,3,0,4,3,4,10,5,10,1,0,3,3,9,1,Fresher,Security,Cybersecurity Analyst
+Master's,1,3,0,0,9,7,2,7,3,6,5,5,8,3,9,3,4,6,1,Intermediate,AI,Database Administrator
+Bachelor's,7,3,0,3,10,9,5,2,1,7,2,9,9,5,9,0,1,1,1,Fresher,Data,Data Analyst
+Diploma,5,3,0,2,7,7,0,0,2,6,0,9,8,4,6,2,2,0,0,Intermediate,Embedded,Business Analyst
+Master's,7,2,6,2,5,10,10,7,1,6,4,6,9,10,8,0,4,2,0,Intermediate,AI,Machine Learning Engineer
+Bachelor's,3,2,10,0,2,4,4,3,1,1,1,5,8,3,0,0,2,0,10,Intermediate,Embedded,Embedded Systems Engineer
+Bachelor's,9,6,4,4,10,5,1,10,1,9,1,5,8,2,5,3,7,0,2,Intermediate,Data,Data Engineer
+Bachelor's,5,7,6,5,5,1,3,3,3,5,10,6,10,1,4,3,3,10,5,Experienced,Security,Cybersecurity Engineer
+Diploma,0,3,0,4,9,5,0,6,2,10,6,8,10,1,8,1,5,0,1,Intermediate,Data,Database Administrator
+High School,6,8,8,5,4,3,3,2,4,5,3,5,5,4,2,5,3,0,3,Fresher,General,Software Developer
+Bachelor's,0,10,6,6,6,3,2,1,10,1,1,6,8,3,2,7,2,3,3,Fresher,Web,Mobile App Developer
+Master's,5,2,0,1,2,4,0,8,1,3,5,6,7,4,0,3,8,10,3,Intermediate,Cloud,Network Engineer
+PhD,5,2,3,2,10,5,3,3,3,10,0,6,5,4,10,2,0,2,0,Fresher,Data,Data Analyst
+Bachelor's,5,8,5,8,4,3,1,1,4,7,2,5,5,0,2,4,3,0,3,Fresher,General,Software Developer
+Master's,6,9,3,4,9,4,0,6,4,1,2,8,7,1,3,8,5,5,1,Intermediate,Web,Backend Developer
+PhD,8,5,2,9,5,4,2,4,10,2,0,9,6,2,2,10,5,3,2,Intermediate,Web,Full Stack Developer
+Bachelor's,6,1,2,3,5,5,0,2,2,7,0,10,6,5,8,1,3,3,2,Fresher,General,Business Analyst
+Bachelor's,6,4,2,1,10,3,0,7,1,7,0,5,9,1,9,0,5,3,1,Intermediate,Data,Database Administrator
+PhD,7,4,6,3,3,9,9,3,0,5,0,5,10,9,6,1,4,4,1,Intermediate,AI,AI Engineer
+Diploma,7,7,5,3,6,2,0,3,6,4,1,5,9,0,4,2,1,1,6,Fresher,General,Software Developer
+PhD,6,4,3,5,4,3,1,3,4,2,3,6,8,3,3,4,2,0,0,Fresher,General,QA Engineer
+Master's,9,3,6,5,4,10,8,3,2,6,0,7,10,10,5,1,4,4,0,Intermediate,AI,Machine Learning Engineer
+Master's,7,6,4,6,8,3,1,5,5,2,3,3,7,0,2,10,4,3,6,Experienced,Web,Backend Developer
+Master's,4,2,10,0,1,3,3,4,0,1,2,4,10,4,2,1,1,3,10,Intermediate,Embedded,Embedded Systems Engineer
+Diploma,10,6,6,2,8,4,6,9,2,10,1,7,9,2,9,5,5,2,0,Intermediate,Data,Data Engineer
+Bachelor's,1,1,1,5,1,4,0,0,10,3,3,9,5,0,1,10,1,0,2,Experienced,Embedded,UI/UX Designer
+High School,5,7,4,6,3,4,0,2,6,4,0,5,6,0,3,6,4,3,3,Fresher,General,Software Developer
+Bachelor's,3,0,0,7,3,0,1,3,6,2,2,7,6,0,1,8,1,2,3,Fresher,Web,UI/UX Designer
+Master's,4,2,1,2,4,3,2,10,4,0,2,5,7,2,4,3,8,2,4,Intermediate,Cloud,Cloud Engineer
+Master's,7,8,6,2,5,4,5,5,3,3,10,8,6,1,0,2,2,8,5,Experienced,Security,Cybersecurity Engineer
+Bachelor's,6,4,0,3,3,0,6,10,6,4,6,6,10,3,2,3,10,3,2,Intermediate,Cloud,DevOps Engineer
+PhD,10,4,6,2,5,4,10,4,3,3,2,3,9,8,4,4,5,3,4,Intermediate,AI,AI Engineer
+Master's,10,1,3,3,6,7,10,4,3,7,0,7,9,10,5,3,3,0,4,Experienced,AI,AI Engineer
+Bachelor's,9,7,4,8,8,4,0,5,7,3,1,7,10,5,0,10,5,1,1,Intermediate,Security,Full Stack Developer
+Master's,10,2,6,7,2,9,7,6,2,7,0,7,7,10,5,0,7,1,5,Intermediate,AI,Machine Learning Engineer
+Master's,10,3,5,2,10,8,10,2,1,9,0,3,9,10,6,0,1,2,3,Intermediate,AI,Machine Learning Engineer
+Master's,0,2,1,7,3,2,4,0,10,4,2,5,5,1,1,9,3,0,0,Fresher,Web,Frontend Developer
+Diploma,5,0,5,2,7,3,3,1,1,7,3,10,6,1,9,2,3,2,0,Fresher,Cloud,Business Analyst
+Bachelor's,6,4,3,2,4,4,1,2,2,3,8,7,10,2,0,3,5,10,4,Fresher,Security,Cybersecurity Analyst
+Bachelor's,10,7,6,6,10,2,1,7,9,6,3,6,4,0,2,6,7,0,0,Intermediate,Web,Backend Developer
+Bachelor's,6,4,5,5,10,6,3,6,3,8,3,9,8,8,7,2,7,0,2,Intermediate,Data,Data Engineer
+PhD,7,4,3,5,6,2,4,10,5,1,7,6,5,5,2,2,9,4,1,Intermediate,Cloud,DevOps Engineer
+Master's,9,4,6,1,6,0,4,10,7,4,3,5,9,1,4,5,8,3,2,Intermediate,Cloud,DevOps Engineer
+Bachelor's,5,5,1,2,5,3,1,6,2,4,10,8,9,0,4,2,4,9,0,Fresher,Security,Cybersecurity Analyst
+Diploma,6,6,2,5,5,4,3,2,4,4,4,5,7,1,1,5,3,4,5,Fresher,Web,Software Developer
+Bachelor's,7,4,4,0,9,9,0,2,2,9,0,7,6,3,8,1,2,2,1,Fresher,Data,Data Analyst
+Master's,7,2,5,2,6,10,9,5,4,8,1,6,6,8,7,1,4,3,0,Intermediate,AI,Machine Learning Engineer
+Bachelor's,5,4,0,10,2,3,2,3,10,1,0,4,6,0,0,10,2,1,0,Fresher,Web,Frontend Developer
+Bachelor's,6,4,2,4,7,3,2,9,3,3,3,8,9,4,1,2,10,3,1,Intermediate,Embedded,Cloud Engineer
+Bachelor's,10,5,8,3,5,4,4,1,4,4,2,7,10,4,2,3,2,0,4,Fresher,General,Software Developer
+Bachelor's,3,8,4,8,2,4,2,3,5,3,0,7,8,1,0,10,0,2,3,Fresher,Web,Mobile App Developer
+Bachelor's,8,3,0,3,9,8,6,0,1,10,0,10,8,4,8,3,4,1,1,Fresher,Data,Data Analyst
+Bachelor's,6,2,5,2,6,3,3,8,4,3,9,4,9,2,0,0,3,8,3,Experienced,Security,Cybersecurity Engineer
+Master's,8,0,3,6,7,6,9,2,4,9,0,7,10,9,8,1,0,2,0,Intermediate,AI,Data Scientist
+Master's,7,4,0,4,6,3,2,7,5,3,6,6,8,3,1,2,10,2,1,Intermediate,Cloud,Cloud Engineer
+High School,6,4,1,9,7,2,1,3,10,3,6,6,9,7,2,10,2,4,0,Intermediate,Web,Full Stack Developer
+Diploma,3,3,1,3,10,3,0,7,4,6,9,5,9,0,9,2,2,3,4,Intermediate,General,Database Administrator
+Master's,2,9,1,6,4,0,3,1,7,1,0,4,6,4,2,10,1,1,4,Fresher,Web,Mobile App Developer
+Master's,8,1,0,2,6,5,1,7,2,4,9,10,9,0,6,3,4,10,3,Fresher,Security,Cybersecurity Analyst
+Bachelor's,2,2,3,0,8,6,1,4,2,9,1,10,8,2,8,1,1,0,0,Fresher,General,Business Analyst
+Bachelor's,6,6,3,3,10,4,5,8,1,6,2,7,10,6,10,1,6,0,0,Intermediate,Data,Data Engineer
+Master's,6,6,2,4,6,4,5,10,1,2,7,4,10,0,0,4,10,2,1,Intermediate,Cloud,DevOps Engineer
+Master's,7,3,2,1,10,1,0,3,4,3,2,3,6,0,10,1,3,3,0,Intermediate,Data,Database Administrator
+PhD,9,4,1,0,7,5,9,5,3,7,0,7,9,9,6,2,7,2,4,Intermediate,AI,Machine Learning Engineer
+Bachelor's,7,1,7,3,1,3,3,4,0,3,1,6,10,5,0,1,4,3,10,Intermediate,Embedded,Embedded Systems Engineer
+Master's,7,2,0,1,5,3,3,10,3,2,5,6,10,3,4,2,10,6,2,Intermediate,Cloud,DevOps Engineer
+Bachelor's,4,3,4,4,6,0,0,10,3,4,1,6,9,3,0,0,10,4,4,Intermediate,Cloud,DevOps Engineer
+Diploma,4,10,4,3,1,5,0,3,8,0,0,4,10,5,0,9,2,2,1,Fresher,Web,Mobile App Developer
+Diploma,5,3,3,2,10,4,0,6,2,5,5,7,6,0,6,0,4,4,0,Intermediate,Data,Database Administrator
+Diploma,5,4,0,0,9,1,1,3,4,5,7,7,5,4,8,1,4,4,2,Intermediate,Data,Database Administrator
+High School,6,6,0,6,6,4,3,6,2,5,0,9,10,3,1,5,1,2,1,Fresher,General,QA Engineer
+Bachelor's,8,0,7,5,6,6,10,7,2,5,4,6,10,8,6,5,4,1,0,Intermediate,AI,AI Engineer
+Master's,3,5,2,8,5,3,2,2,10,0,3,6,9,1,0,9,3,1,0,Fresher,Web,Frontend Developer
+Bachelor's,3,0,1,3,3,2,0,0,9,0,1,8,7,1,0,8,2,1,2,Fresher,Web,UI/UX Designer
+Bachelor's,10,3,5,1,4,8,10,4,4,6,2,6,7,8,6,4,5,0,0,Intermediate,AI,Machine Learning Engineer
+PhD,5,10,2,4,3,3,1,5,6,4,1,8,10,1,2,8,3,4,6,Fresher,Web,Mobile App Developer
+PhD,5,7,6,3,6,5,2,2,5,4,2,8,8,1,2,5,5,4,6,Fresher,General,Software Developer
+Bachelor's,2,0,0,2,5,4,0,2,4,8,3,9,8,4,7,2,1,2,2,Fresher,General,Business Analyst
+Diploma,6,4,8,0,1,3,3,2,0,4,3,7,10,1,0,0,2,3,10,Intermediate,Embedded,Embedded Systems Engineer
+Bachelor's,6,5,1,4,10,3,2,3,0,6,3,9,6,1,8,3,2,0,3,Intermediate,Data,Database Administrator
+Master's,9,0,2,2,2,9,10,5,0,3,1,9,8,10,4,2,6,0,1,Intermediate,AI,AI Engineer
+Diploma,5,2,0,10,8,0,0,5,8,0,2,8,9,3,0,10,4,2,1,Intermediate,Data,Full Stack Developer
+Master's,6,3,1,0,8,5,1,5,2,10,1,8,9,3,10,2,1,0,0,Fresher,Data,Data Analyst
+Bachelor's,3,7,3,8,1,5,4,2,9,2,5,8,10,0,1,5,1,6,5,Experienced,Web,Mobile App Developer
+Diploma,4,0,2,1,7,8,0,1,2,8,3,10,6,0,5,1,1,2,1,Fresher,General,Business Analyst
+Diploma,2,4,2,3,5,2,2,10,2,4,5,5,10,4,3,4,10,5,4,Intermediate,Cloud,Cloud Engineer
+Master's,7,2,9,3,6,4,3,6,5,5,10,7,10,1,0,0,2,9,2,Experienced,Security,Cybersecurity Engineer
+Diploma,2,4,0,10,4,3,0,4,7,4,1,7,4,0,3,9,2,1,3,Fresher,Web,Frontend Developer
+Bachelor's,7,9,1,6,7,2,5,5,6,0,3,8,5,2,0,7,0,3,3,Fresher,AI,Mobile App Developer
+PhD,7,1,2,7,4,6,9,5,2,6,0,6,9,10,7,2,5,0,3,Intermediate,AI,AI Engineer
+Bachelor's,8,2,3,1,4,0,1,9,6,3,4,6,6,0,1,3,10,2,2,Intermediate,General,DevOps Engineer
+Bachelor's,5,2,5,4,5,5,0,10,7,3,8,7,10,4,2,2,10,1,1,Intermediate,Cloud,Cloud Engineer
+Master's,4,5,3,5,2,3,4,10,3,4,3,6,6,1,2,2,9,1,4,Experienced,Cloud,Cloud Engineer
+Bachelor's,6,3,4,3,4,3,0,4,2,7,10,5,9,2,2,2,2,10,1,Fresher,Security,Cybersecurity Analyst
+Bachelor's,7,0,10,0,2,2,5,2,0,4,4,4,7,1,3,2,1,3,7,Intermediate,Cloud,Embedded Systems Engineer
+Diploma,9,6,4,0,10,6,4,7,0,7,1,8,10,7,8,0,5,0,0,Intermediate,Data,Data Engineer
+Bachelor's,6,4,7,3,6,4,3,0,5,5,2,8,7,0,4,4,0,2,5,Fresher,General,Software Developer
+Master's,5,3,4,2,10,0,0,7,2,7,2,6,8,0,8,0,5,5,0,Intermediate,AI,Database Administrator
+Diploma,8,10,6,5,7,5,1,4,9,3,5,6,8,4,1,7,5,0,2,Intermediate,Cloud,Backend Developer
+High School,4,7,5,5,5,0,0,5,2,3,2,3,6,0,1,4,4,1,0,Fresher,General,QA Engineer
+Master's,10,0,5,2,6,7,9,8,4,8,2,5,10,10,5,5,5,1,2,Intermediate,AI,AI Engineer
+Bachelor's,4,2,1,2,6,0,2,5,0,2,7,6,6,3,1,2,8,5,5,Intermediate,Cloud,Network Engineer
+High School,1,2,1,2,10,3,3,4,1,3,3,4,9,1,10,3,3,2,3,Intermediate,Cloud,Database Administrator
+Bachelor's,6,5,10,0,0,4,2,0,1,1,1,5,10,3,1,2,0,2,10,Intermediate,Embedded,Embedded Systems Engineer
+Bachelor's,6,5,1,7,6,2,1,4,10,4,0,7,6,0,2,9,2,4,2,Intermediate,Web,Full Stack Developer
+Diploma,5,1,3,1,10,5,2,5,4,9,0,7,7,3,9,2,2,0,0,Fresher,Data,Data Analyst
+Bachelor's,3,9,3,6,3,3,2,6,7,2,4,4,10,0,3,10,1,1,4,Fresher,Web,Mobile App Developer
+Bachelor's,5,6,1,7,4,0,4,4,10,4,2,5,8,5,4,10,2,0,0,Intermediate,Web,Full Stack Developer
+Diploma,6,4,4,2,7,4,7,10,1,7,1,9,9,6,10,0,4,0,0,Intermediate,Data,Data Engineer
+Bachelor's,8,6,6,3,5,2,0,4,4,3,1,10,7,0,0,6,5,1,5,Fresher,General,Software Developer
+Bachelor's,4,4,0,2,6,6,3,2,0,7,1,10,5,0,8,0,0,3,1,Fresher,General,Business Analyst
+Bachelor's,5,4,2,0,10,4,1,6,1,7,4,5,7,0,9,2,5,0,0,Intermediate,Data,Database Administrator
+Bachelor's,7,2,1,4,8,2,3,2,4,3,5,5,7,0,3,2,5,2,2,Fresher,General,QA Engineer
+Master's,3,5,2,10,3,2,0,4,9,1,2,7,8,1,1,10,2,1,2,Intermediate,Web,Frontend Developer
+Bachelor's,6,7,5,4,7,3,0,5,7,2,2,8,8,1,3,9,4,3,1,Intermediate,Web,Backend Developer

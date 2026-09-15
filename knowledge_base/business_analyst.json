@@ -1,0 +1,82 @@
+{
+  "career_role": "Business Analyst",
+  "description": "Bridges business and tech: requirements, process analysis, and data-driven recommendations.",
+  "responsibilities": [
+    "Gather requirements",
+    "Process mapping",
+    "Stakeholder communication",
+    "Basic data analysis"
+  ],
+  "prerequisites": [
+    "Communication + Excel/SQL basics"
+  ],
+  "required_skills": [
+    "Communication",
+    "Requirements",
+    "SQL basics",
+    "Excel",
+    "Process Modeling"
+  ],
+  "preferred_skills": [
+    "Power BI",
+    "Agile",
+    "Domain knowledge"
+  ],
+  "programming_languages": [
+    "SQL"
+  ],
+  "technologies": [
+    "Excel",
+    "Jira",
+    "Power BI",
+    "Confluence",
+    "BPMN tools"
+  ],
+  "tools": [
+    "Jira",
+    "Confluence",
+    "Excel",
+    "Lucidchart"
+  ],
+  "certifications": [
+    "ECBA/CBAP (IIBA)",
+    "Agile (PSM I)",
+    "Google Data Analytics"
+  ],
+  "beginner_skills": [
+    "Excel",
+    "Documentation",
+    "BPMN basics"
+  ],
+  "intermediate_skills": [
+    "SQL",
+    "Dashboards",
+    "User stories"
+  ],
+  "advanced_skills": [
+    "Product analytics",
+    "Stakeholder mgmt",
+    "Strategy"
+  ],
+  "projects": [
+    "BRD for a feature",
+    "Process improvement case",
+    "Dashboard for KPIs"
+  ],
+  "career_progression": [
+    "BA Intern",
+    "Business Analyst",
+    "Senior BA",
+    "Product Manager"
+  ],
+  "related_roles": [
+    "Data Analyst",
+    "QA Engineer",
+    "UI/UX Designer"
+  ],
+  "learning_resources": [
+    "IIBA BABOK guide",
+    "Agile PM (Coursera)",
+    "HBR cases"
+  ]
+}

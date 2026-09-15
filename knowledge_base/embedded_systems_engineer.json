@@ -1,0 +1,84 @@
+{
+  "career_role": "Embedded Systems Engineer",
+  "description": "Builds firmware and embedded systems with C/C++ on microcontrollers and RTOS.",
+  "responsibilities": [
+    "Write C/C++ firmware",
+    "Interface sensors/actuators",
+    "RTOS tasks",
+    "Debug with oscilloscope/JTAG"
+  ],
+  "prerequisites": [
+    "C/C++ + electronics basics"
+  ],
+  "required_skills": [
+    "C",
+    "C++",
+    "Microcontrollers",
+    "RTOS",
+    "Electronics basics"
+  ],
+  "preferred_skills": [
+    "Python tooling",
+    "ROS",
+    "IoT protocols"
+  ],
+  "programming_languages": [
+    "C",
+    "C++",
+    "Python (tooling)"
+  ],
+  "technologies": [
+    "STM32/ESP32",
+    "FreeRTOS",
+    "Arduino",
+    "MQTT"
+  ],
+  "tools": [
+    "PlatformIO",
+    "Keil",
+    "Oscilloscope",
+    "Git",
+    "Logic analyzer"
+  ],
+  "certifications": [
+    "Embedded Systems (Coursera/UCI)",
+    "ARM Accredited Engineer",
+    "IPC basics"
+  ],
+  "beginner_skills": [
+    "C",
+    "Arduino",
+    "Circuits basics"
+  ],
+  "intermediate_skills": [
+    "RTOS",
+    "Peripherals (I2C/SPI/UART)",
+    "PCB basics"
+  ],
+  "advanced_skills": [
+    "Bare-metal drivers",
+    "Low-power design",
+    "ROS/robotics"
+  ],
+  "projects": [
+    "Weather station (ESP32)",
+    "Line-follower robot",
+    "RTOS sensor hub"
+  ],
+  "career_progression": [
+    "Embedded Intern",
+    "Embedded Engineer",
+    "Senior Embedded Engineer",
+    "Firmware Architect"
+  ],
+  "related_roles": [
+    "Network Engineer",
+    "Mobile App Developer",
+    "QA Engineer"
+  ],
+  "learning_resources": [
+    "Embedded.fm",
+    "FastBit Academy",
+    "STM32 docs"
+  ]
+}

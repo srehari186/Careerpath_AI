@@ -1,0 +1,82 @@
+{
+  "career_role": "UI/UX Designer",
+  "description": "Designs intuitive interfaces and experiences via research, wireframes, and prototypes.",
+  "responsibilities": [
+    "User research",
+    "Wireframes and prototypes",
+    "Usability testing",
+    "Design systems"
+  ],
+  "prerequisites": [
+    "Design sense + Figma basics"
+  ],
+  "required_skills": [
+    "Figma",
+    "User Research",
+    "Wireframing",
+    "Prototyping",
+    "Visual Design"
+  ],
+  "preferred_skills": [
+    "HTML/CSS basics",
+    "Motion",
+    "Accessibility"
+  ],
+  "programming_languages": [
+    "HTML/CSS (basic)",
+    "JavaScript (basic)"
+  ],
+  "technologies": [
+    "Figma",
+    "FigJam",
+    "Maze",
+    "Notion"
+  ],
+  "tools": [
+    "Figma",
+    "Miro",
+    "Maze",
+    "Zeplin"
+  ],
+  "certifications": [
+    "Google UX Design Professional",
+    "NN/g UX Certification",
+    "Adobe Certified"
+  ],
+  "beginner_skills": [
+    "Design basics",
+    "Figma",
+    "Typography"
+  ],
+  "intermediate_skills": [
+    "Research",
+    "Prototyping",
+    "Design systems"
+  ],
+  "advanced_skills": [
+    "UX strategy",
+    "Advanced testing",
+    "Leadership"
+  ],
+  "projects": [
+    "Mobile app redesign",
+    "Design system",
+    "Usability study"
+  ],
+  "career_progression": [
+    "Design Intern",
+    "UI/UX Designer",
+    "Senior Designer",
+    "Design Lead"
+  ],
+  "related_roles": [
+    "Frontend Developer",
+    "Business Analyst",
+    "Mobile App Developer"
+  ],
+  "learning_resources": [
+    "Google UX (Coursera)",
+    "Refactoring UI",
+    "Laws of UX"
+  ]
+}

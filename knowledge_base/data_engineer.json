@@ -1,0 +1,84 @@
+{
+  "career_role": "Data Engineer",
+  "description": "Builds data pipelines and warehouses that feed analytics and ML.",
+  "responsibilities": [
+    "Build ETL/ELT pipelines",
+    "Model warehouses",
+    "Orchestrate with Airflow",
+    "Ensure data quality"
+  ],
+  "prerequisites": [
+    "SQL + Python; cloud basics"
+  ],
+  "required_skills": [
+    "SQL",
+    "Python",
+    "ETL",
+    "Airflow",
+    "Spark basics"
+  ],
+  "preferred_skills": [
+    "dbt",
+    "Kafka",
+    "Cloud warehouses"
+  ],
+  "programming_languages": [
+    "Python",
+    "SQL"
+  ],
+  "technologies": [
+    "Airflow",
+    "Spark",
+    "dbt",
+    "Snowflake/BigQuery",
+    "Kafka"
+  ],
+  "tools": [
+    "Airflow",
+    "Docker",
+    "dbt",
+    "Git",
+    "Great Expectations"
+  ],
+  "certifications": [
+    "Google Professional Data Engineer",
+    "AWS Data Engineer Associate",
+    "Databricks Data Engineer"
+  ],
+  "beginner_skills": [
+    "SQL",
+    "Python",
+    "ETL basics"
+  ],
+  "intermediate_skills": [
+    "Orchestration",
+    "Warehouse modeling",
+    "Streaming basics"
+  ],
+  "advanced_skills": [
+    "Lakehouse design",
+    "Data contracts",
+    "Cost/perf tuning"
+  ],
+  "projects": [
+    "Batch ETL pipeline",
+    "Streaming pipeline",
+    "dbt warehouse project"
+  ],
+  "career_progression": [
+    "Junior Data Engineer",
+    "Data Engineer",
+    "Senior Data Engineer",
+    "Data Architect"
+  ],
+  "related_roles": [
+    "Data Analyst",
+    "Database Administrator",
+    "ML Engineer"
+  ],
+  "learning_resources": [
+    "Data Engineering Zoomcamp",
+    "Kimball modeling",
+    "Spark docs"
+  ]
+}

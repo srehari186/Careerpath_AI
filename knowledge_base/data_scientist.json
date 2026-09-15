@@ -1,0 +1,87 @@
+{
+  "career_role": "Data Scientist",
+  "description": "Builds statistical and ML models to predict outcomes and drive product and business strategy.",
+  "responsibilities": [
+    "Frame business problems as ML/statistical tasks",
+    "Feature engineering and model training",
+    "Evaluate and deploy models",
+    "Communicate insights"
+  ],
+  "prerequisites": [
+    "Python, statistics, SQL",
+    "Bachelor's/Master's in quantitative field"
+  ],
+  "required_skills": [
+    "Python",
+    "SQL",
+    "Statistics",
+    "Machine Learning",
+    "Data Visualization"
+  ],
+  "preferred_skills": [
+    "Deep Learning basics",
+    "Experimentation",
+    "MLOps basics"
+  ],
+  "programming_languages": [
+    "Python",
+    "SQL",
+    "R (optional)"
+  ],
+  "technologies": [
+    "Pandas",
+    "NumPy",
+    "Scikit-learn",
+    "Jupyter",
+    "Power BI"
+  ],
+  "tools": [
+    "Jupyter",
+    "MLflow",
+    "Git",
+    "Docker (basic)",
+    "Tableau"
+  ],
+  "certifications": [
+    "IBM Data Science Professional",
+    "Google Advanced Data Analytics",
+    "AWS ML Specialty (later)"
+  ],
+  "beginner_skills": [
+    "Python",
+    "SQL",
+    "Statistics"
+  ],
+  "intermediate_skills": [
+    "Regression/Classification",
+    "Scikit-learn",
+    "Feature engineering"
+  ],
+  "advanced_skills": [
+    "Model deployment",
+    "Experiment design",
+    "ML system design basics"
+  ],
+  "projects": [
+    "House-price prediction system",
+    "Customer churn classifier",
+    "NLP sentiment dashboard"
+  ],
+  "career_progression": [
+    "Data Analyst",
+    "Junior Data Scientist",
+    "Data Scientist",
+    "Senior Data Scientist",
+    "ML Lead"
+  ],
+  "related_roles": [
+    "Machine Learning Engineer",
+    "Data Analyst",
+    "AI Engineer"
+  ],
+  "learning_resources": [
+    "Andrew Ng ML Specialization",
+    "Hands-On ML (Geron)",
+    "Kaggle Learn"
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "career_role": "Mobile App Developer",
+  "description": "Builds native/cross-platform mobile apps (Flutter/React Native/Android/iOS).",
+  "responsibilities": [
+    "Build mobile UIs",
+    "Integrate APIs",
+    "Publish to stores",
+    "Optimize performance"
+  ],
+  "prerequisites": [
+    "OOP + one mobile framework"
+  ],
+  "required_skills": [
+    "Flutter/React Native",
+    "Dart/Kotlin/Swift basics",
+    "REST APIs",
+    "Git",
+    "App Store Release"
+  ],
+  "preferred_skills": [
+    "Firebase",
+    "Native modules",
+    "CI/CD for mobile"
+  ],
+  "programming_languages": [
+    "Dart",
+    "Kotlin",
+    "Swift",
+    "JavaScript"
+  ],
+  "technologies": [
+    "Flutter",
+    "React Native",
+    "Firebase",
+    "SQLite"
+  ],
+  "tools": [
+    "Android Studio",
+    "Xcode",
+    "VS Code",
+    "Firebase Console"
+  ],
+  "certifications": [
+    "Google Associate Android Developer",
+    "Meta React Native",
+    "Flutter (Udemy/official)"
+  ],
+  "beginner_skills": [
+    "OOP",
+    "Mobile basics",
+    "APIs"
+  ],
+  "intermediate_skills": [
+    "State mgmt",
+    "Firebase",
+    "Publishing"
+  ],
+  "advanced_skills": [
+    "Native bridges",
+    "Performance",
+    "Modular architecture"
+  ],
+  "projects": [
+    "Notes app",
+    "E-commerce app",
+    "Chat app with Firebase"
+  ],
+  "career_progression": [
+    "Junior Mobile Dev",
+    "Mobile Developer",
+    "Senior Mobile Dev",
+    "Mobile Lead"
+  ],
+  "related_roles": [
+    "Frontend Developer",
+    "Full Stack Developer",
+    "UI/UX Designer"
+  ],
+  "learning_resources": [
+    "Flutter docs",
+    "Android Basics (Google)",
+    "React Native docs"
+  ]
+}

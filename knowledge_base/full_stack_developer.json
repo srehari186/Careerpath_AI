@@ -1,0 +1,84 @@
+{
+  "career_role": "Full Stack Developer",
+  "description": "Builds end-to-end web apps: frontend UI plus backend APIs and databases.",
+  "responsibilities": [
+    "Build React frontends",
+    "Design REST APIs",
+    "Model databases",
+    "Deploy apps"
+  ],
+  "prerequisites": [
+    "HTML/CSS/JS plus one backend language"
+  ],
+  "required_skills": [
+    "JavaScript",
+    "React",
+    "Node.js",
+    "SQL",
+    "REST APIs"
+  ],
+  "preferred_skills": [
+    "TypeScript",
+    "Docker",
+    "Cloud deploy"
+  ],
+  "programming_languages": [
+    "JavaScript",
+    "TypeScript",
+    "Python/Node"
+  ],
+  "technologies": [
+    "React",
+    "Node.js",
+    "Express",
+    "PostgreSQL",
+    "MongoDB"
+  ],
+  "tools": [
+    "VS Code",
+    "Git",
+    "Docker",
+    "Vercel",
+    "Postman"
+  ],
+  "certifications": [
+    "Meta Front-End + Back-End Professional",
+    "AWS Developer Associate"
+  ],
+  "beginner_skills": [
+    "HTML/CSS/JS",
+    "React basics",
+    "SQL basics"
+  ],
+  "intermediate_skills": [
+    "Auth",
+    "State management",
+    "API design"
+  ],
+  "advanced_skills": [
+    "System design",
+    "Caching",
+    "CI/CD"
+  ],
+  "projects": [
+    "E-commerce full-stack app",
+    "Blog with auth",
+    "SaaS dashboard"
+  ],
+  "career_progression": [
+    "Frontend/Backend Dev",
+    "Full Stack Developer",
+    "Senior Full Stack",
+    "Engineering Manager"
+  ],
+  "related_roles": [
+    "Frontend Developer",
+    "Backend Developer",
+    "DevOps Engineer"
+  ],
+  "learning_resources": [
+    "freeCodeCamp Full Stack",
+    "Epic React",
+    "Full Stack Open"
+  ]
+}

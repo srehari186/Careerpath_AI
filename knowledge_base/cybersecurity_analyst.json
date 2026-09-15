@@ -1,0 +1,82 @@
+{
+  "career_role": "Cybersecurity Analyst",
+  "description": "Monitors threats, triages alerts, and strengthens security posture (SOC).",
+  "responsibilities": [
+    "Monitor SIEM alerts",
+    "Incident triage",
+    "Vulnerability assessment",
+    "Security awareness"
+  ],
+  "prerequisites": [
+    "Networking + Linux basics"
+  ],
+  "required_skills": [
+    "Networking",
+    "Linux",
+    "SIEM",
+    "Incident Response",
+    "Security Basics"
+  ],
+  "preferred_skills": [
+    "Python scripting",
+    "Threat intel",
+    "Cloud security"
+  ],
+  "programming_languages": [
+    "Python",
+    "Bash"
+  ],
+  "technologies": [
+    "Splunk/Wazuh",
+    "Wireshark",
+    "Nmap",
+    "Linux"
+  ],
+  "tools": [
+    "Splunk",
+    "Wireshark",
+    "Burp Suite (basic)",
+    "VirusTotal"
+  ],
+  "certifications": [
+    "CompTIA Security+",
+    "SC-900",
+    "Google Cybersecurity Certificate"
+  ],
+  "beginner_skills": [
+    "Networking",
+    "Linux",
+    "Security concepts"
+  ],
+  "intermediate_skills": [
+    "SIEM",
+    "Vuln scanning",
+    "Log analysis"
+  ],
+  "advanced_skills": [
+    "Threat hunting",
+    "DFIR basics",
+    "Purple teaming"
+  ],
+  "projects": [
+    "Home SOC lab",
+    "Phishing analysis",
+    "Vuln assessment report"
+  ],
+  "career_progression": [
+    "SOC Analyst L1",
+    "Cybersecurity Analyst",
+    "Senior Analyst",
+    "Security Engineer"
+  ],
+  "related_roles": [
+    "Cybersecurity Engineer",
+    "Network Engineer",
+    "Cloud Engineer"
+  ],
+  "learning_resources": [
+    "TryHackMe SOC paths",
+    "Blue Team Field Manual",
+    "Professor Messer Security+"
+  ]
+}

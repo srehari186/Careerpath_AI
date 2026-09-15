@@ -1,0 +1,84 @@
+{
+  "career_role": "Cybersecurity Engineer",
+  "description": "Designs and implements security controls: hardening, pentesting, secure architecture.",
+  "responsibilities": [
+    "Harden systems and cloud",
+    "Pentesting basics",
+    "Automate security",
+    "Design secure networks"
+  ],
+  "prerequisites": [
+    "Networking, Linux, scripting; Security+ helpful"
+  ],
+  "required_skills": [
+    "Network Security",
+    "Linux Hardening",
+    "Pentesting",
+    "Python",
+    "Cloud Security"
+  ],
+  "preferred_skills": [
+    "K8s security",
+    "DFIR",
+    "DevSecOps"
+  ],
+  "programming_languages": [
+    "Python",
+    "Bash"
+  ],
+  "technologies": [
+    "Burp Suite",
+    "Metasploit",
+    "Nmap",
+    "AWS Security",
+    "Docker"
+  ],
+  "tools": [
+    "Burp Suite",
+    "Metasploit",
+    "Nessus",
+    "BloodHound"
+  ],
+  "certifications": [
+    "CompTIA Security+/CySA+",
+    "CEH",
+    "OSCP (advanced)",
+    "CISSP (experienced)"
+  ],
+  "beginner_skills": [
+    "Networking",
+    "Linux",
+    "Web security basics"
+  ],
+  "intermediate_skills": [
+    "Pentest methodology",
+    "Cloud IAM",
+    "Scripting"
+  ],
+  "advanced_skills": [
+    "Exploit dev basics",
+    "Red team ops",
+    "Security architecture"
+  ],
+  "projects": [
+    "Pentest lab writeups",
+    "Secure cloud baseline",
+    "SAST in CI pipeline"
+  ],
+  "career_progression": [
+    "Security Analyst",
+    "Security Engineer",
+    "Senior Security Engineer",
+    "Security Architect"
+  ],
+  "related_roles": [
+    "Cybersecurity Analyst",
+    "Network Engineer",
+    "DevOps Engineer"
+  ],
+  "learning_resources": [
+    "HackTheBox",
+    "PortSwigger Academy",
+    "OWASP guides"
+  ]
+}

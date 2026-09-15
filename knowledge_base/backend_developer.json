@@ -1,0 +1,84 @@
+{
+  "career_role": "Backend Developer",
+  "description": "Builds server-side logic, APIs, databases, and integrations.",
+  "responsibilities": [
+    "Design APIs and schemas",
+    "Auth and caching",
+    "Optimize queries",
+    "Ensure reliability"
+  ],
+  "prerequisites": [
+    "One backend language + SQL"
+  ],
+  "required_skills": [
+    "Python/Java/Node",
+    "REST APIs",
+    "SQL",
+    "Auth",
+    "Caching"
+  ],
+  "preferred_skills": [
+    "Kafka",
+    "Microservices",
+    "K8s basics"
+  ],
+  "programming_languages": [
+    "Python",
+    "Java",
+    "Go (optional)"
+  ],
+  "technologies": [
+    "Django/FastAPI",
+    "Spring/Express",
+    "PostgreSQL",
+    "Redis"
+  ],
+  "tools": [
+    "Postman",
+    "Docker",
+    "Git",
+    "Linux",
+    "Nginx"
+  ],
+  "certifications": [
+    "AWS Developer Associate",
+    "Oracle Java Professional",
+    "MongoDB Developer"
+  ],
+  "beginner_skills": [
+    "Backend language",
+    "SQL",
+    "REST"
+  ],
+  "intermediate_skills": [
+    "Auth/JWT",
+    "ORMs",
+    "Testing"
+  ],
+  "advanced_skills": [
+    "Microservices",
+    "Message queues",
+    "System design"
+  ],
+  "projects": [
+    "REST API with auth",
+    "URL shortener",
+    "Payment integration"
+  ],
+  "career_progression": [
+    "Junior Backend",
+    "Backend Developer",
+    "Senior Backend",
+    "Backend Architect"
+  ],
+  "related_roles": [
+    "Full Stack Developer",
+    "DevOps Engineer",
+    "Database Administrator"
+  ],
+  "learning_resources": [
+    "Django/Node docs",
+    "Designing Data-Intensive Applications",
+    "Backend roadmap.sh"
+  ]
+}

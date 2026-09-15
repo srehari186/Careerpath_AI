@@ -1,0 +1,83 @@
+{
+  "career_role": "Cloud Engineer",
+  "description": "Designs and operates cloud infrastructure (AWS/Azure/GCP) for scalable apps.",
+  "responsibilities": [
+    "Provision infra with IaC",
+    "Manage networking and IAM",
+    "Cost optimization",
+    "Monitoring"
+  ],
+  "prerequisites": [
+    "Linux, networking basics, one cloud"
+  ],
+  "required_skills": [
+    "AWS/Azure",
+    "Linux",
+    "Networking",
+    "Terraform",
+    "Docker"
+  ],
+  "preferred_skills": [
+    "Kubernetes",
+    "CI/CD",
+    "Python scripting"
+  ],
+  "programming_languages": [
+    "Python",
+    "Bash"
+  ],
+  "technologies": [
+    "AWS",
+    "Terraform",
+    "Docker",
+    "Linux",
+    "CloudWatch"
+  ],
+  "tools": [
+    "AWS Console",
+    "Terraform",
+    "Docker",
+    "GitHub Actions"
+  ],
+  "certifications": [
+    "AWS Solutions Architect Associate",
+    "AZ-104 Azure Administrator",
+    "Google Associate Cloud Engineer"
+  ],
+  "beginner_skills": [
+    "Linux",
+    "Cloud basics",
+    "Networking"
+  ],
+  "intermediate_skills": [
+    "IaC",
+    "IAM",
+    "Containers"
+  ],
+  "advanced_skills": [
+    "Multi-cloud design",
+    "Cost governance",
+    "SRE basics"
+  ],
+  "projects": [
+    "3-tier app on AWS",
+    "Terraform VPC module",
+    "Static site + CDN"
+  ],
+  "career_progression": [
+    "Cloud Support",
+    "Cloud Engineer",
+    "Senior Cloud Engineer",
+    "Cloud Architect"
+  ],
+  "related_roles": [
+    "DevOps Engineer",
+    "Network Engineer",
+    "Backend Developer"
+  ],
+  "learning_resources": [
+    "AWS Skill Builder",
+    "A Cloud Guru",
+    "Terraform docs"
+  ]
+}
