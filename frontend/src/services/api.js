@@ -1,5 +1,5 @@
 import axios from 'axios';
-const BASE = import.meta.env.VITE_API_URL || 'http://localhost:8000';
+const BASE = (import.meta.env.VITE_API_URL || 'http://localhost:8000').replace(/\/+$/, '');
 export const api = {
   predict: (profile) => axios.post(`${BASE}/predict-career`, profile).then(r => r.data),
   pathway: (profile, target_role) => axios.post(`${BASE}/career-pathway`, { profile, target_role }).then(r => r.data),
